@@ -4,6 +4,16 @@ Create a geographically accurate, cute low-poly RPI campus map for disability-ac
 
 ## Validated pilot (2026-10-10)
 
+### Latest presentation pass: pavement and landmarks
+
+[Open pass 02 Blender file](blender/working/rpi_lowpoly_20261010_pass02_v03.blend) · [Review and limitations](blender/working/rpi_lowpoly_20261010_pass02_REVIEW.md) · [Validation](blender/working/rpi_lowpoly_20261010_pass02_validation.json)
+
+Pass 02 adds 316 flat pavement displays, EMPAC/VCC/Folsom architectural cues, eight building labels and closer framing. All 455 baseline objects are preserved; all 7,747 display centerline stations have zero XY drift. Widths and landmark dimensions remain illustrative. The original pilot and full-extent camera are retained.
+
+![Pass 02 overview](renders/rpi_lowpoly_20261010_pass02_overview_v03.png)
+
+### Original pilot
+
 The deterministic GIS pilot and first low-poly styling pass are complete. The setup notes below record the earlier scaffold state; they are historical, not the current pilot status.
 
 - [Final Blender project](blender/working/rpi_lowpoly_20261010_01_final.blend)

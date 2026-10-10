@@ -20,6 +20,7 @@ __pycache__/
 !/renders/.gitkeep
 !/renders/README.md
 !/renders/rpi_lowpoly_20261010_01_final_overview.png
+!/renders/rpi_lowpoly_20261010_pass02_overview_v03.png
 /exports/*
 !/exports/.gitkeep
 !/exports/README.md

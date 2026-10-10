@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "errors": [],
+  "baseline_objects_compared": 455,
+  "checks": [
+    "exact world transforms and world-space vertices",
+    "edges, faces and loops",
+    "source metadata and ordered topology",
+    "nested collection hierarchy and linked memberships",
+    "source graph including ordered relation members and multilevel tags"
+  ],
+  "original_display_objects_compared": 344,
+  "ribbons": 316,
+  "centerline_stations": 7747,
+  "max_centerline_xy_error_m": 0,
+  "max_pavement_terrain_error_m": 0.000011258015001652799,
+  "labels": 8,
+  "landmarks": 3,
+  "source_widths_inferred": false,
+  "limitations": [
+    "All existing illustrative widths retained; no measured pavement edges added.",
+    "Roof rise, window bays, facade details and heights are illustrative.",
+    "No route graph connectivity, accessibility or source elevation inferred.",
+    "Original full-extent camera and 32 omitted multilevel/indoor source lines retained."
+  ],
+  "run": "rpi_lowpoly_20261010_pass02",
+  "blender_file": "rpi_lowpoly_20261010_pass02_v03.blend",
+  "overview": "../../renders/rpi_lowpoly_20261010_pass02_overview_v03.png",
+  "gis_validation": {
+    "passed": true,
+    "raw_files_verified": 47,
+    "source_graph_elements": 4108,
+    "source_way_segments": 4488,
+    "boundary_review_count": 78,
+    "nys_buildings_separate": 27
+  }
+}
