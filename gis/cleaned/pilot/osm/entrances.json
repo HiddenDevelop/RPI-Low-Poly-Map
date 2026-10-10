@@ -1,0 +1,1305 @@
+{
+  "crs": "EPSG:26918",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          607789.6423204346,
+          4731726.5378051065
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208042121",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 67783153,
+        "id": 1208042121,
+        "lat": 42.7304826,
+        "lon": -73.6833129,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2019-03-04T21:33:19Z",
+        "type": "node",
+        "uid": 9490130,
+        "user": "baxtea",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608150.7725972524,
+          4731652.818114722
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208042334",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162599150,
+        "id": 1208042334,
+        "lat": 42.7297681,
+        "lon": -73.6789168,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-17T07:39:19Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608296.7189011448,
+          4731558.747877491
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208043427",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 162599150,
+        "id": 1208043427,
+        "lat": 42.7289006,
+        "lon": -73.6771525,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2025-02-17T07:39:19Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608419.4163582183,
+          4731753.649307005
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208046509",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162105092,
+        "id": 1208046509,
+        "lat": 42.730638,
+        "lon": -73.6756168,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-03T22:51:46Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607873.8435095899,
+          4731693.585677514
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12554896705",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162105092,
+        "id": 12554896705,
+        "lat": 42.7301741,
+        "lon": -73.6822909,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-03T22:51:46Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607809.1889420717,
+          4731718.10128438
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12554896707",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162105092,
+        "id": 12554896707,
+        "lat": 42.7304039,
+        "lon": -73.6830758,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-03T22:51:46Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607915.1031886435,
+          4731503.3739454765
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12567024588",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12567024588,
+        "lat": 42.7284558,
+        "lon": -73.6818233,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607963.8052929528,
+          4731487.962361396
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12567024589",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12567024589,
+        "lat": 42.7283102,
+        "lon": -73.6812315,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607989.2555426864,
+          4731675.106173451
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12567036514",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162268945,
+        "id": 12567036514,
+        "lat": 42.7299915,
+        "lon": -73.680885,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-08T06:26:08Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607964.4683697172,
+          4731687.703300502
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12567036515",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 162268945,
+        "id": 12567036515,
+        "lat": 42.7301084,
+        "lon": -73.6811853,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-02-08T06:26:08Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607794.0881667646,
+          4731549.635452526
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745941295",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12745941295,
+        "lat": 42.7288893,
+        "lon": -73.6832923,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607789.9697475081,
+          4731515.471995577
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997510",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12745997510,
+        "lat": 42.7285823,
+        "lon": -73.6833491,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607882.4889622958,
+          4731594.544012362
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997520",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12745997520,
+        "lat": 42.7292812,
+        "lon": -73.6822042,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607934.0593845082,
+          4731602.013516716
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997521",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12745997521,
+        "lat": 42.7293412,
+        "lon": -73.681573,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607865.2030119798,
+          4731596.617846492
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997532",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 12745997532,
+        "lat": 42.7293023,
+        "lon": -73.6824149,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608096.657003322,
+          4731557.326574122
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13119544664",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 13119544664,
+        "lat": 42.728916,
+        "lon": -73.6795959,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608072.744506895,
+          4731644.344525545
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13119544666",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 172684903,
+        "id": 13119544666,
+        "lat": 42.7297028,
+        "lon": -73.6798713,
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "timestamp": "2025-10-01T01:50:10Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608001.5906479445,
+          4731651.329464127
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13119544669",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "-1"
+      },
+      "source": {
+        "changeset": 173120815,
+        "id": 13119544669,
+        "lat": 42.7297757,
+        "lon": -73.6807389,
+        "tags": {
+          "entrance": "yes",
+          "level": "-1"
+        },
+        "timestamp": "2025-10-11T04:27:48Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608114.4158242766,
+          4731490.483183168
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13119544670",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 13119544670,
+        "lat": 42.7283117,
+        "lon": -73.6793918,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607837.217309702,
+          4731748.60587176
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13119544694",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 13119544694,
+        "lat": 42.7306746,
+        "lon": -73.6827277,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608064.959682468,
+          4731647.321725259
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13184386878",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "1"
+      },
+      "source": {
+        "changeset": 173120862,
+        "id": 13184386878,
+        "lat": 42.7297307,
+        "lon": -73.6799658,
+        "tags": {
+          "entrance": "yes",
+          "level": "1"
+        },
+        "timestamp": "2025-10-11T04:31:32Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608041.644863194,
+          4731651.100228762
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13184386884",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "1"
+      },
+      "source": {
+        "changeset": 173120862,
+        "id": 13184386884,
+        "lat": 42.729768,
+        "lon": -73.6802498,
+        "tags": {
+          "entrance": "yes",
+          "level": "1"
+        },
+        "timestamp": "2025-10-11T04:31:32Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608078.6431366999,
+          4731645.736312699
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13185189571",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "1"
+      },
+      "source": {
+        "changeset": 172684903,
+        "id": 13185189571,
+        "lat": 42.7297145,
+        "lon": -73.679799,
+        "tags": {
+          "entrance": "yes",
+          "level": "1"
+        },
+        "timestamp": "2025-10-01T01:50:10Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608054.954356926,
+          4731616.342656234
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13208030126",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 173120496,
+        "id": 13208030126,
+        "lat": 42.7294532,
+        "lon": -73.6800939,
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "timestamp": "2025-10-11T04:03:17Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608029.944797242,
+          4731601.234588457
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13208046513",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "-1"
+      },
+      "source": {
+        "changeset": 173120815,
+        "id": 13208046513,
+        "lat": 42.7293207,
+        "lon": -73.6804022,
+        "tags": {
+          "entrance": "yes",
+          "level": "-1"
+        },
+        "timestamp": "2025-10-11T04:27:48Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608009.7461957596,
+          4731623.055663025
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13226654252",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 173154878,
+        "id": 13226654252,
+        "lat": 42.72952,
+        "lon": -73.6806447,
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "timestamp": "2025-10-11T20:34:11Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607986.282046391,
+          4731553.579694772
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13235616012",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "1",
+        "level:ref": "100"
+      },
+      "source": {
+        "changeset": 173341269,
+        "id": 13235616012,
+        "lat": 42.7288978,
+        "lon": -73.6809445,
+        "tags": {
+          "entrance": "yes",
+          "level": "1",
+          "level:ref": "100"
+        },
+        "timestamp": "2025-10-15T22:57:49Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608020.1253082333,
+          4731570.924919614
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13235616030",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 173341058,
+        "id": 13235616030,
+        "lat": 42.7290492,
+        "lon": -73.6805279,
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "timestamp": "2025-10-15T22:44:39Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608020.3193807158,
+          4731495.631886618
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/13235632201",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "1",
+        "level:ref": "100"
+      },
+      "source": {
+        "changeset": 173341269,
+        "id": 13235632201,
+        "lat": 42.7283713,
+        "lon": -73.6805399,
+        "tags": {
+          "entrance": "yes",
+          "level": "1",
+          "level:ref": "100"
+        },
+        "timestamp": "2025-10-15T22:57:49Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608190.5335431548,
+          4731653.540377341
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2870374443",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 2870374443,
+        "lat": 42.729769,
+        "lon": -73.6784311,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2018-02-07T05:01:38Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608215.5852747886,
+          4731638.7267323285
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2870374452",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 2870374452,
+        "lat": 42.7296321,
+        "lon": -73.678128,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2018-02-07T05:01:38Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607893.7668219506,
+          4731505.762123221
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2872819779",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 2872819779,
+        "lat": 42.7284803,
+        "lon": -73.6820834,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607930.4679959642,
+          4731574.000487458
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2872820210",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 2872820210,
+        "lat": 42.7290895,
+        "lon": -73.6816222,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608140.5112062079,
+          4731759.120661461
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2926254409",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 2926254409,
+        "lat": 42.7307266,
+        "lon": -73.6790218,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608175.4765861665,
+          4731741.307548455
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2926254410",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "emergency"
+      },
+      "source": {
+        "changeset": 23065464,
+        "id": 2926254410,
+        "lat": 42.7305613,
+        "lon": -73.6785982,
+        "tags": {
+          "entrance": "emergency"
+        },
+        "timestamp": "2014-06-21T16:23:53Z",
+        "type": "node",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608312.7386547106,
+          4731643.236440105
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/3035635810",
+      "scope": "inside",
+      "semantics": {
+        "access": "permit",
+        "entrance": "garage",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 130523111,
+        "id": 3035635810,
+        "lat": 42.729659,
+        "lon": -73.6769407,
+        "tags": {
+          "access": "permit",
+          "entrance": "garage",
+          "level": "0"
+        },
+        "timestamp": "2022-12-26T16:09:28Z",
+        "type": "node",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608191.9557985787,
+          4731638.534512901
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/5394988067",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "emergency"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 5394988067,
+        "lat": 42.7296337,
+        "lon": -73.6784166,
+        "tags": {
+          "entrance": "emergency"
+        },
+        "timestamp": "2018-02-07T05:01:37Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608226.0750091233,
+          4731652.31966677
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/5394988070",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "staircase"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 5394988070,
+        "lat": 42.729753,
+        "lon": -73.6779973,
+        "tags": {
+          "entrance": "staircase"
+        },
+        "timestamp": "2018-02-07T05:01:37Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608278.2100702372,
+          4731516.55017454
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/5394988072",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 5394988072,
+        "lat": 42.7285233,
+        "lon": -73.6773866,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2018-02-07T05:01:37Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608292.9137699291,
+          4731596.20860945
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/5394988073",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "main"
+      },
+      "source": {
+        "changeset": 56137573,
+        "id": 5394988073,
+        "lat": 42.7292384,
+        "lon": -73.6771918,
+        "tags": {
+          "entrance": "main"
+        },
+        "timestamp": "2018-02-07T05:01:37Z",
+        "type": "node",
+        "uid": 7582678,
+        "user": "pikkit",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608041.7210971883,
+          4731552.9799286015
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/6384901314",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes",
+        "level": "0"
+      },
+      "source": {
+        "changeset": 173341058,
+        "id": 6384901314,
+        "lat": 42.7288846,
+        "lon": -73.6802676,
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "timestamp": "2025-10-15T22:44:39Z",
+        "type": "node",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607906.988843691,
+          4731688.471721511
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/8867005946",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 8867005946,
+        "lat": 42.7301234,
+        "lon": -73.6818871,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          607841.0959794098,
+          4731518.913033386
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/8867005949",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 8867005949,
+        "lat": 42.7286061,
+        "lon": -73.6827241,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608303.0529950734,
+          4731655.680302793
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/8872844999",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 8872844999,
+        "lat": 42.7297724,
+        "lon": -73.6770566,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608211.5268864287,
+          4731529.734251205
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/8872859424",
+      "scope": "inside",
+      "semantics": {
+        "entrance": "yes"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 8872859424,
+        "lat": 42.7286514,
+        "lon": -73.6781984,
+        "tags": {
+          "entrance": "yes"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    }
+  ],
+  "format_note": "Projected JSON feature layer; NOT RFC 7946 GeoJSON.",
+  "local_origin_offset": [
+    0,
+    0
+  ],
+  "schema": "rpi-source-layer-v1",
+  "source": "OpenStreetMap",
+  "units": "metre"
+}

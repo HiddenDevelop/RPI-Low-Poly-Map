@@ -1,0 +1,24 @@
+{
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_Hudson_D22/NY_Hudson_1_D22/reports/vendor_provided_xml/NY_Hudson_1_D22_DigitalElevationModel.xml",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_Hudson_D22/NY_Hudson_1_D22/reports/vendor_provided_xml/NY_Hudson_1_D22_DigitalElevationModel.xml",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:07:37.513138+00:00",
+  "download_completed_utc": "2026-10-10T04:07:38.032568+00:00",
+  "response_headers": {
+    "x-amz-id-2": "kQChDMB4JkOQDBaQJ5sFRlSEBFDt6u5B0ZXaMPE2hcIPGZbcS0w6rpau8RNhoobAGZDuUvjP6GA=",
+    "x-amz-request-id": "0NEXS64G651MX3HC",
+    "Date": "Sat, 10 Oct 2026 04:07:39 GMT",
+    "Last-Modified": "Tue, 01 Oct 2024 14:58:31 GMT",
+    "ETag": "\"de97ba5fd885852cff26d06c012eab89\"",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-meta-mtime": "1704829974.2244061",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "text/xml; charset=utf-8",
+    "Content-Length": "8567",
+    "Server": "AmazonS3"
+  },
+  "bytes": 8567,
+  "sha256": "3db11ffad40295af82848d589b0c9366ebbdd113f4a7c1b178d1d9895fe3ac10"
+}

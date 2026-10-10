@@ -1,0 +1,603 @@
+{
+  "pilot": {
+    "bbox_wgs84": [
+      -73.683585,
+      42.728278,
+      -73.675583,
+      42.730755
+    ],
+    "bbox_order": "west,south,east,north",
+    "crs": "EPSG:4326",
+    "method": "Envelope of complete OSM footprints for seven exact-name matches; 50 m geodesic outward margin, rounded outward to 6 decimals. Acquisition selection only; no geometry clipped.",
+    "osm_snapshot_utc": "2026-10-10T04:03:46Z",
+    "buildings": [
+      {
+        "name": "Darrin Communications Center",
+        "osm_type": "way",
+        "osm_id": 104737313,
+        "bounds": {
+          "minlat": 42.7287287,
+          "minlon": -73.6796245,
+          "maxlat": 42.7298638,
+          "maxlon": -73.6789137
+        }
+      },
+      {
+        "name": "J Erik Jonsson Engineering Center",
+        "osm_type": "way",
+        "osm_id": 104737275,
+        "bounds": {
+          "minlat": 42.729258,
+          "minlon": -73.6808604,
+          "maxlat": 42.729886,
+          "maxlon": -73.6797099
+        }
+      },
+      {
+        "name": "Folsom Library",
+        "osm_type": "way",
+        "osm_id": 104737293,
+        "bounds": {
+          "minlat": 42.7290449,
+          "minlon": -73.6829738,
+          "maxlat": 42.7297155,
+          "maxlon": -73.68235
+        }
+      },
+      {
+        "name": "Greene Building",
+        "osm_type": "way",
+        "osm_id": 104737202,
+        "bounds": {
+          "minlat": 42.7298899,
+          "minlon": -73.6814837,
+          "maxlat": 42.7301379,
+          "maxlon": -73.6808683
+        }
+      },
+      {
+        "name": "Amos Eaton Hall",
+        "osm_type": "way",
+        "osm_id": 104737189,
+        "bounds": {
+          "minlat": 42.7300505,
+          "minlon": -73.6828829,
+          "maxlat": 42.7303044,
+          "maxlon": -73.6822735
+        }
+      },
+      {
+        "name": "Lally Hall",
+        "osm_type": "way",
+        "osm_id": 104737314,
+        "bounds": {
+          "minlat": 42.7299732,
+          "minlon": -73.6821114,
+          "maxlat": 42.730151,
+          "maxlon": -73.6816963
+        }
+      },
+      {
+        "name": "Rensselaer Student Union",
+        "osm_type": "way",
+        "osm_id": 104737234,
+        "bounds": {
+          "minlat": 42.7295449,
+          "minlon": -73.6770961,
+          "maxlat": 42.7302694,
+          "maxlon": -73.6761942
+        }
+      }
+    ],
+    "width_m": 655.34560664596,
+    "height_m": 275.1636590901618
+  },
+  "osm": {
+    "crs": "EPSG:4326 (WGS84 degrees, named lon/lat)",
+    "requested_snapshot_utc": "2026-10-10T04:03:46Z",
+    "response_server_base": {
+      "timestamp_osm_base": "2026-10-10T04:04:49Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "element_counts": {
+      "node": 3363,
+      "way": 741,
+      "relation": 4
+    },
+    "geometry_counts_all_nonrelations": {
+      "Point": 3363,
+      "LineString": 711,
+      "Polygon": 30
+    },
+    "geometry_counts_intersecting_pilot_nonrelations": {
+      "Point": 2067,
+      "LineString": 564,
+      "Polygon": 30
+    },
+    "geometry_policy": "Only tagged closed area ways classified as polygons; relations remain raw member graphs, not flattened or merged.",
+    "all_response_bounds": [
+      -73.6910655,
+      42.68993,
+      -73.614357,
+      42.7467
+    ],
+    "all_response_counts": {
+      "buildings_tagged": 28,
+      "path_footway_pedestrian_ways": 243,
+      "steps_ways": 52,
+      "road_ways": 196,
+      "entrances_tagged": 58,
+      "landcover_landuse_tagged": 3
+    },
+    "pilot_intersecting_nonrelation_counts": {
+      "buildings_tagged": 27,
+      "path_footway_pedestrian_ways": 243,
+      "steps_ways": 52,
+      "road_ways": 53,
+      "entrances_tagged": 45,
+      "landcover_landuse_tagged": 3
+    },
+    "relations": [
+      {
+        "id": 6249058,
+        "tags": {
+          "addr:city": "Troy",
+          "addr:housenumber": "1649",
+          "addr:postcode": "12180",
+          "addr:state": "NY",
+          "addr:street": "15th Street",
+          "building": "yes",
+          "building:levels": "3",
+          "fast_food": "cafeteria",
+          "name": "Russell Sage Dining Hall",
+          "nysgissam:nysaddresspointid": "RENS012943",
+          "type": "multipolygon"
+        },
+        "members": 1
+      },
+      {
+        "id": 8670722,
+        "tags": {
+          "addr:city": "Troy",
+          "addr:flats": "209;4213",
+          "addr:housenumber": "110",
+          "addr:postcode": "12180",
+          "addr:state": "NY",
+          "addr:street": "8th Street",
+          "amenity": "university",
+          "education": "university",
+          "name": "Rensselaer Polytechnic Institute",
+          "nysgissam:nysaddresspointid": "RENS081205;RENS045006;RENS080924",
+          "short_name": "RPI",
+          "smoking": "no",
+          "type": "multipolygon",
+          "website": "https://rpi.edu",
+          "wikidata": "Q49211",
+          "wikipedia": "en:Rensselaer Polytechnic Institute"
+        },
+        "members": 5
+      },
+      {
+        "id": 9312043,
+        "tags": {
+          "name": "CDTA 286 Troy/Wynantskill via RPI campus",
+          "network": "Capital District Transportation Authority",
+          "network:short": "CDTA",
+          "network:wikidata": "Q5035551",
+          "network:wikipedia": "en:Capital District Transportation Authority",
+          "operator": "Capitol District Transportation Authority",
+          "public_transport:version": "1",
+          "ref": "286",
+          "route": "bus",
+          "type": "route"
+        },
+        "members": 92
+      },
+      {
+        "id": 9312045,
+        "tags": {
+          "name": "CDTA 87 Sycaway/Beman Park",
+          "network": "Capital District Transportation Authority",
+          "network:short": "CDTA",
+          "network:wikidata": "Q5035551",
+          "network:wikipedia": "en:Capital District Transportation Authority",
+          "operator": "Capital District Transportation Authority",
+          "public_transport:version": "1",
+          "ref": "87",
+          "route": "bus",
+          "type": "route"
+        },
+        "members": 111
+      }
+    ],
+    "accessibility_related_tag_values": {
+      "access": {
+        "permit": 2,
+        "yes": 109,
+        "private": 2,
+        "permissive": 1
+      },
+      "entrance": {
+        "yes": 35,
+        "main": 6,
+        "emergency": 2,
+        "garage": 1,
+        "staircase": 1
+      },
+      "foot": {
+        "permissive": 23,
+        "yes": 101
+      },
+      "footway": {
+        "sidewalk": 13,
+        "crossing": 19
+      },
+      "handrail": {
+        "no": 3,
+        "yes": 17
+      },
+      "incline": {
+        "10%": 1,
+        "0%": 3,
+        "5%": 2,
+        "down": 11,
+        "up": 15
+      },
+      "kerb": {
+        "lowered": 9,
+        "flush": 5,
+        "raised": 1
+      },
+      "level": {
+        "0": 141,
+        "1": 96,
+        "-1": 24,
+        "1;0": 3,
+        "1;0;-1": 5,
+        "0;-1": 2,
+        "0;1": 2,
+        "-1;0": 1
+      },
+      "level:ref": {
+        "BC": 1,
+        "100": 2,
+        "3000": 49,
+        "2000": 77,
+        "1000": 17,
+        "BMT": 27,
+        "BW": 2,
+        "BMTb": 1
+      },
+      "ramp": {
+        "no": 11,
+        "yes": 1
+      },
+      "ramp:wheelchair": {
+        "yes": 1
+      },
+      "step_count": {
+        "14": 1,
+        "8": 1,
+        "16": 1,
+        "7": 1,
+        "5": 2,
+        "35": 1
+      },
+      "surface": {
+        "asphalt": 35,
+        "concrete": 84,
+        "concrete:plates": 16,
+        "paving_stones": 20,
+        "paved": 1,
+        "grass": 1
+      },
+      "tactile_paving": {
+        "no": 29,
+        "yes": 4
+      },
+      "wheelchair": {
+        "yes": 4
+      },
+      "width": {
+        "2": 2,
+        "3": 1,
+        "1.5": 2
+      }
+    },
+    "missing_references": [],
+    "duplicate_type_ids": 0,
+    "limitations": "Recursive relation members extend beyond pilot. Counts of ways are source segments, not physical path counts. Missing accessibility tags mean unknown; tags are unverified claims."
+  },
+  "nys": {
+    "count": 27,
+    "crs": {
+      "wkid": 26918,
+      "latestWkid": 26918
+    },
+    "geometry_type": "esriGeometryPolygon",
+    "source_dates": {
+      "2014": 27
+    },
+    "sources": {
+      "NYSERDA": 27
+    },
+    "fields": [
+      "COUNTYNAME",
+      "MUNINAME",
+      "NYSGEO_SOURCE",
+      "SOURCE",
+      "SOURCEDATE",
+      "SOURCEID",
+      "OBJECTID"
+    ],
+    "native_bounds": [
+      607704.4009999996,
+      4731396.8269,
+      608445.8529000003,
+      4731803.465600001
+    ],
+    "comparison_note": "Intersection measurements only, in memory; no source merge or repair. Overlap is not a survey accuracy measurement. Z retained in raw response but not interpreted as reliable height."
+  },
+  "selected_building_comparison": [
+    {
+      "name": "Darrin Communications Center",
+      "osm_type": "way",
+      "osm_id": 104737313,
+      "bounds": {
+        "minlat": 42.7287287,
+        "minlon": -73.6796245,
+        "maxlat": 42.7298638,
+        "maxlon": -73.6789137
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 4904.887958710749,
+      "vertex_count": 26,
+      "osm_edit_timestamp": "2025-11-12T01:47:45Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218348,
+          "source_date": "2014",
+          "intersection_over_union": 0.7099148891714201,
+          "osm_area_covered_fraction": 0.7320706215922613
+        },
+        {
+          "OBJECTID": 3218349,
+          "source_date": "2014",
+          "intersection_over_union": 0.05685769257085289,
+          "osm_area_covered_fraction": 0.09067240415393603
+        }
+      ]
+    },
+    {
+      "name": "J Erik Jonsson Engineering Center",
+      "osm_type": "way",
+      "osm_id": 104737275,
+      "bounds": {
+        "minlat": 42.729258,
+        "minlon": -73.6808604,
+        "maxlat": 42.729886,
+        "maxlon": -73.6797099
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 3999.3981331751816,
+      "vertex_count": 52,
+      "osm_edit_timestamp": "2025-11-12T01:47:45Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218270,
+          "source_date": "2014",
+          "intersection_over_union": 0.7887997413535187,
+          "osm_area_covered_fraction": 0.8780824410209641
+        }
+      ]
+    },
+    {
+      "name": "Folsom Library",
+      "osm_type": "way",
+      "osm_id": 104737293,
+      "bounds": {
+        "minlat": 42.7290449,
+        "minlon": -73.6829738,
+        "maxlat": 42.7297155,
+        "maxlon": -73.68235
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 2882.4029749110637,
+      "vertex_count": 13,
+      "osm_edit_timestamp": "2025-04-11T02:58:24Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218269,
+          "source_date": "2014",
+          "intersection_over_union": 0.6094134703333601,
+          "osm_area_covered_fraction": 0.747622247132912
+        }
+      ]
+    },
+    {
+      "name": "Greene Building",
+      "osm_type": "way",
+      "osm_id": 104737202,
+      "bounds": {
+        "minlat": 42.7298899,
+        "minlon": -73.6814837,
+        "maxlat": 42.7301379,
+        "maxlon": -73.6808683
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 974.5030806744066,
+      "vertex_count": 7,
+      "osm_edit_timestamp": "2025-02-18T07:20:33Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218268,
+          "source_date": "2014",
+          "intersection_over_union": 0.7586830550957531,
+          "osm_area_covered_fraction": 0.9040543985849112
+        }
+      ]
+    },
+    {
+      "name": "Amos Eaton Hall",
+      "osm_type": "way",
+      "osm_id": 104737189,
+      "bounds": {
+        "minlat": 42.7300505,
+        "minlon": -73.6828829,
+        "maxlat": 42.7303044,
+        "maxlon": -73.6822735
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 964.613031909782,
+      "vertex_count": 8,
+      "osm_edit_timestamp": "2025-02-03T22:51:46Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218266,
+          "source_date": "2014",
+          "intersection_over_union": 0.7705172434329572,
+          "osm_area_covered_fraction": 0.8435169390638778
+        }
+      ]
+    },
+    {
+      "name": "Lally Hall",
+      "osm_type": "way",
+      "osm_id": 104737314,
+      "bounds": {
+        "minlat": 42.7299732,
+        "minlon": -73.6821114,
+        "maxlat": 42.730151,
+        "maxlon": -73.6816963
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 441.684329785577,
+      "vertex_count": 6,
+      "osm_edit_timestamp": "2025-02-18T07:20:33Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218267,
+          "source_date": "2014",
+          "intersection_over_union": 0.6938586807189829,
+          "osm_area_covered_fraction": 0.819355668150142
+        }
+      ]
+    },
+    {
+      "name": "Rensselaer Student Union",
+      "osm_type": "way",
+      "osm_id": 104737234,
+      "bounds": {
+        "minlat": 42.7295449,
+        "minlon": -73.6770961,
+        "maxlat": 42.7302694,
+        "maxlon": -73.6761942
+      },
+      "closed": true,
+      "valid": true,
+      "fully_in_pilot": true,
+      "area_m2": 4208.662523339051,
+      "vertex_count": 28,
+      "osm_edit_timestamp": "2022-10-03T03:48:39Z",
+      "nys_matches": [
+        {
+          "OBJECTID": 3218346,
+          "source_date": "2014",
+          "intersection_over_union": 0.5475813081551721,
+          "osm_area_covered_fraction": 0.5475813081551723
+        }
+      ]
+    }
+  ],
+  "elevation": [
+    {
+      "file": "elevation/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.tif",
+      "dimensions": [
+        10012,
+        10012
+      ],
+      "crs": "EPSG:26918",
+      "wkt": "PROJCS[\"NAD83 / UTM zone 18N\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-75],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26918\"]]",
+      "pixel_size": [
+        1.0,
+        1.0
+      ],
+      "native_bounds": [
+        599993.9999905542,
+        4729994.000001899,
+        610005.9999905542,
+        4740006.000001899
+      ],
+      "wgs84_bounds": [
+        -73.77882341919027,
+        42.71457007223783,
+        -73.65463412725317,
+        42.806080999699844
+      ],
+      "nodata": -999999.0,
+      "dtype": "float32",
+      "pilot_pixel_center_count": 180236,
+      "valid_pilot_pixel_count": 180236,
+      "valid_pilot_fraction": 1.0,
+      "pilot_min_m": 48.97327423095703,
+      "pilot_max_m": 82.30083465576172,
+      "statistics_method": "Native pixel centers inside WGS84 pilot envelope; read-only window; exclude masked/nonfinite values; no resampling."
+    },
+    {
+      "file": "elevation/USGS_1M_18_x60y474_NY_Hudson_D22.tif",
+      "dimensions": [
+        10012,
+        10012
+      ],
+      "crs": "EPSG:26918",
+      "wkt": "PROJCS[\"NAD83 / UTM zone 18N\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-75],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26918\"]]",
+      "pixel_size": [
+        1.0,
+        1.0
+      ],
+      "native_bounds": [
+        599993.9999905542,
+        4729994.000001899,
+        610005.9999905542,
+        4740006.000001899
+      ],
+      "wgs84_bounds": [
+        -73.77882341919027,
+        42.71457007223783,
+        -73.65463412725317,
+        42.806080999699844
+      ],
+      "nodata": -999999.0,
+      "dtype": "float32",
+      "pilot_pixel_center_count": 180236,
+      "valid_pilot_pixel_count": 4996,
+      "valid_pilot_fraction": 0.027719212587940256,
+      "pilot_min_m": 71.69583129882812,
+      "pilot_max_m": 80.17103576660156,
+      "statistics_method": "Native pixel centers inside WGS84 pilot envelope; read-only window; exclude masked/nonfinite values; no resampling."
+    }
+  ],
+  "issues": [],
+  "recommended_crs": {
+    "epsg": 26918,
+    "name": "NAD83 / UTM zone 18N",
+    "area_of_use": "- name: North America - between 78\u00b0W and 72\u00b0W - onshore and offshore. Canada - Nunavut; Ontario; Quebec. United States (USA) - Connecticut; Delaware; Maryland; Massachusetts; New Hampshire; New Jersey; New York; North Carolina; Pennsylvania; Virginia; Vermont.\n- bounds: (-78.0, 28.28, -72.0, 84.0)",
+    "units": "metre",
+    "rationale": "Pilot is within UTM zone 18N; meter coordinates align with NYS service and standard USGS DEM headers. Native inputs untouched.",
+    "datum_caution": "OSM WGS84 and NAD83 realizations are not survey-equivalent. USGS project metadata may specify NAD83(2011) while standard raster says NAD83. Future processing must record actual PROJ operation, accuracy, grids and vertical datum separately; no invented datum precision.",
+    "local_origin": null,
+    "vertical_reference": "NAVD88 meters per USGS metadata; not an ellipsoidal height."
+  }
+}

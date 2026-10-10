@@ -1,0 +1,33 @@
+{
+  "boundary_review_count": 78,
+  "checks": [
+    "raw integrity seal",
+    "input/output hashes and documented datum operation",
+    "all raw records, ordered node/member lists, roles, repeated members and source segments",
+    "layer completeness, source IDs, all projected vertices, inverse transforms, geometry validity and multilevel semantics",
+    "NYS isolated, all native XY/Z/attributes and rings retained",
+    "all seven target buildings, boundary review, outside dependencies and terrain reference"
+  ],
+  "coordinate_tolerance_m": 1e-06,
+  "inverse_tolerance_degrees": 1e-09,
+  "layer_counts": {
+    "accessibility": 49,
+    "buildings": 28,
+    "entrances": 45,
+    "landcover": 3,
+    "other": 2214,
+    "paths": 243,
+    "roads": 53,
+    "stairs": 52
+  },
+  "limitations": [
+    "4 m stated datum-operation accuracy is not source positional accuracy.",
+    "No routing/accessibility or Blender validation performed.",
+    "No source geometry repaired, clipped or merged."
+  ],
+  "nys_buildings": 27,
+  "passed": true,
+  "raw_files_verified": 47,
+  "source_graph_elements": 4108,
+  "source_way_segments": 4488
+}

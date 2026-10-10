@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE metadata SYSTEM "http://thor-f5.er.usgs.gov/ngtoc/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+ <idinfo>
+  <citation>
+   <citeinfo>
+    <origin>Sanborn Map Company, Inc.</origin>
+    <pubdate>20240109</pubdate>
+    <title>NY_Hudson_1_D22; Hydro-flattened Bare-earth DEM</title>
+    <geoform>raster digital data</geoform>
+   </citeinfo>
+  </citation>
+  <descript>
+   <abstract>Product: These are Digital Elevation Model (DEM) data as part of the required deliverables for the lidar project. Class 2 (Ground) lidar points in conjunction with the hydro breaklines were used to create a 1 meter hydro-flattened Raster DEM.
+   	Geographic Extent: Columbia, Jefferson, Lewis, Rensselaer, Saratoga, Warren, and Washington County New York, covering approximately 3279 square miles. Dataset Description: The lidar project called for the Planning, Acquisition, processing and derivative products of lidar data to be collected at a nominal pulse spacing (NPS) of 0.7 meters. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base Lidar Specification 2022, Revision A.
+   	The data was developed based on a horizontal projection/datum of NAD83(2011), UTM Zone 18N, Meters and vertical datum of NAVD88 (GEOID18), Meters. Lidar data was delivered as processed Classified LAS 1.4 files, formatted to 4026 individual 1500 m x 1500 m tiles clipped to the DPA, as tiled intensity images, as tiled bare-earth DEMs, as tiled all-return MSHRs; all tiled to the same 1500 m x 1500 m schema.
+   	Ground Conditions: Lidar was collected in fall 2022 and spring 2023, while no snow was on the ground and rivers were at or below normal levels. In order to post process the lidar data to meet task order specifications and meet ASPRS vertical accuracy guidelines, Sanborn Map Company, Inc., established a total of 41 ground control points that were used to calibrate the lidar to known ground locations established throughout the project area.
+   	An additional 139 independent accuracy check points, 96 in Bare Earth and Urban landcovers (96 NVA points), 43 in Tall Grass and Brushland/Low Trees categories (43 VVA points), were used to assess the vertical accuracy of the data. These check points were not used to calibrate or post process the data.</abstract>
+   <purpose>To acquire detailed surface elevation data for use in conservation planning, design, research, floodplain mapping, dam safety assessments and elevation modeling, etc. Classified LAS files are used to show the manually reviewed bare earth surface. This allows the user to create Intensity Images, Breaklines and Raster DEM. The purpose of these lidar data was to produce high accuracy 3D hydro-flattened Digital Elevation Model (DEM) with a 1 m cell size.
+    These lidar point cloud data were used to create intensity images, 3D breaklines, hydro-flattened DEMs, and all-return MSHRs as necessary.</purpose>
+   <supplinf>
+    	Raster File Type = TIFF 
+    	Bit Depth/Pixel Type = 32-bit float
+    	Raster Cell Size = 1 meter
+    	Interpolation or Resampling Technique = Bilinear Interpolation
+    	Required Vertical Accuracy = 19.6 cm NVA
+   </supplinf>
+  </descript>
+  <timeperd>
+   <timeinfo>
+    <rngdates>
+     <begdate>20221108</begdate>
+     <enddate>20230415</enddate>
+    </rngdates>
+   </timeinfo>
+   <current>ground condition</current>
+  </timeperd>
+  <status>
+   <progress>Complete</progress>
+   <update>None planned</update>
+  </status>
+  <spdom>
+   <bounding>
+    <westbc>-76.08359028</westbc>
+    <eastbc>-73.21516608</eastbc>
+    <northbc>44.26170203</northbc>
+    <southbc>41.97111802</southbc>
+   </bounding>
+   <lboundng>
+   	<leftbc>4901000.000</leftbc>
+   	<rightbc>4648000.000</rightbc>
+   	<topbc>413500.000</topbc>
+   	<bottombc>642500.000</bottombc>
+   </lboundng>
+  </spdom>
+  <keywords>
+   <theme>
+    <themekt>None</themekt>
+    <themekey>Model</themekey>
+    <themekey>Raster</themekey>
+    <themekey>DEM</themekey>
+    <themekey>Remote Sensing</themekey>
+    <themekey>Elevation Data</themekey>
+    <themekey>Lidar</themekey>
+   </theme>
+   <place>
+    <placekt>None</placekt>
+    <placekey>New York</placekey>
+    <placekey>Columbia County</placekey>
+    <placekey>Jefferson County</placekey>
+    <placekey>Lewis County</placekey>
+    <placekey>Rensselaer County</placekey>
+    <placekey>Saratoga County</placekey>
+    <placekey>Warren County</placekey>
+    <placekey>Washington County</placekey>
+   </place>
+  </keywords>
+  <accconst>No restrictions apply to these data.</accconst>
+  <useconst>None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of its limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.</useconst>
+ </idinfo>
+ <dataqual>
+  <logic>Data covers the DPA specified for this project.</logic>
+  <complete>Datasets contain complete coverage of tiles. No points have been removed or excluded. A visual qualitative assessment was performed to ensure data completeness. There are no void areas or missing data. The raw point cloud is of good quality and data passes Non-Vegetated Vertical Accuracy specifications.</complete>
+  <posacc>
+    <horizpa>
+	<horizpar>This dataset was produced to meet ASPRS Positional Accuracy Standards for Digital Geospatial Data (2014) for a __cm RMSEx / RMSEy Horizontal Accuracy Class which equates to Positional Horizontal Accuract = +/- __cm at a 95% confidence level.</horizpar>
+   </horizpa>
+   <vertacc>
+    <vertaccr>This data set was produced to meet ASPRS Positional Accuracy Standard for Digital Geospatial Data (2014) for a 10-cm RMSEz Vertical Accuracy Class.</vertaccr>
+   </vertacc>
+  </posacc>
+  <lineage>
+      <procstep>
+        <procdesc>Hydro-flattened Bare-earth DEM Process:  Class 2 (Ground) lidar points in conjunction with the hydro breaklines were used to create a 1 m hydro-flattened Raster DEM. Using automated scripting routines within LP360, a GeoTIFF file was created for each tile. Each surface is reviewed using Global Mapper to check for any surface anomalies or incorrect elevations found within the surface.</procdesc>
+        <procdate>2023</procdate>
+      </procstep>
+  </lineage>
+ </dataqual>
+ <spdoinfo>
+  <direct>Raster</direct>
+  <rastinfo>
+   <rasttype>Pixel</rasttype>
+   <rowcount>1500</rowcount>
+   <colcount>1500</colcount>
+  </rastinfo>
+ </spdoinfo>
+ <spref>
+  <horizsys>
+   <planar>
+    <mapproj>
+     <mapprojn>NAD 1983 2011 UTM Zone 18N</mapprojn>
+     <transmer>
+      <sfctrmer>0.9996</sfctrmer>
+      <longcm>-75.0</longcm>
+      <latprjo>0.0</latprjo>
+      <feast>500000.0</feast>
+      <fnorth>0.0</fnorth>
+     </transmer>
+    </mapproj>
+    <planci>
+     <plance>coordinate pair</plance>
+     <coordrep>
+      <absres>0.001</absres>
+      <ordres>0.001</ordres>
+     </coordrep>
+     <plandu>meter</plandu>
+    </planci>
+   </planar>
+   <geodetic>
+    <horizdn>NAD 1983 2011</horizdn>
+    <ellips>GRS 1980</ellips>
+    <semiaxis>6378137.0</semiaxis>
+    <denflat>298.257222101</denflat>
+   </geodetic>
+  </horizsys>
+  <vertdef>
+   <altsys>
+    <altdatum>North American Vertical Datum of 1988, Geoid 18</altdatum>
+    <altres>0.001</altres>
+    <altunits>meter</altunits>
+    <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+   </altsys>
+  </vertdef>
+ </spref>
+ <metainfo>
+  <metd>20240109</metd>
+  <metrd>20240109</metrd>
+  <metc>
+   <cntinfo>
+    <cntorgp>
+     <cntorg>Sanborn Map Company, Inc.</cntorg>
+    </cntorgp>
+    <cntaddr>
+     <addrtype>mailing and physical</addrtype>
+     <address>1935 Jamboree Drive, Suite 100</address>
+     <city>Colorado Springs</city>
+     <state>CO</state>
+     <postal>80920</postal>
+     <country>USA</country>
+    </cntaddr>
+    <cntvoice>(866)726-2676</cntvoice>
+   </cntinfo>
+  </metc>
+  <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  <metstdv>FGDC-STD-001-1998</metstdv>
+  <metac>None.</metac>
+  <metuc>None.</metuc>
+  <metsi>
+  	<metscs>None.</metscs>
+  	<metsc>Unclassified.</metsc>
+  	<metshd>None.</metshd>
+  </metsi>
+  <metextns>
+   <onlink>None.</onlink>
+   <metprof>None.</metprof>
+  </metextns>
+ </metainfo>
+</metadata>

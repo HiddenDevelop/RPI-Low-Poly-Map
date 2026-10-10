@@ -1,0 +1,38 @@
+{
+  "server": {
+    "name": "MCP for Blender",
+    "title": null,
+    "version": "1.30.0",
+    "websiteUrl": null,
+    "icons": null
+  },
+  "tools": [
+    "get_addon_status",
+    "disable_telemetry",
+    "get_scene_info",
+    "execute_blender_code",
+    "record_trajectory_feedback",
+    "look",
+    "generate_3d",
+    "search_assets",
+    "import_asset"
+  ],
+  "allowed_tools_present": true,
+  "read_only_scene_probe": {
+    "meta": null,
+    "content": [
+      {
+        "type": "text",
+        "text": "Error getting scene info: Could not connect to Blender. Make sure the Blender addon is running.",
+        "annotations": null,
+        "meta": null
+      }
+    ],
+    "structuredContent": {
+      "result": "Error getting scene info: Could not connect to Blender. Make sure the Blender addon is running."
+    },
+    "isError": false
+  },
+  "scene_inspected": false,
+  "cube_test_performed": false
+}

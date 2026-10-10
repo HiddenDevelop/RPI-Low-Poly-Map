@@ -1,0 +1,10 @@
+{
+  "crs": "EPSG:26918",
+  "limitations": "Does not resolve multilevel paths; campus acquisition date and achieved vertical accuracy remain unconfirmed.",
+  "operation": "none",
+  "sha256": "bfe951155ae4a2e6ef10e788605f6174fd4efe0d7956a6fea4da036bf0512533",
+  "source": "gis/raw/elevation/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.tif",
+  "status": "Reference only; raster not copied, clipped, resampled or draped onto vectors.",
+  "vertical_datum": "NAVD88",
+  "vertical_units": "metre"
+}

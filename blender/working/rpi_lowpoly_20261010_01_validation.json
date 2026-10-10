@@ -1,0 +1,79 @@
+{
+  "reports": {
+    "C:\\Users\\TheMa\\Documents\\Codex\\2026-10-09\\i-am-building-a-disability-accessible\\outputs\\rpi-access-map/blender/working/rpi_lowpoly_20261010_01_import_validation.json": {
+      "errors": [],
+      "features_verified": 451,
+      "maximum_xy_float32_error_m": 0.00002430449239909649,
+      "note": "Blender float32 requires documented tolerance; GIS JSON remains exact. No geographic data shifted for appearance.",
+      "passed": true,
+      "source_graph_preserved": true,
+      "tolerance_m": 0.0001
+    },
+    "C:\\Users\\TheMa\\Documents\\Codex\\2026-10-09\\i-am-building-a-disability-accessible\\outputs\\rpi-access-map/blender/working/rpi_lowpoly_20261010_01_style_validation.json": {
+      "baseline_objects_compared": 455,
+      "errors": [],
+      "import_validation": {
+        "errors": [],
+        "features_verified": 451,
+        "maximum_xy_float32_error_m": 0.00002430449239909649,
+        "note": "Blender float32 requires documented tolerance; GIS JSON remains exact. No geographic data shifted for appearance.",
+        "passed": true,
+        "source_graph_preserved": true,
+        "tolerance_m": 0.0001
+      },
+      "limitations": "Rendering estimates are not routing data. DEM presentation grid is approximate. No accessibility values inferred.",
+      "max_display_footprint_error_m": 0.000015202676877379417,
+      "passed": true,
+      "presentation_only_changes": "New display meshes/materials, camera, light, world, captions; terrain material assignment only.",
+      "protected_geometry_checks": [
+        "exact world transforms",
+        "exact world-space vertex coordinates",
+        "edge/polygon/loop topology",
+        "custom metadata",
+        "nested collection children and linked memberships",
+        "unchanged modifier/constraint lists",
+        "embedded source graph hash"
+      ],
+      "unrelated_scene_objects_unchanged": true
+    }
+  },
+  "scene": "RPI_PILOT_rpi_lowpoly_20261010_01",
+  "display_buildings": 28,
+  "display_surface_lines": 316,
+  "omitted_surface_lines": [
+    "osm/way/102506989",
+    "osm/way/104737165",
+    "osm/way/104737199",
+    "osm/way/104737241",
+    "osm/way/104737300",
+    "osm/way/1318154547",
+    "osm/way/1318154550",
+    "osm/way/1357936375",
+    "osm/way/1357936377",
+    "osm/way/1427127624",
+    "osm/way/1434403385",
+    "osm/way/1434403386",
+    "osm/way/1434504856",
+    "osm/way/1437049792",
+    "osm/way/1437049793",
+    "osm/way/1437049794",
+    "osm/way/192678143",
+    "osm/way/282843341",
+    "osm/way/282843342",
+    "osm/way/282843343",
+    "osm/way/283123280",
+    "osm/way/283420316",
+    "osm/way/283420317",
+    "osm/way/283420320",
+    "osm/way/283420321",
+    "osm/way/283420322",
+    "osm/way/283420323",
+    "osm/way/283420324",
+    "osm/way/284529300",
+    "osm/way/306773656",
+    "osm/way/958903366",
+    "osm/way/958903368"
+  ],
+  "baseline_storage": "RPI_AUDIT.baseline_documents_json in before_styling checkpoint and working blend",
+  "original_scene_preserved": true
+}

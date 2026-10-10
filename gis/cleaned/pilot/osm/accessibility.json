@@ -1,0 +1,2015 @@
+{
+  "crs": "EPSG:26918",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          608403.7698376745,
+          4731596.913456359
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/10069778948",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "flush",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 10069778948,
+        "lat": 42.7292291,
+        "lon": -73.6758379,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "flush",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608339.2225593426,
+          4731701.631495777
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/10287769369",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "indoor": "yes",
+        "level": "1",
+        "wheelchair": "yes"
+      },
+      "source": {
+        "changeset": 130611532,
+        "id": 10287769369,
+        "lat": 42.730181,
+        "lon": -73.6766061,
+        "tags": {
+          "access": "yes",
+          "defibrillator:location": "Wall-mounted in atrium",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "1",
+          "opening_hours": "24/7",
+          "wheelchair": "yes"
+        },
+        "timestamp": "2022-12-28T17:17:14Z",
+        "type": "node",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608296.0766441138,
+          4731556.88290038
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/10287769370",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "indoor": "yes",
+        "wheelchair": "yes"
+      },
+      "source": {
+        "changeset": 130611532,
+        "id": 10287769370,
+        "lat": 42.7288839,
+        "lon": -73.6771607,
+        "tags": {
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7",
+          "wheelchair": "yes"
+        },
+        "timestamp": "2022-12-28T17:17:14Z",
+        "type": "node",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608147.4871585321,
+          4731759.163175023
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/10287769372",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "source": {
+        "changeset": 130611532,
+        "id": 10287769372,
+        "lat": 42.730726,
+        "lon": -73.6789366,
+        "tags": {
+          "access": "yes",
+          "defibrillator:location": "Wall-mounted in atrium",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "opening_hours": "24/7",
+          "wheelchair": "yes"
+        },
+        "timestamp": "2022-12-28T17:17:14Z",
+        "type": "node",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608058.2181702526,
+          4731517.572432425
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208042752",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1208042752,
+        "lat": 42.7285635,
+        "lon": -73.6800729,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "ladder:skewed",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608044.9566322753,
+          4731492.151648305
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/1208044024",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1208044024,
+        "lat": 42.7283365,
+        "lon": -73.6802397,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608260.6765553629,
+          4731570.478977291
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12199340325",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12199340325,
+        "lat": 42.7290113,
+        "lon": -73.6775904,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608259.2923089963,
+          4731563.182035726
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12199340326",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12199340326,
+        "lat": 42.7289458,
+        "lon": -73.6776087,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608251.9564204052,
+          4731524.935892558
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12199340328",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "flush",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12199340328,
+        "lat": 42.7286025,
+        "lon": -73.6777056,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "flush",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608250.9527969492,
+          4731519.477613906
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12199340330",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "flush",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12199340330,
+        "lat": 42.7285535,
+        "lon": -73.6777189,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "flush",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608284.9239776327,
+          4731754.417556892
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12199416040",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 12199416040,
+        "lat": 42.7306639,
+        "lon": -73.6772591,
+        "tags": {
+          "button_operated": "yes",
+          "crossing": "traffic_signals",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "yes",
+          "highway": "crossing",
+          "tactile_paving": "yes",
+          "traffic_signals:sound": "no",
+          "traffic_signals:vibration": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608371.471079269,
+          4731554.765779821
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451866",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451866,
+        "lat": 42.7288542,
+        "lon": -73.6762404,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608387.5023067846,
+          4731550.740860428
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451867",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451867,
+        "lat": 42.7288157,
+        "lon": -73.6760454,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608390.8778449543,
+          4731544.884726551
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451873",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "raised",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451873,
+        "lat": 42.7287625,
+        "lon": -73.6760053,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "raised",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608389.5192955842,
+          4731528.124761302
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451874",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451874,
+        "lat": 42.7286118,
+        "lon": -73.6760251,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608394.1685051855,
+          4731523.032789909
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451878",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "flush",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451878,
+        "lat": 42.7285653,
+        "lon": -73.6759693,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "flush",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608402.159698993,
+          4731526.234832408
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12200451879",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "flush",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12200451879,
+        "lat": 42.728593,
+        "lon": -73.6758711,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "flush",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608386.684245513,
+          4731714.649188644
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12554867600",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 12554867600,
+        "lat": 42.7302915,
+        "lon": -73.676024,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608401.6233457415,
+          4731714.972345772
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12554896702",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 12554896702,
+        "lat": 42.7302923,
+        "lon": -73.6758415,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608302.215052193,
+          4731583.214452328
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997535",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12745997535,
+        "lat": 42.7291201,
+        "lon": -73.6770807,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608301.1435231379,
+          4731576.344477041
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/12745997536",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172357084,
+        "id": 12745997536,
+        "lat": 42.7290584,
+        "lon": -73.6770951,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T17:58:25Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608266.4171306728,
+          4731690.693999898
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2867884594",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 164749431,
+        "id": 2867884594,
+        "lat": 42.7300928,
+        "lon": -73.6774973,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-04-10T03:55:20Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608280.495932254,
+          4731687.915595912
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/2867884595",
+      "scope": "inside",
+      "semantics": {
+        "kerb": "lowered",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 164749431,
+        "id": 2867884595,
+        "lat": 42.7300658,
+        "lon": -73.6773259,
+        "tags": {
+          "barrier": "kerb",
+          "kerb": "lowered",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-04-10T03:55:20Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608394.2880285473,
+          4731727.397412729
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/41832136",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 41832136,
+        "lat": 42.7304052,
+        "lon": -73.6759287,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608081.7027095649,
+          4731530.7240819605
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/4374185200",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 4374185200,
+        "lat": 42.7286786,
+        "lon": -73.6797836,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "ladder:skewed",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "source": "Bing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608083.0273894985,
+          4731541.318904638
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/4374185203",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 4374185203,
+        "lat": 42.7287738,
+        "lon": -73.6797654,
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "ladder:skewed",
+          "crossing:signals": "no",
+          "highway": "crossing",
+          "source": "Bing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          608114.5385470388,
+          4731759.036423342
+        ],
+        "type": "Point"
+      },
+      "id": "osm/node/4374185207",
+      "scope": "inside",
+      "semantics": {
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 157093487,
+        "id": 4374185207,
+        "lat": 42.7307295,
+        "lon": -73.679339,
+        "tags": {
+          "crossing": "marked",
+          "crossing:markings": "yes",
+          "highway": "crossing",
+          "source": "Bing",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2024-09-25T17:04:21Z",
+        "type": "node",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608382.2706325103,
+            4731713.0804912485
+          ],
+          [
+            608386.684245513,
+            4731714.649188644
+          ],
+          [
+            608389.6808819468,
+            4731715.718053518
+          ],
+          [
+            608395.3902346744,
+            4731717.684725158
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1099965894",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1099965894,
+        "nodes": [
+          10069778956,
+          12554867600,
+          10069778962,
+          10069778958
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608416.7281011468,
+            4731708.389407169
+          ],
+          [
+            608401.6233457415,
+            4731714.972345772
+          ],
+          [
+            608395.3902346744,
+            4731717.684725158
+          ],
+          [
+            608391.130088225,
+            4731719.383968136
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1099965895",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1099965895,
+        "nodes": [
+          10069778959,
+          12554896702,
+          10069778958,
+          10069778960
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608389.6808819468,
+            4731715.718053518
+          ],
+          [
+            608391.130088225,
+            4731719.383968136
+          ],
+          [
+            608394.2880285473,
+            4731727.397412729
+          ],
+          [
+            608396.4834284725,
+            4731733.085448937
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1099965896",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1099965896,
+        "nodes": [
+          10069778962,
+          10069778960,
+          41832136,
+          10069778961
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608277.7817640393,
+            4731778.053001807
+          ],
+          [
+            608276.2382073466,
+            4731770.475874628
+          ],
+          [
+            608274.4821256101,
+            4731761.829120479
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1318154565",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "yes"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1318154565,
+        "nodes": [
+          12199416014,
+          12199416017,
+          12199416015
+        ],
+        "tags": {
+          "button_operated": "yes",
+          "crossing": "traffic_signals",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "yes",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "yes",
+          "traffic_signals:sound": "no",
+          "traffic_signals:vibration": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608277.2060299417,
+            4731755.740581623
+          ],
+          [
+            608284.9239776327,
+            4731754.417556892
+          ],
+          [
+            608295.5652053292,
+            4731752.573875624
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1318154568",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "yes"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1318154568,
+        "nodes": [
+          12199416038,
+          12199416040,
+          12199416039
+        ],
+        "tags": {
+          "button_operated": "yes",
+          "crossing": "traffic_signals",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "yes",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "yes",
+          "traffic_signals:sound": "no",
+          "traffic_signals:vibration": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608303.0608929945,
+            4731773.7951509915
+          ],
+          [
+            608301.4516886475,
+            4731765.706054062
+          ],
+          [
+            608299.6672408741,
+            4731756.78116625
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1318154569",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "yes"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1318154569,
+        "nodes": [
+          12199416041,
+          1493770721,
+          12199416042
+        ],
+        "tags": {
+          "button_operated": "yes",
+          "crossing": "traffic_signals",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "yes",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "asphalt",
+          "tactile_paving": "yes",
+          "traffic_signals:sound": "no",
+          "traffic_signals:vibration": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608041.7876640646,
+            4731492.668581658
+          ],
+          [
+            608044.9566322753,
+            4731492.151648305
+          ],
+          [
+            608050.6748015664,
+            4731490.952595626
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1357936380",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "surface": "paving_stones",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1357936380,
+        "nodes": [
+          12567036506,
+          1208044024,
+          4203300661
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "surface": "paving_stones",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608056.5532072504,
+            4731519.312455987
+          ],
+          [
+            608058.2181702526,
+            4731517.572432425
+          ],
+          [
+            608062.6036216529,
+            4731513.098128952
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1357936382",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1357936382,
+        "nodes": [
+          12567036507,
+          1208042752,
+          4203300663
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "ladder:skewed",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608081.2703432896,
+            4731526.429920055
+          ],
+          [
+            608081.7027095649,
+            4731530.7240819605
+          ],
+          [
+            608083.0273894985,
+            4731541.318904638
+          ],
+          [
+            608083.415245724,
+            4731543.74635172
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1357936385",
+      "scope": "inside",
+      "semantics": {
+        "highway": "footway",
+        "tactile_paving": "no"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1357936385,
+        "nodes": [
+          4203300665,
+          4374185200,
+          4374185203,
+          12567036513
+        ],
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:island": "no",
+          "crossing:markings": "ladder:skewed",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "tactile_paving": "no"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608181.7076299977,
+            4731748.1360829985
+          ],
+          [
+            608177.088707617,
+            4731748.696898508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843324",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "no",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 282843324,
+        "nodes": [
+          2867884583,
+          2867884584
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "no",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608180.873390971,
+            4731740.225759035
+          ],
+          [
+            608181.3681959271,
+            4731744.187690622
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843326",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "no",
+        "highway": "steps",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418193,
+        "id": 282843326,
+        "nodes": [
+          2867884581,
+          2867884582
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "no",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:34:31Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608232.0219442277,
+            4731697.686011884
+          ],
+          [
+            608242.35354244,
+            4731695.748539484
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843327",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "14",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417355,
+        "id": 282843327,
+        "nodes": [
+          1208041823,
+          2867884587
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "step_count": "14",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:39:31Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608292.0142616156,
+            4731685.496962252
+          ],
+          [
+            608284.3842008968,
+            4731686.95464579
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843333",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no",
+        "step_count": "8",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418506,
+        "id": 282843333,
+        "nodes": [
+          2867884593,
+          2867884592
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "on",
+          "incline": "up",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "step_count": "8",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:43:27Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608300.4446656685,
+            4731671.111858015
+          ],
+          [
+            608281.5798101275,
+            4731675.181431579
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843340",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "concrete",
+        "wheelchair": "yes"
+      },
+      "source": {
+        "changeset": 121417355,
+        "id": 282843340,
+        "nodes": [
+          1208042387,
+          2867884596
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "check_date:surface": "2022-05-24",
+          "foot": "yes",
+          "highway": "footway",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "surface": "concrete",
+          "wheelchair": "yes"
+        },
+        "timestamp": "2022-05-24T11:44:18Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608233.190618249,
+            4731586.453934312
+          ],
+          [
+            608244.4046344965,
+            4731584.652458049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123274",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 283123274,
+        "nodes": [
+          1208044029,
+          2870374448
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:49:46Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608213.3021214198,
+            4731622.418841249
+          ],
+          [
+            608213.8197260124,
+            4731625.970162903
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123276",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "yes",
+        "ramp:wheelchair": "yes",
+        "step_count": "5",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417355,
+        "id": 283123276,
+        "nodes": [
+          2870374450,
+          2870374451
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "ramp": "yes",
+          "ramp:wheelchair": "yes",
+          "step_count": "5",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:51:24Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607847.9017546496,
+            4731729.290480106
+          ],
+          [
+            607847.7127497956,
+            4731739.8283081865
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/288217478",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 288217478,
+        "nodes": [
+          1208042354,
+          2917705934
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T12:05:17Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607819.1888168394,
+            4731747.913624994
+          ],
+          [
+            607822.6942002545,
+            4731743.669807777
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/299562132",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 299562132,
+        "nodes": [
+          3035609806,
+          3035609807
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "ramp": "no"
+        },
+        "timestamp": "2022-05-24T12:07:12Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607813.3522818674,
+            4731755.142248846
+          ],
+          [
+            607817.0830249557,
+            4731750.624263395
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/299562135",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 299562135,
+        "nodes": [
+          3035609809,
+          3035609808
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "ramp": "no"
+        },
+        "timestamp": "2022-05-24T12:07:27Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608170.364688945,
+            4731735.696120633
+          ],
+          [
+            608153.0230629377,
+            4731737.679497378
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/306463322",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "35",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418506,
+        "id": 306463322,
+        "nodes": [
+          3113885675,
+          3113885674
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "ramp": "no",
+          "step_count": "35",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:29:53Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608180.2083546559,
+            4731734.583965902
+          ],
+          [
+            608179.7131315791,
+            4731728.556076672
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958313003",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "5",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 125790435,
+        "id": 958313003,
+        "nodes": [
+          2867884580,
+          10000644542
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "lit": "yes",
+          "ramp": "no",
+          "step_count": "5",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-09-04T22:59:08Z",
+        "type": "way",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 10
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608000.0184864404,
+            4731663.378481896
+          ],
+          [
+            608007.2806552169,
+            4731662.403455852
+          ],
+          [
+            608007.59571705,
+            4731664.77422464
+          ],
+          [
+            608001.5808670708,
+            4731665.5799181545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958903371",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417348,
+        "id": 958903371,
+        "nodes": [
+          8872845016,
+          8872859418,
+          8872859419,
+          8872859417
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:57:34Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 5
+      }
+    }
+  ],
+  "format_note": "Projected JSON feature layer; NOT RFC 7946 GeoJSON.",
+  "local_origin_offset": [
+    0,
+    0
+  ],
+  "schema": "rpi-source-layer-v1",
+  "source": "OpenStreetMap",
+  "units": "metre"
+}

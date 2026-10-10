@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/elevation/1_meter/geotiff/NY_FEMAR2_Central_2018_D19/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.xml",
+  "resolved_url": "https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/elevation/1_meter/geotiff/NY_FEMAR2_Central_2018_D19/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.xml",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:10:15.214769+00:00",
+  "download_completed_utc": "2026-10-10T04:10:15.654068+00:00",
+  "response_headers": {
+    "Date": "Sat, 10 Oct 2026 04:10:15 GMT",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Last-Modified": "Tue, 23 Jan 2024 06:02:08 GMT",
+    "ETag": "\"3686-60f96afc45552\"",
+    "Accept-Ranges": "bytes",
+    "Vary": "Accept-Encoding",
+    "Keep-Alive": "timeout=5, max=100",
+    "Connection": "Keep-Alive",
+    "Content-Type": "application/xml",
+    "Transfer-Encoding": "chunked"
+  },
+  "bytes": 13958,
+  "sha256": "b3616a7170ea8f36dee938b31fb892925650da6240beecc4e8850a35ab12ae68"
+}

@@ -1,0 +1,30 @@
+{
+  "requested_url": "https://tnmaccess.nationalmap.gov/api/v1/products",
+  "resolved_url": "https://tnmaccess.nationalmap.gov/api/v1/products?bbox=-73.683585%2C42.728278%2C-73.675583%2C42.730755&datasets=Digital+Elevation+Model+%28DEM%29+-+Original+Product+Resolution&max=100&outputFormat=JSON",
+  "method": "GET",
+  "parameters": {
+    "bbox": "-73.683585,42.728278,-73.675583,42.730755",
+    "datasets": "Digital Elevation Model (DEM) - Original Product Resolution",
+    "max": 100,
+    "outputFormat": "JSON"
+  },
+  "query": null,
+  "download_started_utc": "2026-10-10T04:06:23.234615+00:00",
+  "download_completed_utc": "2026-10-10T04:06:23.522152+00:00",
+  "response_headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "745",
+    "Connection": "keep-alive",
+    "Date": "Sat, 10 Oct 2026 04:06:23 GMT",
+    "X-Amzn-Trace-Id": "Root=1-6ac9b9bf-3a994a5061601fe35bfd89d1;Parent=0e698733604f4eb5;Sampled=0;Lineage=1:67081789:0",
+    "x-amzn-RequestId": "8c7fa78b-f442-49aa-9d99-d80ec50ced7a",
+    "Access-Control-Allow-Origin": "*",
+    "x-amz-apigw-id": "FAn1-Ev8PHcEoSQ=",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 17b1bd1db886b6ab8ef186cb654e3938.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "JFK50-P16",
+    "X-Amz-Cf-Id": "rrMqSvypypXq8bdeRd4toMT6ct4yrtbaKPI48TqfSSgB8KdvI0Ektg=="
+  },
+  "bytes": 745,
+  "sha256": "ef988707d55b50cea3fef1f91ac41820e396d8229cd4d3b3ebcc55aa999378bc"
+}

@@ -1,0 +1,37 @@
+{
+ "culture": "en-US",
+ "name": "BuildingFootprints",
+ "guid": "8BE6A11A-1C63-4FBA-8093-543F0626ECF0",
+ "catalogPath": "",
+ "snippet": "Building footprints in New York State from four different sources: Microsoft, Open Data, NYSERDA and Geospatial Services. Updated building footprint data in March of 2025 for Monroe (based on 2023 Orthoimagery) and Orange (based on 2021 Orthoimagery/2022 LiDAR). Previously Broome, Cortland, Onondaga and Warren Counties based on 2022 orthoimagery as of March 2024. Download this data using the overview layer's download field.",
+ "description": "<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>Building footprints in New York State are from four different sources: Microsoft, Open Data, New York State Energy Research and Development Authority (NYSERDA), and Geospatial Services. The majority of the footprints are from NYSERDA, except in NYC where the primary source was Open Data. Microsoft footprints were added where the other 2 sources were missing polygons.<\/SPAN><\/P><P><SPAN> <\/SPAN><\/P><P><SPAN>Field Descriptions:<\/SPAN><\/P><P><SPAN>NYSGeo Source : tells the end user if the source is NYSERDA, Microsoft, NYC Open Data, and could expand from here in the future<\/SPAN><\/P><P><SPAN>County Name : County name populated from CIESINs. If not populated from CIESINs, identified by the GS<\/SPAN><\/P><P><SPAN>Municipality Name : Municipality name populated from CIESINs. If not populated from CIESINs, identified by the GS<\/SPAN><\/P><P><SPAN>Source: Source where the data came from. If NYSGeo Source = NYSERDA, the data would typically list orthoimagery, LIDAR, county data, etc.<\/SPAN><\/P><P><SPAN>Source ID: if NYSGeo Source = NYSERDA, Source ID would typically list an orthoimage or LIDAR tile<\/SPAN><\/P><P><SPAN>Source Date: Date the footprint was created. If the source image was from 2016 orthoimagery, 2016 would be the Source Date. <\/SPAN><\/P><P><SPAN /><\/P><P><SPAN>Description of each footprint source:<\/SPAN><\/P><P><SPAN>NYSERDA Building footprints that were created as part of the New York State Flood Impact Decision Support Systems https://fidss.ciesin.columbia.edu/home Footprints vary in age from county to county.<\/SPAN><\/P><P><SPAN>Microsoft Building Footprints released 6/28/2018 - vintage unknown/varies. More info on this dataset can be found at https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data.<\/SPAN><\/P><P><SPAN>NYC Open Data - Building Footprints of New York City as a polygon feature class. Last updated 7/30/2018, downloaded on 8/6/2018. Feature Class of footprint outlines of buildings in New York City. Please see the following link for additional documentation- https://github.com/CityOfNewYork/nyc-geo-metadata/blob/master/Metadata/Metadata_BuildingFootprints.md<\/SPAN><\/P><P><SPAN /><\/P><P><SPAN>Spatial Reference of Source Data: UTM Zone 18, meters, NAD 83. <\/SPAN><\/P><P><SPAN>Spatial Reference of Web Service: Spatial Reference of Web Service: WGS 1984 Web Mercator Auxiliary Sphere.<\/SPAN><\/P><P><SPAN /><\/P><P><SPAN>Please contact NYS ITS Geospatial Services at <\/SPAN><A href=\"mailto:nysgis@its.ny.gov\"><SPAN>nysgis@its.ny.gov<\/SPAN><\/A><SPAN> if you have any questions.<\/SPAN><\/P><\/DIV><\/DIV>",
+ "summary": "Building footprints in New York State from four different sources: Microsoft, Open Data, NYSERDA and Geospatial Services. Updated building footprint data in March of 2025 for Monroe (based on 2023 Orthoimagery) and Orange (based on 2021 Orthoimagery/2022 LiDAR). Previously Broome, Cortland, Onondaga and Warren Counties based on 2022 orthoimagery as of March 2024. Download this data using the overview layer's download field.",
+ "title": "New York State Building Footprints",
+ "tags": [
+  "Building; Footprint"
+ ],
+ "type": "Map Service",
+ "typeKeywords": [
+  "Data",
+  "Service",
+  "Map Service",
+  "ArcGIS Server"
+ ],
+ "thumbnail": "thumbnail/thumbnail.JPEG",
+ "url": "",
+ "extent": [
+  [
+   -79.9968849530704,
+   40.4050586671264
+  ],
+  [
+   -71.6501463273368,
+   45.0224245915288
+  ]
+ ],
+ "spatialReference": "NAD_1983_UTM_Zone_18N",
+ "accessInformation": "NYSERDA; CIESIN; NYS ITS Geospatial Services; Microsoft; Open Data",
+ "licenseInfo": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN><SPAN>The State of New York, acting through the New York State Office of Information Technology Services, makes no representations or warranties, express or implied, with respect to the use of or reliance on the Data provided. The User accepts the Data provided \u201cas is\u201d with no guarantees that it is error free, complete, accurate, current or fit for any particular purpose and assumes all risks associated with its use. The State disclaims any responsibility or legal liability to Users for damages of any kind, relating to the providing of the Data or the use of it. Users should be aware that temporal changes may have occurred since this Data was created.<\/SPAN><\/SPAN><\/P><P><SPAN /><\/P><\/DIV><\/DIV><\/DIV>",
+ "MinScale": 1.5E8,
+ "MaxScale": 5000.0
+}

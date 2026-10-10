@@ -1,0 +1,43 @@
+# Local dependencies and machine-specific runtime state
+.venv/
+.local/
+.codex/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Blender backup/autosave files; actual .blend sources stay tracked
+*.blend[0-9]*
+*.blend@
+*.blend.tmp
+*.blend.crash.txt
+*.blend_autosave
+
+# Generated output; keep folder placeholders and documentation
+/renders/*
+!/renders/.gitkeep
+!/renders/README.md
+!/renders/rpi_lowpoly_20261010_01_final_overview.png
+/exports/*
+!/exports/.gitkeep
+!/exports/README.md
+
+# GIS temporary sidecars only in derived data areas
+/gis/cleaned/**/*.tmp
+/gis/cleaned/**/*.temp
+/gis/cleaned/**/*.lock
+/gis/cleaned/**/*-wal
+/gis/cleaned/**/*-shm
+/gis/accessibility/**/*.tmp
+/gis/accessibility/**/*.temp
+/gis/accessibility/**/*.lock
+/gis/accessibility/**/*-wal
+/gis/accessibility/**/*-shm
+
+# General editor/OS debris
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

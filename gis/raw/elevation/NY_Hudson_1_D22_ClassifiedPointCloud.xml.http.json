@@ -1,0 +1,22 @@
+{
+  "requested_url": "https://gisdata.ny.gov/elevation/LIDAR/USGS_LakeOntarioHudsonRiverRegion2022/NY_Hudson_1_D22_ClassifiedPointCloud.xml",
+  "resolved_url": "https://gisdata.ny.gov/elevation/LIDAR/USGS_LakeOntarioHudsonRiverRegion2022/NY_Hudson_1_D22_ClassifiedPointCloud.xml",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:07:06.947341+00:00",
+  "download_completed_utc": "2026-10-10T04:07:07.325845+00:00",
+  "response_headers": {
+    "Date": "Sat, 10 Oct 2026 04:07:07 GMT",
+    "Server": "Apache/2.4.46 (Unix)",
+    "Last-Modified": "Tue, 27 Aug 2024 17:31:05 GMT",
+    "ETag": "\"3f1f-620ad9b2b4840\"",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "16159",
+    "Keep-Alive": "timeout=15, max=100",
+    "Connection": "Keep-Alive",
+    "Content-Type": "application/xml"
+  },
+  "bytes": 16159,
+  "sha256": "e5ebffe1ac70cfe16be98c1c049a457279f8a5b2eb227f18d3ec393841185c26"
+}

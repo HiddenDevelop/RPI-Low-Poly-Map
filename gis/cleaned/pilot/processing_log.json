@@ -1,0 +1,97 @@
+{
+  "clipped_features": 0,
+  "determinism": "Sorted source IDs and dictionary keys; original node/member/ring order preserved. No run timestamps, random values, or absolute file paths.",
+  "discarded_invalid_features": 0,
+  "input_crs": {
+    "nys": "EPSG:26918",
+    "osm": "EPSG:4326"
+  },
+  "input_osm_bounds": [
+    -73.6910655,
+    42.68993,
+    -73.614357,
+    42.7467
+  ],
+  "input_osm_counts": {
+    "node": 3363,
+    "relation": 4,
+    "way": 741
+  },
+  "layer_bounds": {
+    "accessibility": [
+      607813.3522818674,
+      4731490.952595626,
+      608416.7281011468,
+      4731778.053001807
+    ],
+    "buildings": [
+      607700.7512512489,
+      4731441.15592428,
+      608443.1787134502,
+      4731803.252218435
+    ],
+    "entrances": [
+      607789.6423204346,
+      4731487.962361396,
+      608419.4163582183,
+      4731759.120661461
+    ],
+    "landcover": [
+      607706.6327518291,
+      4731494.220015706,
+      608020.7678502054,
+      4731772.428108118
+    ],
+    "other": [
+      607159.7746784289,
+      4727308.483785187,
+      613507.8876829724,
+      4733583.595975957
+    ],
+    "paths": [
+      607764.0719477952,
+      4731343.12766957,
+      608613.7609972059,
+      4731796.949806709
+    ],
+    "roads": [
+      607711.6512343785,
+      4731367.312845826,
+      608667.1452571873,
+      4731992.985114045
+    ],
+    "stairs": [
+      607775.4670473493,
+      4731509.608668133,
+      608442.2488831994,
+      4731761.227462119
+    ]
+  },
+  "merged_features": 0,
+  "metadata_policy": "All original source records retained exactly as JSON values. Missing tags remain absent. Derived semantics copy only present strings; no parsed or inferred levels/accessibility.",
+  "nys_input_count": 27,
+  "nys_output_count": 27,
+  "output_crs": "EPSG:26918",
+  "output_graph_counts": {
+    "node": 3363,
+    "relation": 4,
+    "way": 741
+  },
+  "output_osm_bounds": [
+    607159.7746784289,
+    4727308.483785187,
+    613507.8876829724,
+    4733583.595975957
+  ],
+  "pilot_layer_counts": {
+    "accessibility": 49,
+    "buildings": 28,
+    "entrances": 45,
+    "landcover": 3,
+    "other": 2214,
+    "paths": 243,
+    "roads": 53,
+    "stairs": 52
+  },
+  "repairs": []
+}

@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_B1_2018/reports/vendor_provided_xml/DEM_Dewberry.xml",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_B1_2018/reports/vendor_provided_xml/DEM_Dewberry.xml",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:09:23.265001+00:00",
+  "download_completed_utc": "2026-10-10T04:09:23.810761+00:00",
+  "response_headers": {
+    "x-amz-request-id": "HK0B2PPN0SHWC3AS",
+    "x-amz-id-2": "q6YUS0oRFKDUW88y4M486yuAZU7oAbtJSqbwrc7YUdfIf4A/r9fCRj+LvKHox2L2RPabfzjFaOQ121PIG0LfjNiGMxDW2CTW",
+    "Content-Length": "8679",
+    "Accept-Ranges": "bytes",
+    "Date": "Sat, 10 Oct 2026 04:09:23 GMT",
+    "Server": "AmazonS3",
+    "Last-Modified": "Wed, 07 Dec 2022 16:37:19 GMT",
+    "ETag": "\"62f4ae6d9fbecbb0113085d1c669ad96\"",
+    "x-amz-meta-mtime": "1626380316.452931",
+    "Content-Type": "application/xml"
+  },
+  "bytes": 8679,
+  "sha256": "adc19e7b03c613aca4fedba0bd51c1db190f663fac32cbcaa65aee170192dc93"
+}

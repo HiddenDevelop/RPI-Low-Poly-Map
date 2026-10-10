@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/ahujasid/mcp-for-blender",
+  "commit": "7a0373ec9199183cb460068c4f96aed9c579fb4f",
+  "package_version": "2.1.9",
+  "upstream_addon_sha256": "eb0facf69781a30e69792532087d8d41c6a14fcd323353250abe7988ee297fa5",
+  "prepared_addon_sha256": "2d5e4b0038cbe0a4cc54e25d9039d901deebfe239d60747c5d95f8825c9e270b",
+  "patches": [
+    "Default listener host is 127.0.0.1",
+    "Auto-Start Server defaults to False"
+  ],
+  "installed_into_blender": false
+}

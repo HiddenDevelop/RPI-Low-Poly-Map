@@ -1,0 +1,14 @@
+Transient CLI override only; project trust and automatic loading remain pending.
+blender
+  enabled: true
+  enabled_tools: get_addon_status, get_scene_info, execute_blender_code, look
+  transport: stdio
+  command: C:/Users/TheMa/Documents/Codex/2026-10-09/i-am-building-a-disability-accessible/outputs/rpi-access-map/.venv/Scripts/python.exe
+  args: -c from blender_mcp.server import main; main() --host 127.0.0.1 --port 9876
+  cwd: C:/Users/TheMa/Documents/Codex/2026-10-09/i-am-building-a-disability-accessible/outputs/rpi-access-map
+  env: APPDATA=*****, BLENDER_HOST=*****, BLENDER_MCP_SAFE_MODE=*****, BLENDER_PORT=*****, DISABLE_TELEMETRY=*****
+  startup_timeout_sec: 30
+  tool_timeout_sec: 60
+  remove: codex mcp remove blender
+WARNING: failed to clean up stale arg0 temp dirs: Access is denied. (os error 5)
+WARNING: proceeding, even though we could not create PATH aliases: Access is denied. (os error 5) at path "C:\\Users\\TheMa\\.codex\\tmp\\arg0\\codex-arg0na6oLv"

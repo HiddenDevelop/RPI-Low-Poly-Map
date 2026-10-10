@@ -1,0 +1,20 @@
+{
+  "requested_url": "https://overpass-api.de/api/interpreter",
+  "resolved_url": "https://overpass-api.de/api/interpreter",
+  "method": "POST",
+  "parameters": null,
+  "query": "[out:json][timeout:180][date:\"2026-10-10T04:03:46Z\"];(nwr(42.728278,-73.683585,42.730755,-73.675583););(._;>>;);out meta;\n",
+  "download_started_utc": "2026-10-10T04:06:21.892962+00:00",
+  "download_completed_utc": "2026-10-10T04:06:26.906189+00:00",
+  "response_headers": {
+    "Date": "Sat, 10 Oct 2026 04:06:22 GMT",
+    "Server": "Apache/2.4.68 (Debian)",
+    "Vary": "Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked",
+    "Content-Type": "application/json"
+  },
+  "bytes": 1120670,
+  "sha256": "7526dbf7631bfcba5ed7a584eaa6cd0fbc3862d306692dce7c08d48896291670"
+}

@@ -1,0 +1,38 @@
+{
+  "requested_url": "https://gisservices.its.ny.gov/arcgis/rest/services/BuildingFootprints/FeatureServer/2/query",
+  "resolved_url": "https://gisservices.its.ny.gov/arcgis/rest/services/BuildingFootprints/FeatureServer/2/query?f=json&where=1%3D1&geometry=-73.683585%2C42.728278%2C-73.675583%2C42.730755&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&returnZ=true&orderByFields=OBJECTID&resultRecordCount=50000",
+  "method": "GET",
+  "parameters": {
+    "f": "json",
+    "where": "1=1",
+    "geometry": "-73.683585,42.728278,-73.675583,42.730755",
+    "geometryType": "esriGeometryEnvelope",
+    "inSR": 4326,
+    "spatialRel": "esriSpatialRelIntersects",
+    "outFields": "*",
+    "returnGeometry": "true",
+    "returnZ": "true",
+    "orderByFields": "OBJECTID",
+    "resultRecordCount": 50000
+  },
+  "query": null,
+  "download_started_utc": "2026-10-10T04:06:47.263987+00:00",
+  "download_completed_utc": "2026-10-10T04:06:49.164165+00:00",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Type": "application/json;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "ETag": "2ee5d570",
+    "Vary": "Origin",
+    "Server": "Microsoft-IIS/10.0, ",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "x-esri-ftiles-cache-compress": "true",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Sat, 10 Oct 2026 04:06:48 GMT",
+    "Content-Length": "4901"
+  },
+  "bytes": 20802,
+  "sha256": "9cca332a62733d030f80cb46359994ea6624ae58ea6abaaa4618711b10b41cd5"
+}

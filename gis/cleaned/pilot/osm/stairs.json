@@ -1,0 +1,2335 @@
+{
+  "crs": "EPSG:26918",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608442.2488831994,
+            4731570.282042435
+          ],
+          [
+            608414.9878974091,
+            4731591.724600153
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/104737255",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 7600729,
+        "id": 104737255,
+        "nodes": [
+          1208043893,
+          1208043959
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2011-03-19T00:20:58Z",
+        "type": "way",
+        "uid": 381909,
+        "user": "JessAk71",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608341.0305918066,
+            4731703.303714436
+          ],
+          [
+            608342.3340748526,
+            4731711.0437028175
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1318154547",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "down",
+        "layer": "-1"
+      },
+      "source": {
+        "changeset": 172324377,
+        "id": 1318154547,
+        "nodes": [
+          12199409469,
+          12199409471
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "down",
+          "layer": "-1"
+        },
+        "timestamp": "2025-09-23T05:17:57Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608297.8656577376,
+            4731657.498361664
+          ],
+          [
+            608299.9227764866,
+            4731668.882226031
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1318154552",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down"
+      },
+      "source": {
+        "changeset": 157093487,
+        "id": 1318154552,
+        "nodes": [
+          12199409477,
+          12199409478
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "lit": "yes"
+        },
+        "timestamp": "2024-09-25T17:04:21Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608136.9277515779,
+            4731758.398155823
+          ],
+          [
+            608140.3902796435,
+            4731757.952506654
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1360725635",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 1360725635,
+        "nodes": [
+          12596571629,
+          12596571631
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "up"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608146.6938150809,
+            4731751.253496256
+          ],
+          [
+            608147.1475124921,
+            4731754.703847452
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1360725636",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 1360725636,
+        "nodes": [
+          12596571632,
+          12596571633
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "up"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608177.088707617,
+            4731748.696898508
+          ],
+          [
+            608178.3363419345,
+            4731758.446391503
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1360725649",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "no",
+        "highway": "steps",
+        "incline": "down",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 1360725649,
+        "nodes": [
+          2867884584,
+          12596571649
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "no",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607789.3405735836,
+            4731509.608668133
+          ],
+          [
+            607790.29092096,
+            4731513.255556381
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1376638165",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 164794658,
+        "id": 1376638165,
+        "nodes": [
+          12745997508,
+          12745997507
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "up"
+        },
+        "timestamp": "2025-04-11T02:58:24Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607836.8949608429,
+            4731747.223543502
+          ],
+          [
+            607837.217309702,
+            4731748.60587176
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1427127634",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 1427127634,
+        "nodes": [
+          4203300676,
+          13119544694
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "up"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608059.8072692254,
+            4731615.48551907
+          ],
+          [
+            608057.4996934081,
+            4731615.904838598
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1437048055",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 173120496,
+        "id": 1437048055,
+        "nodes": [
+          13208030128,
+          13208030129
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2025-10-11T04:03:17Z",
+        "type": "way",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608047.0468452335,
+            4731598.880608457
+          ],
+          [
+            608034.2284947163,
+            4731600.646217477
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/1437049793",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "level": "0;-1"
+      },
+      "source": {
+        "changeset": 173120815,
+        "id": 1437049793,
+        "nodes": [
+          13208046515,
+          13208046514
+        ],
+        "tags": {
+          "highway": "steps",
+          "level": "0;-1"
+        },
+        "timestamp": "2025-10-11T04:27:48Z",
+        "type": "way",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607997.8078158317,
+            4731743.538315874
+          ],
+          [
+            608001.0898892418,
+            4731743.111991684
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282837634",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22417148,
+        "id": 282837634,
+        "nodes": [
+          2867828962,
+          2521799095
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-19T01:59:19Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607991.44833358,
+            4731744.39416687
+          ],
+          [
+            607993.278093721,
+            4731744.156183892
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282837635",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22417148,
+        "id": 282837635,
+        "nodes": [
+          2867828963,
+          2867828964
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-19T01:59:19Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607985.383047549,
+            4731745.287942122
+          ],
+          [
+            607988.1336889252,
+            4731744.8088794155
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282837637",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22417148,
+        "id": 282837637,
+        "nodes": [
+          2867828965,
+          2867828966
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-19T01:59:19Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608181.7076299977,
+            4731748.1360829985
+          ],
+          [
+            608177.088707617,
+            4731748.696898508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843324",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "no",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 162635141,
+        "id": 282843324,
+        "nodes": [
+          2867884583,
+          2867884584
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "no",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-02-17T21:04:56Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608180.873390971,
+            4731740.225759035
+          ],
+          [
+            608181.3681959271,
+            4731744.187690622
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843326",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "no",
+        "highway": "steps",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418193,
+        "id": 282843326,
+        "nodes": [
+          2867884581,
+          2867884582
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "no",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:34:31Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608232.0219442277,
+            4731697.686011884
+          ],
+          [
+            608242.35354244,
+            4731695.748539484
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843327",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "14",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417355,
+        "id": 282843327,
+        "nodes": [
+          1208041823,
+          2867884587
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "step_count": "14",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:39:31Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608301.1503360926,
+            4731696.625209458
+          ],
+          [
+            608302.9429719285,
+            4731704.506141117
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843331",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 157093487,
+        "id": 282843331,
+        "nodes": [
+          2867884589,
+          2867884590
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "motor_vehicle": "no"
+        },
+        "timestamp": "2024-09-25T17:04:21Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608292.0142616156,
+            4731685.496962252
+          ],
+          [
+            608284.3842008968,
+            4731686.95464579
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843333",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no",
+        "step_count": "8",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418506,
+        "id": 282843333,
+        "nodes": [
+          2867884593,
+          2867884592
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "on",
+          "incline": "up",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "step_count": "8",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:43:27Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608311.3716487607,
+            4731703.294246761
+          ],
+          [
+            608311.1187125948,
+            4731701.668621197
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843341",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "layer": "1",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 107100504,
+        "id": 282843341,
+        "nodes": [
+          8872845000,
+          2867884597
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "layer": "1",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2021-06-28T16:52:37Z",
+        "type": "way",
+        "uid": 381909,
+        "user": "JessAk71",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608376.8695521952,
+            4731706.075961741
+          ],
+          [
+            608382.0082916571,
+            4731707.356130294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/282843347",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22418021,
+        "id": 282843347,
+        "nodes": [
+          1208042767,
+          2867884908
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-19T04:46:01Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608176.9077517844,
+            4731671.320861787
+          ],
+          [
+            608176.2017874122,
+            4731666.200470804
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283050481",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22437409,
+        "id": 283050481,
+        "nodes": [
+          1208043928,
+          2869694844
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-20T04:43:15Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608182.8972164824,
+            4731650.166415417
+          ],
+          [
+            608176.7579643762,
+            4731651.069975833
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283050483",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 283050483,
+        "nodes": [
+          1208042685,
+          1208042481
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608227.9192838771,
+            4731620.304084359
+          ],
+          [
+            608238.9635712786,
+            4731617.833507313
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123269",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "step_count": "16",
+        "surface": "concrete",
+        "width": "1.5"
+      },
+      "source": {
+        "changeset": 67749028,
+        "id": 283123269,
+        "nodes": [
+          2521799105,
+          2521799141
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "step_count": "16",
+          "surface": "concrete",
+          "width": "1.5"
+        },
+        "timestamp": "2019-03-03T22:36:42Z",
+        "type": "way",
+        "uid": 9490130,
+        "user": "baxtea",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608228.2774530282,
+            4731622.009104613
+          ],
+          [
+            608227.9192838771,
+            4731620.304084359
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123271",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "step_count": "7",
+        "surface": "concrete",
+        "width": "1.5"
+      },
+      "source": {
+        "changeset": 125790435,
+        "id": 283123271,
+        "nodes": [
+          2870374445,
+          2521799105
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "step_count": "7",
+          "surface": "concrete",
+          "width": "1.5"
+        },
+        "timestamp": "2022-09-04T22:59:08Z",
+        "type": "way",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608181.7194863744,
+            4731632.287501168
+          ],
+          [
+            608182.1876211339,
+            4731635.338218809
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123272",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 283123272,
+        "nodes": [
+          1208043975,
+          2872820220
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608233.190618249,
+            4731586.453934312
+          ],
+          [
+            608244.4046344965,
+            4731584.652458049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123274",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 283123274,
+        "nodes": [
+          1208044029,
+          2870374448
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:49:46Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608213.3021214198,
+            4731622.418841249
+          ],
+          [
+            608213.8197260124,
+            4731625.970162903
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283123276",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "yes",
+        "ramp:wheelchair": "yes",
+        "step_count": "5",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417355,
+        "id": 283123276,
+        "nodes": [
+          2870374450,
+          2870374451
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "ramp": "yes",
+          "ramp:wheelchair": "yes",
+          "step_count": "5",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:51:24Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607863.928753195,
+            4731553.91281741
+          ],
+          [
+            607861.4393353445,
+            4731552.341167999
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275175",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22457137,
+        "id": 283275175,
+        "nodes": [
+          2871629307,
+          1208044037
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-21T02:17:13Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607888.3647287025,
+            4731580.618384525
+          ],
+          [
+            607893.9968058404,
+            4731580.206476172
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275176",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22457137,
+        "id": 283275176,
+        "nodes": [
+          2871629315,
+          2871629314
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-21T02:17:13Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607804.0561126764,
+            4731571.016858083
+          ],
+          [
+            607801.7593716279,
+            4731571.791863606
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275182",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121438663,
+        "id": 283275182,
+        "nodes": [
+          846508210,
+          846508191
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T18:21:09Z",
+        "type": "way",
+        "uid": 15815343,
+        "user": "James Oswald",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607800.2708191079,
+            4731572.201828928
+          ],
+          [
+            607797.4177278769,
+            4731572.945944017
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275184",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22457137,
+        "id": 283275184,
+        "nodes": [
+          2871629344,
+          2871629343
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-21T02:17:14Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607793.867033721,
+            4731573.790252774
+          ],
+          [
+            607790.8901039478,
+            4731574.599082563
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275186",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121438663,
+        "id": 283275186,
+        "nodes": [
+          683599300,
+          2871629345
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T18:21:12Z",
+        "type": "way",
+        "uid": 15815343,
+        "user": "James Oswald",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607789.0162571706,
+            4731575.036363088
+          ],
+          [
+            607786.278994813,
+            4731575.704538404
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275188",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22457137,
+        "id": 283275188,
+        "nodes": [
+          2871629347,
+          2871629350
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-21T02:17:15Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607782.7270914242,
+            4731576.6265846165
+          ],
+          [
+            607779.5367900786,
+            4731577.465413518
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283275190",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 22457137,
+        "id": 283275190,
+        "nodes": [
+          846508162,
+          2871629346
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2014-05-21T02:17:15Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607778.1062399339,
+            4731577.831859057
+          ],
+          [
+            607775.4670473493,
+            4731578.512675105
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283420305",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121438663,
+        "id": 283420305,
+        "nodes": [
+          2872819776,
+          2872819777
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T18:21:09Z",
+        "type": "way",
+        "uid": 15815343,
+        "user": "James Oswald",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607929.9130492909,
+            4731569.160168428
+          ],
+          [
+            607930.4679959642,
+            4731574.000487458
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283420310",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 22466700,
+        "id": 283420310,
+        "nodes": [
+          2872820209,
+          2872820210
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2014-05-21T14:23:25Z",
+        "type": "way",
+        "uid": 1196866,
+        "user": "peteritism",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607892.3865320286,
+            4731562.709640358
+          ],
+          [
+            607890.0597244566,
+            4731562.262350552
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283420312",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 126915224,
+        "id": 283420312,
+        "nodes": [
+          2871629309,
+          2872820211
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2022-10-03T03:48:39Z",
+        "type": "way",
+        "uid": 703694,
+        "user": "Clarke22",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608086.5868168072,
+            4731638.885179295
+          ],
+          [
+            608087.0173835809,
+            4731642.246304839
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283420320",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "tunnel": "yes"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 283420320,
+        "nodes": [
+          2872820231,
+          2872820232
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "yes",
+          "foot": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "tunnel": "yes"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 3
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608059.1078069271,
+            4731650.7956593465
+          ],
+          [
+            608061.4462080542,
+            4731650.499002508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/283420323",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "covered": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "layer": "1",
+        "surface": "paving_stones"
+      },
+      "source": {
+        "changeset": 172684903,
+        "id": 283420323,
+        "nodes": [
+          2872820234,
+          2872820233
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "covered": "yes",
+          "foot": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "layer": "1",
+          "motor_vehicle": "no",
+          "surface": "paving_stones"
+        },
+        "timestamp": "2025-10-01T01:50:10Z",
+        "type": "way",
+        "uid": 23238715,
+        "user": "synthfi",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608088.4422866137,
+            4731636.481707172
+          ],
+          [
+            608095.374601249,
+            4731635.657115336
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/284529303",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 284529303,
+        "nodes": [
+          2882579031,
+          2882579032
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "up",
+          "lit": "yes",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607887.411315406,
+            4731740.314618506
+          ],
+          [
+            607884.913186831,
+            4731749.272494001
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/287981185",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 134215045,
+        "id": 287981185,
+        "nodes": [
+          2915338656,
+          2915338657
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "material": "granite",
+          "motor_vehicle": "no"
+        },
+        "timestamp": "2023-03-28T10:58:17Z",
+        "type": "way",
+        "uid": 3199858,
+        "user": "Mateusz Konieczny - bot account",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607847.9017546496,
+            4731729.290480106
+          ],
+          [
+            607847.7127497956,
+            4731739.8283081865
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/288217478",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 288217478,
+        "nodes": [
+          1208042354,
+          2917705934
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "handrail": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "incline": "down",
+          "motor_vehicle": "no",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T12:05:17Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607819.1888168394,
+            4731747.913624994
+          ],
+          [
+            607822.6942002545,
+            4731743.669807777
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/299562132",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 299562132,
+        "nodes": [
+          3035609806,
+          3035609807
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "ramp": "no"
+        },
+        "timestamp": "2022-05-24T12:07:12Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607813.3522818674,
+            4731755.142248846
+          ],
+          [
+            607817.0830249557,
+            4731750.624263395
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/299562135",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "ramp": "no"
+      },
+      "source": {
+        "changeset": 121418207,
+        "id": 299562135,
+        "nodes": [
+          3035609809,
+          3035609808
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "ramp": "no"
+        },
+        "timestamp": "2022-05-24T12:07:27Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 4
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608170.364688945,
+            4731735.696120633
+          ],
+          [
+            608153.0230629377,
+            4731737.679497378
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/306463322",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "35",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121418506,
+        "id": 306463322,
+        "nodes": [
+          3113885675,
+          3113885674
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "ramp": "no",
+          "step_count": "35",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:29:53Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 6
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607826.6619732376,
+            4731699.291620597
+          ],
+          [
+            607809.0778383011,
+            4731706.325872077
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/439721108",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 41779221,
+        "id": 439721108,
+        "nodes": [
+          1208043840,
+          953287163
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2016-08-29T14:32:23Z",
+        "type": "way",
+        "uid": 28378,
+        "user": "PHerison",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607788.325606451,
+            4731729.582868742
+          ],
+          [
+            607789.765205488,
+            4731733.359569342
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/674539883",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 67783153,
+        "id": 674539883,
+        "nodes": [
+          6317064243,
+          6317064244
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2019-03-04T21:33:19Z",
+        "type": "way",
+        "uid": 9490130,
+        "user": "baxtea",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            607961.2158454183,
+            4731754.9069091985
+          ],
+          [
+            607961.9605269546,
+            4731761.227462119
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958313001",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source": {
+        "changeset": 106987511,
+        "id": 958313001,
+        "nodes": [
+          8867005945,
+          8867005943
+        ],
+        "tags": {
+          "highway": "steps"
+        },
+        "timestamp": "2021-06-26T00:15:52Z",
+        "type": "way",
+        "uid": 381909,
+        "user": "JessAk71",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608180.2083546559,
+            4731734.583965902
+          ],
+          [
+            608179.7131315791,
+            4731728.556076672
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958313003",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "step_count": "5",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 125790435,
+        "id": 958313003,
+        "nodes": [
+          2867884580,
+          10000644542
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "lit": "yes",
+          "ramp": "no",
+          "step_count": "5",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-09-04T22:59:08Z",
+        "type": "way",
+        "uid": 1813601,
+        "user": "Zach Rowe",
+        "version": 10
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608311.7028034001,
+            4731705.676392629
+          ],
+          [
+            608311.3716487607,
+            4731703.294246761
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958903365",
+      "scope": "inside",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "steps",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 107100504,
+        "id": 958903365,
+        "nodes": [
+          1208043324,
+          8872845000
+        ],
+        "tags": {
+          "access": "yes",
+          "bicycle": "no",
+          "foot": "yes",
+          "highway": "steps",
+          "horse": "no",
+          "motor_vehicle": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2021-06-28T16:52:37Z",
+        "type": "way",
+        "uid": 381909,
+        "user": "JessAk71",
+        "version": 1
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608000.0184864404,
+            4731663.378481896
+          ],
+          [
+            608007.2806552169,
+            4731662.403455852
+          ],
+          [
+            608007.59571705,
+            4731664.77422464
+          ],
+          [
+            608001.5808670708,
+            4731665.5799181545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958903371",
+      "scope": "inside",
+      "semantics": {
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "ramp": "no",
+        "surface": "concrete"
+      },
+      "source": {
+        "changeset": 121417348,
+        "id": 958903371,
+        "nodes": [
+          8872845016,
+          8872859418,
+          8872859419,
+          8872859417
+        ],
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "down",
+          "ramp": "no",
+          "surface": "concrete"
+        },
+        "timestamp": "2022-05-24T11:57:34Z",
+        "type": "way",
+        "uid": 16068861,
+        "user": "Brandon Rozek",
+        "version": 5
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            608181.789864397,
+            4731642.962682896
+          ],
+          [
+            608182.3322167861,
+            4731646.503281919
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "osm/way/958903374",
+      "scope": "inside",
+      "semantics": {
+        "highway": "steps",
+        "incline": "up"
+      },
+      "source": {
+        "changeset": 171458345,
+        "id": 958903374,
+        "nodes": [
+          8872859423,
+          8872859422
+        ],
+        "tags": {
+          "highway": "steps",
+          "incline": "up"
+        },
+        "timestamp": "2025-09-04T15:22:13Z",
+        "type": "way",
+        "uid": 20097451,
+        "user": "dillard243",
+        "version": 2
+      }
+    }
+  ],
+  "format_note": "Projected JSON feature layer; NOT RFC 7946 GeoJSON.",
+  "local_origin_offset": [
+    0,
+    0
+  ],
+  "schema": "rpi-source-layer-v1",
+  "source": "OpenStreetMap",
+  "units": "metre"
+}

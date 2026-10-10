@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE metadata SYSTEM "http://thor-f5.er.usgs.gov/ngtoc/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+ <idinfo>
+  <citation>
+   <citeinfo>
+    <origin>Dewberry</origin>
+    <pubdate>20200413</pubdate>
+    <title> New York FEMA Central Lidar; Hydro Flattened Bare Earth DEM</title>
+    <geoform>raster digital data</geoform>
+   </citeinfo>
+  </citation>
+  <descript>
+   <abstract>Product: These are Digital Elevation Model (DEM) data for Niagara , New York as part of the required deliverables for the 2019 New York Lidar project. Class 2 (ground) lidar points in conjunction with the hydro breaklines were used to create a 1 meter hydro-flattened Raster DEM.
+   Geographic Extent: Niagara County and West Chester County, New York FEMA Central Lidar, covering approximately 1,367 square miles. Dataset Description: New York FEMA Central Lidar project called for the Planning, Acquisition, processing and derivative products of lidar data to be collected at a nominal pulse spacing (NPS) of 0.7 meter. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base Lidar Specification, Version 1.3. The data was developed based on a horizontal projection/datum of NAD83 (2011), Conus Albers, meters and vertical datum of NAVD88 (GEOID12B), meters. Lidar data was delivered as processed Classified LAS 1.4 files, formatted to 3,976 individual 1000 m x 1000 m tiles, as tiled Intensity Imagery, and as tiled bare earth DEMs; all tiled to the same 1000 m x 1000 m schema.
+      Ground Conditions: Lidar was collected in early 2019, while no snow was on the ground and rivers were at or below normal levels. In order to post process the lidar data to meet task order specifications and meet ASPRS vertical accuracy guidelines, Dewberry established approximately 219 ground control points that were used to calibrate the lidar to known ground locations established throughout the NY FEMA Central project area. An additional 39 independent accuracy checkpoints, 20 in Bare Earth and Urban landcovers (20 NVA points), 19 in Tall Grass and Brushland/Low Trees categories (19 VVA points), were used to assess the vertical accuracy of the West Chester County and Niagara County data. The final project-wide vertical accuracy will be included in the final metadata. These checkpoints were not used to calibrate or post process the data.</abstract>
+   <purpose>To acquire detailed surface elevation data for use in conservation planning, design, research, floodplain mapping, dam safety assessments and elevation modeling, etc. Classified LAS files are used to show the manually reviewed bare earth surface. This allows the user to create Intensity Images, Breaklines and Raster DEM. The purpose of these lidar data was to produce high accuracy 3D hydro-flattened Digital Elevation Model (DEM) with a 1 meter cell size. These raw lidar point cloud data were used to create classified lidar LAS files, intensity images, 3D breaklines, hydro-flattened DEMs as necessary.</purpose>
+   <supplinf>
+    	Raster File Type = IMG 
+    	Bit Depth/Pixel Type = 32-bit float
+    	Raster Cell Size = 1 Meter
+    	Interpolation or Resampling Technique = Triangulated Irregular Network
+    	Required Vertical Accuracy = 19.6 cm NVA
+   </supplinf>
+  </descript>
+  <timeperd>
+   <timeinfo>
+    <rngdates>
+     <begdate>20190104</begdate>
+     <enddate>20190425</enddate>
+    </rngdates>
+   </timeinfo>
+   <current>ground condition</current>
+  </timeperd>
+  <status>
+   <progress>Complete</progress>
+   <update>None planned</update>
+  </status>
+  <spdom>
+   <bounding>
+    <westbc>-91.75000</westbc>
+    <eastbc>-91.25000</eastbc>
+    <northbc>38.00000</northbc>
+    <southbc>37.25000</southbc>
+   </bounding>
+   <lboundng>
+    <leftbc>1363000.01</leftbc>
+    <rightbc>1365000.01</rightbc>
+    <topbc>2374000.01</topbc>
+    <bottombc>2372000.01</bottombc>
+   </lboundng>
+  </spdom>
+  <keywords>
+   <theme>
+    <themekt>None</themekt>
+    <themekey>Model</themekey>
+    <themekey>Raster</themekey>
+    <themekey>DEM</themekey>
+    <themekey>Remote Sensing</themekey>
+    <themekey>Elevation Data</themekey>
+    <themekey>Lidar</themekey>
+   </theme>
+   <place>
+    <placekt>None</placekt>
+    <placekey>New York</placekey>
+    <placekey>Niagara</placekey>
+   </place>
+  </keywords>
+  <accconst>No restrictions apply to these data.</accconst>
+  <useconst>None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of its limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.</useconst>
+ </idinfo>
+ <dataqual>
+  <logic>Data covers the entire area specified for this project.</logic>
+  <complete>Datasets contain complete coverage of tiles. No points have been removed or excluded. A visual qualitative assessment was performed to ensure data completeness. There are no void areas or missing data. The raw point cloud is of good quality and data passes Non-Vegetated Vertical Accuracy specifications.</complete>
+  <posacc>
+    <!-- Positional Accuracy - an assessment of the accuracy of the positions of spatial objects. Type: compound. -->
+     <vertacc>
+      <!-- Vertical Positional Accuracy - an estimate of accuracy of the vertical positions in the data set. Type: compound. -->
+      <vertaccr>This data set was produced to meet ASPRS Positional Accuracy Standard for Digital Geospatial Data (2014) for a 10-cm RMSEz Vertical Accuracy Class.</vertaccr>
+      <!-- Vertical Positional Accuracy Report - Please see ground survey report. Type: text. Domain: free text. -->
+     </vertacc>
+  </posacc>
+  <lineage>
+      <procstep>
+        <procdesc>Hydro Flattened Raster DEM Process:  Class 2 (ground) lidar points in conjunction with the hydro breaklines were used to create a 1 meter hydro-flattened Raster DEM. Using automated scripting routines within ArcMap, an ERDAS Imagine IMG file was created for each tile. Each surface is reviewed using Global Mapper to check for any surface anomalies or incorrect elevations found within the surface.</procdesc>
+        <procdate>20200302</procdate>
+      </procstep>
+  </lineage>
+ </dataqual>
+ <spdoinfo>
+  <direct>Raster</direct>
+  <rastinfo>
+   <rasttype>Pixel</rasttype>
+   <rowcount>1000</rowcount>
+   <colcount>1000</colcount>
+  </rastinfo>
+ </spdoinfo>
+ <spref>
+  <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+              <stdparll>29.5</stdparll>
+              <stdparll>45.5</stdparll>
+              <longcm>-96.0</longcm>
+              <latprjo>23.0</latprjo>
+              <feast>0.0</feast>
+              <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+     <plance>row and column</plance>
+     <coordrep>
+      <absres>1</absres>
+      <ordres>1</ordres>
+     </coordrep>
+     <plandu>meters</plandu>
+    </planci>
+   </planar>
+   <geodetic>
+    <horizdn>North American Datum of 1983 (2011)</horizdn>
+    <ellips>Geodetic Reference System 80</ellips>
+    <semiaxis>6378137</semiaxis>
+    <denflat>298.257222101</denflat>
+   </geodetic>
+  </horizsys>
+  <vertdef>
+   <altsys>
+    <altdatum>North American Vertical Datum of 1988, Geoid 12B</altdatum>
+	<altres>0.01</altres>
+	<altunits>meters</altunits>
+	<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+	</altsys>
+  </vertdef>
+ </spref>
+  <metainfo>
+    <metd>20200302</metd>
+    <metrd>20200302</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Dewberry</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>8401 Arlington Blvd </address>
+          <city>Fairfax</city>
+          <state>VA</state>
+          <postal>22031</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(703)849-0100</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metac>None.</metac>
+    <metuc>None.</metuc>
+    <metsi>
+    	<metscs>None.</metscs>
+    	<metsc>Unclassified.</metsc>
+    	<metshd>None.</metshd>
+    </metsi>
+    <metextns>
+      <onlink>None.</onlink>
+      <metprof>None.</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

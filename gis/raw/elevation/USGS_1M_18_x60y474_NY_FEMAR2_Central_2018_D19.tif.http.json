@@ -1,0 +1,24 @@
+{
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/NY_FEMAR2_Central_2018_D19/TIFF/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.tif",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/NY_FEMAR2_Central_2018_D19/TIFF/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.tif",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:07:36.835843+00:00",
+  "download_completed_utc": "2026-10-10T04:08:25.038000+00:00",
+  "response_headers": {
+    "x-amz-id-2": "YctQSj8GlDb5mXx7QntMlcIDXGNmXWDsyZX4SauPTxFzvgFxyB5xkAM1fknd6ZQDVpfi8zWoijo=",
+    "x-amz-request-id": "N37X8YWQZHC9NS9B",
+    "Date": "Sat, 10 Oct 2026 04:07:38 GMT",
+    "Last-Modified": "Sat, 14 Feb 2026 03:14:30 GMT",
+    "ETag": "\"201d11f8d3113cc13a62b28d63f792ef-64\"",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-meta-mtime": "1704325373.678282",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "image/tiff",
+    "Content-Length": "334705804",
+    "Server": "AmazonS3"
+  },
+  "bytes": 334705804,
+  "sha256": "bfe951155ae4a2e6ef10e788605f6174fd4efe0d7956a6fea4da036bf0512533"
+}

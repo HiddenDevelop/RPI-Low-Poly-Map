@@ -1,0 +1,25 @@
+{
+  "requested_url": "https://gisservices.its.ny.gov/arcgis/rest/services/BuildingFootprints/FeatureServer/1?f=pjson",
+  "resolved_url": "https://gisservices.its.ny.gov/arcgis/rest/services/BuildingFootprints/FeatureServer/1?f=pjson",
+  "method": "GET",
+  "parameters": null,
+  "query": null,
+  "download_started_utc": "2026-10-10T04:06:23.031891+00:00",
+  "download_completed_utc": "2026-10-10T04:06:23.364429+00:00",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Type": "text/plain;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "ETag": "89c4c2bd",
+    "Vary": "Origin",
+    "Server": "Microsoft-IIS/10.0, ",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Sat, 10 Oct 2026 04:06:22 GMT",
+    "Content-Length": "1874"
+  },
+  "bytes": 8411,
+  "sha256": "ed184fc9f5007253a512dab53a517486d85989d2ef324d0f857e10e4f77d9537"
+}

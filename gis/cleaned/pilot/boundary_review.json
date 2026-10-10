@@ -1,0 +1,2952 @@
+{
+  "bounds_crs": "EPSG:26918",
+  "features": [
+    {
+      "bounds": [
+        607818.4326,
+        4731396.8269,
+        608004.2915000003,
+        4731523.0297
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3211482",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608247.6798999999,
+        4731428.6139,
+        608368.7559000002,
+        4731542.946799999
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3211487",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608366.8187999995,
+        4731465.3826,
+        608385.3164999997,
+        4731493.8978
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3211488",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608108.6465999996,
+        4731451.4223,
+        608233.1558999997,
+        4731544.4827
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3211915",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607835.9012000002,
+        4731746.294500001,
+        607880.1501000002,
+        4731790.6337
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218255",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607891.4807000002,
+        4731756.319,
+        607983.6441000002,
+        4731803.465600001
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218256",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608129.3886000002,
+        4731737.9418,
+        608185.2554000001,
+        4731783.8276
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218261",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608193.2973999996,
+        4731630.384500001,
+        608276.3704000004,
+        4731766.2435
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218262",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607704.4009999996,
+        4731502.606899999,
+        607799.2627999997,
+        4731590.6534
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218273",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608418.6290999996,
+        4731740.940199999,
+        608445.8529000003,
+        4731768.5089
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "nys/building/3218341",
+      "layers": [
+        "nys_buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607531.2691961315,
+        4731266.217336256,
+        609633.3160106027,
+        4732509.819637285
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/relation/8670722",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Rensselaer Polytechnic Institute"
+    },
+    {
+      "bounds": [
+        607159.7746784289,
+        4727308.483785187,
+        613507.8876829724,
+        4732217.627728556
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/relation/9312043",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "CDTA 286 Troy/Wynantskill via RPI campus"
+    },
+    {
+      "bounds": [
+        607159.7746784289,
+        4731114.203839067,
+        611350.4681603177,
+        4733583.595975957
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/relation/9312045",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "CDTA 87 Sycaway/Beman Park"
+    },
+    {
+      "bounds": [
+        607828.9392675555,
+        4731746.174311585,
+        607874.9261709115,
+        4731791.091898441
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737164",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Walker Laboratory"
+    },
+    {
+      "bounds": [
+        608035.2270647462,
+        4731469.675143829,
+        608048.7858347582,
+        4731525.355552787
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737169",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608124.2979984098,
+        4731737.957392403,
+        608180.0658576952,
+        4731783.470431313
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737175",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "'87 Gymnasium"
+    },
+    {
+      "bounds": [
+        607884.8197146861,
+        4731754.535173732,
+        607976.3253531809,
+        4731803.252218435
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737177",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Russell Sage Laboratory"
+    },
+    {
+      "bounds": [
+        608190.9985669302,
+        4731631.228363821,
+        608274.763633409,
+        4731767.341049516
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737190",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Quadrangle Complex"
+    },
+    {
+      "bounds": [
+        608062.6036216529,
+        4731480.230684334,
+        608104.9925289794,
+        4731513.098128952
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737231",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608370.1018546993,
+        4731367.312845826,
+        608396.5170623799,
+        4731538.962276387
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737252",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608414.9878974091,
+        4731570.282042435,
+        608442.2488831994,
+        4731591.724600153
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737255",
+      "layers": [
+        "stairs"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608410.0746577745,
+        4731556.645351725,
+        608613.7609972059,
+        4731608.95266749
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737256",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608031.3181325527,
+        4731434.25850513,
+        608192.2154641333,
+        4731609.915159066
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737273",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608050.6748015664,
+        4731439.0309126675,
+        608219.9484622723,
+        4731490.952595626
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737283",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607827.775305726,
+        4731740.910965527,
+        607871.6839442699,
+        4731796.949806709
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737286",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607849.2255259599,
+        4731465.677039865,
+        607927.1839257446,
+        4731515.284597702
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737294",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Empire State Hall"
+    },
+    {
+      "bounds": [
+        608412.9427097961,
+        4731463.573309462,
+        608501.5226262859,
+        4731554.277279321
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737296",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "access": "permit"
+      },
+      "source_name": "G Lot"
+    },
+    {
+      "bounds": [
+        608082.5407417167,
+        4731454.291879135,
+        608226.904743707,
+        4731545.139614072
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737320",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Center for Biotechnology and Interdisciplinary Studies"
+    },
+    {
+      "bounds": [
+        607921.1622567917,
+        4731747.794706611,
+        607922.932115427,
+        4731760.306894441
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737323",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608421.7491416452,
+        4731507.84855506,
+        608430.4154192505,
+        4731551.014087945
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737338",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608275.5768241017,
+        4731473.360295281,
+        608366.1479368065,
+        4731545.112891941
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737348",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Alumni Sports And Recreation Center"
+    },
+    {
+      "bounds": [
+        608233.0648018664,
+        4731479.966621374,
+        608284.8251622315,
+        4731568.367704665
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737367",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607915.4167938137,
+        4731441.15592428,
+        607999.5705261669,
+        4731497.532968222
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737399",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Cogswell Laboratory"
+    },
+    {
+      "bounds": [
+        608415.6428752274,
+        4731741.76830028,
+        608443.1787134502,
+        4731769.159963752
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/104737720",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Admissions"
+    },
+    {
+      "bounds": [
+        607531.2691961315,
+        4731266.217336256,
+        608659.2699370842,
+        4732089.579914098
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/105230873",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608397.7165285362,
+        4731487.010302042,
+        608415.312026324,
+        4731594.8093871875
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1196592060",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": "Griswold Road"
+    },
+    {
+      "bounds": [
+        607800.5101090285,
+        4731480.277094357,
+        607808.7387606673,
+        4731530.290636879
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1196873989",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "surface": "asphalt"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608243.8478679769,
+        4731484.778319675,
+        608250.9527969492,
+        4731519.477613906
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318146994",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608397.7196005245,
+        4731708.785459019,
+        608545.4024102348,
+        4731767.38947088
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318146999",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608126.1566274582,
+        4731630.83439527,
+        608277.5159291083,
+        4731790.00751181
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318147001",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608108.1816888831,
+        4731760.247640451,
+        608111.4113451695,
+        4731793.016694947
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318154559",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "concrete:plates"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608274.4821256101,
+        4731761.829120479,
+        608277.7817640393,
+        4731778.053001807
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318154565",
+      "layers": [
+        "paths",
+        "accessibility"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "yes"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608299.6672408741,
+        4731756.78116625,
+        608303.0608929945,
+        4731773.7951509915
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318154569",
+      "layers": [
+        "paths",
+        "accessibility"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "asphalt",
+        "tactile_paving": "yes"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608416.7281011468,
+        4731660.6414644,
+        608480.5788710278,
+        4731708.389407169
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1318154570",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607963.5101512262,
+        4731469.247244259,
+        608035.301203574,
+        4731487.962361396
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1357936375",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "layer": "-1"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607998.8101272162,
+        4731477.635235342,
+        608002.0929728205,
+        4731490.793087352
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1357936377",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "layer": "-1"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608090.8140572119,
+        4731482.72771889,
+        608092.75909871,
+        4731495.020547287
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1357936383",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608048.9312812255,
+        4731483.050297049,
+        608078.8330858259,
+        4731525.714265482
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1357936384",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608281.4816054029,
+        4731733.715206261,
+        608287.5935387462,
+        4731767.999147977
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1373464619",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "tertiary",
+        "surface": "asphalt"
+      },
+      "source_name": "15th Street"
+    },
+    {
+      "bounds": [
+        607796.0996734909,
+        4731423.297931267,
+        607858.6380558214,
+        4731571.016858083
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/1376638161",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608029.7790566687,
+        4731670.3501142515,
+        608067.2854849218,
+        4731764.040112378
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/244908054",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway",
+        "surface": "concrete:plates"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608075.8519604624,
+        4731749.345604536,
+        608078.7045650526,
+        4731764.862626552
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/244908055",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607700.7512512489,
+        4731503.896968323,
+        607798.994196153,
+        4731590.665347521
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/262004862",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "Experimental Media and Performing Arts Center (EMPAC)"
+    },
+    {
+      "bounds": [
+        608368.1164928776,
+        4731467.041693488,
+        608383.07488202,
+        4731493.448682808
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/269410451",
+      "layers": [
+        "buildings"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": "RPI Ambulance Garage"
+    },
+    {
+      "bounds": [
+        608002.8311512144,
+        4731695.089216516,
+        608012.8032551286,
+        4731764.876444085
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/282837638",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "concrete"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608178.3363419345,
+        4731758.446391503,
+        608180.5156952357,
+        4731779.81756191
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/282843323",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "concrete"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608287.5935387462,
+        4731581.733789158,
+        608667.1452571873,
+        4731767.999147977
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/282843345",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "tertiary",
+        "surface": "asphalt"
+      },
+      "source_name": "Sage Avenue"
+    },
+    {
+      "bounds": [
+        608189.9468731547,
+        4731343.12766957,
+        608251.5576957578,
+        4731619.930093911
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/283123273",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607764.0719477952,
+        4731578.512675105,
+        607775.4670473493,
+        4731581.433915647
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/283420304",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "access": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "surface": "concrete"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607917.1450848434,
+        4731481.630524711,
+        608038.3980600059,
+        4731511.580759961
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/283420307",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607811.1284187784,
+        4731755.142248846,
+        607813.3522818674,
+        4731758.073191963
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/299562138",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608321.0193651367,
+        4731459.520695127,
+        608364.4874772794,
+        4731494.088333427
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/306740235",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607977.40376355,
+        4731750.239288681,
+        608012.7843930586,
+        4731766.679195745
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/420398488",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607993.9369347217,
+        4731740.991698638,
+        608136.8398074305,
+        4731774.83361106
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/420398490",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608415.312026324,
+        4731474.298694059,
+        608482.5142666097,
+        4731508.312943445
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/53223664",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": "Griswold Road"
+    },
+    {
+      "bounds": [
+        607806.3268956323,
+        4731670.831488282,
+        608010.0561145968,
+        4731764.809819154
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/553850989",
+      "layers": [
+        "landcover"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608341.0271266671,
+        4731759.417607406,
+        608522.4857615922,
+        4731992.985114045
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/5632231",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "residential",
+        "surface": "asphalt"
+      },
+      "source_name": "Eaton Road"
+    },
+    {
+      "bounds": [
+        608375.7657885607,
+        4731740.02063026,
+        608389.6806767231,
+        4731772.64284338
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/5632233",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "residential",
+        "surface": "asphalt"
+      },
+      "source_name": "Eaton Road"
+    },
+    {
+      "bounds": [
+        608223.3217902208,
+        4731389.587812288,
+        608281.4816054029,
+        4731733.715206261
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/5638361",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "tertiary",
+        "surface": "asphalt"
+      },
+      "source_name": "15th Street"
+    },
+    {
+      "bounds": [
+        608405.1947396022,
+        4731638.462664508,
+        608436.4268380553,
+        4731655.382288283
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/674302556",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607706.6327518291,
+        4731571.642971999,
+        607836.9269486456,
+        4731772.428108118
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/674488893",
+      "layers": [
+        "landcover"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607789.765205488,
+        4731733.359569342,
+        607836.5086187604,
+        4731774.607986236
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/674539882",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607975.7061610937,
+        4731752.495095425,
+        608120.3695433338,
+        4731799.813545417
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/71071619",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service",
+        "surface": "asphalt"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607870.6349257979,
+        4731748.296075092,
+        607884.6025931706,
+        4731781.234309952
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/71071622",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607711.6512343785,
+        4731695.686325602,
+        607826.1640259435,
+        4731776.92853282
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/81798266",
+      "layers": [
+        "roads"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "foot": "permissive",
+        "highway": "service"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607759.3230997571,
+        4731696.825171013,
+        607774.2471090108,
+        4731751.932171158
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/958312986",
+      "layers": [
+        "other"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {},
+      "source_name": null
+    },
+    {
+      "bounds": [
+        607961.2158454183,
+        4731754.9069091985,
+        607961.9605269546,
+        4731761.227462119
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/958313001",
+      "layers": [
+        "stairs"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "steps"
+      },
+      "source_name": null
+    },
+    {
+      "bounds": [
+        608412.7420625717,
+        4731752.724531045,
+        608432.3444140349,
+        4731778.633251063
+      ],
+      "decision": "retain_complete_feature_and_all_graph_dependencies",
+      "id": "osm/way/958313004",
+      "layers": [
+        "paths"
+      ],
+      "reason": "Do not introduce cut vertices, split source ways, discard relation members, or infer connections across levels.",
+      "scope": "boundary_crossing",
+      "semantics": {
+        "highway": "footway"
+      },
+      "source_name": null
+    }
+  ],
+  "nys_scope_method": "Native EPSG:26918 geometry versus AOI boundary transformed with 32 subdivisions per side",
+  "osm_scope_method": "Exact original WGS84 geometry versus acquisition envelope; no clipping",
+  "outside_dependency_ids": [
+    "osm/node/10069778922",
+    "osm/node/10069778934",
+    "osm/node/10069778935",
+    "osm/node/10069778936",
+    "osm/node/10069778937",
+    "osm/node/10069778938",
+    "osm/node/10069778950",
+    "osm/node/10069778963",
+    "osm/node/10069778971",
+    "osm/node/10069778972",
+    "osm/node/10069781451",
+    "osm/node/10069781452",
+    "osm/node/1022795019",
+    "osm/node/1025792389",
+    "osm/node/10279691150",
+    "osm/node/10292340115",
+    "osm/node/1052841613",
+    "osm/node/1052841723",
+    "osm/node/1053141674",
+    "osm/node/10565835025",
+    "osm/node/10565835044",
+    "osm/node/10576615531",
+    "osm/node/10576615536",
+    "osm/node/10585176649",
+    "osm/node/10585176652",
+    "osm/node/10585176656",
+    "osm/node/10592617752",
+    "osm/node/10601902171",
+    "osm/node/10610343687",
+    "osm/node/10631101914",
+    "osm/node/10631101926",
+    "osm/node/10673633660",
+    "osm/node/10673633663",
+    "osm/node/10692885205",
+    "osm/node/10694269429",
+    "osm/node/10801635821",
+    "osm/node/10867691036",
+    "osm/node/10888314484",
+    "osm/node/11098403265",
+    "osm/node/11098403267",
+    "osm/node/11098403268",
+    "osm/node/11102594515",
+    "osm/node/11143584589",
+    "osm/node/11309231856",
+    "osm/node/11339942976",
+    "osm/node/11447481496",
+    "osm/node/11447481502",
+    "osm/node/11447481509",
+    "osm/node/11447481512",
+    "osm/node/11539429832",
+    "osm/node/11563487944",
+    "osm/node/11563487950",
+    "osm/node/11727792798",
+    "osm/node/11727792804",
+    "osm/node/11804384672",
+    "osm/node/1208041757",
+    "osm/node/1208041785",
+    "osm/node/1208041812",
+    "osm/node/1208041820",
+    "osm/node/1208041862",
+    "osm/node/1208041871",
+    "osm/node/1208041906",
+    "osm/node/1208041915",
+    "osm/node/1208041928",
+    "osm/node/1208041962",
+    "osm/node/1208041990",
+    "osm/node/1208042091",
+    "osm/node/1208042105",
+    "osm/node/1208042245",
+    "osm/node/1208042264",
+    "osm/node/1208042267",
+    "osm/node/1208042283",
+    "osm/node/1208042314",
+    "osm/node/1208042330",
+    "osm/node/1208042331",
+    "osm/node/1208042338",
+    "osm/node/1208042355",
+    "osm/node/1208042382",
+    "osm/node/1208042386",
+    "osm/node/1208042436",
+    "osm/node/1208042441",
+    "osm/node/1208042445",
+    "osm/node/1208042494",
+    "osm/node/1208042514",
+    "osm/node/1208042516",
+    "osm/node/1208042545",
+    "osm/node/1208042566",
+    "osm/node/1208042568",
+    "osm/node/1208042572",
+    "osm/node/1208042617",
+    "osm/node/1208042639",
+    "osm/node/1208042648",
+    "osm/node/1208042661",
+    "osm/node/1208042696",
+    "osm/node/1208042707",
+    "osm/node/1208042729",
+    "osm/node/1208042749",
+    "osm/node/1208042765",
+    "osm/node/1208042771",
+    "osm/node/1208042784",
+    "osm/node/1208042799",
+    "osm/node/1208042811",
+    "osm/node/1208042863",
+    "osm/node/1208042880",
+    "osm/node/1208042881",
+    "osm/node/1208042898",
+    "osm/node/1208042904",
+    "osm/node/1208042915",
+    "osm/node/1208042927",
+    "osm/node/1208042942",
+    "osm/node/1208042981",
+    "osm/node/1208043011",
+    "osm/node/1208043187",
+    "osm/node/1208043227",
+    "osm/node/1208043250",
+    "osm/node/1208043253",
+    "osm/node/1208043317",
+    "osm/node/1208043355",
+    "osm/node/1208043396",
+    "osm/node/1208043401",
+    "osm/node/1208043404",
+    "osm/node/1208043416",
+    "osm/node/1208043423",
+    "osm/node/1208043437",
+    "osm/node/1208043442",
+    "osm/node/1208043444",
+    "osm/node/1208043455",
+    "osm/node/1208043494",
+    "osm/node/1208043515",
+    "osm/node/1208043562",
+    "osm/node/1208043564",
+    "osm/node/1208043703",
+    "osm/node/1208043730",
+    "osm/node/1208043753",
+    "osm/node/1208043766",
+    "osm/node/1208043860",
+    "osm/node/1208043864",
+    "osm/node/1208043873",
+    "osm/node/1208043893",
+    "osm/node/1208043922",
+    "osm/node/1208043938",
+    "osm/node/1208043952",
+    "osm/node/1208044005",
+    "osm/node/1208044027",
+    "osm/node/1208044088",
+    "osm/node/1208044111",
+    "osm/node/1208044196",
+    "osm/node/1208044211",
+    "osm/node/1208044217",
+    "osm/node/1208044252",
+    "osm/node/1208044260",
+    "osm/node/1208044262",
+    "osm/node/1208044263",
+    "osm/node/1208044269",
+    "osm/node/1208046502",
+    "osm/node/1208046503",
+    "osm/node/1208046504",
+    "osm/node/1208046506",
+    "osm/node/1208046507",
+    "osm/node/1208046508",
+    "osm/node/1208046510",
+    "osm/node/1212507066",
+    "osm/node/1212507379",
+    "osm/node/1212680926",
+    "osm/node/1212680927",
+    "osm/node/1212680928",
+    "osm/node/1212680930",
+    "osm/node/1212680935",
+    "osm/node/1212680936",
+    "osm/node/1212680941",
+    "osm/node/1212680947",
+    "osm/node/1212680952",
+    "osm/node/1212680954",
+    "osm/node/1212680957",
+    "osm/node/1212680965",
+    "osm/node/1212680968",
+    "osm/node/1212680969",
+    "osm/node/1212680970",
+    "osm/node/1212680971",
+    "osm/node/1212680972",
+    "osm/node/1212680975",
+    "osm/node/1212680976",
+    "osm/node/1212680980",
+    "osm/node/1212680981",
+    "osm/node/1212680982",
+    "osm/node/1212680983",
+    "osm/node/1212681003",
+    "osm/node/1212681004",
+    "osm/node/1212681010",
+    "osm/node/1212681012",
+    "osm/node/1212681014",
+    "osm/node/1212681015",
+    "osm/node/1212681017",
+    "osm/node/1212681020",
+    "osm/node/1212681022",
+    "osm/node/1212681024",
+    "osm/node/1212681025",
+    "osm/node/1212681029",
+    "osm/node/1212681030",
+    "osm/node/1212681034",
+    "osm/node/1212681037",
+    "osm/node/1212681042",
+    "osm/node/1212681053",
+    "osm/node/1212681056",
+    "osm/node/1212681061",
+    "osm/node/1212681066",
+    "osm/node/1212681068",
+    "osm/node/1212681074",
+    "osm/node/1212681083",
+    "osm/node/1212681084",
+    "osm/node/1212681089",
+    "osm/node/1212681091",
+    "osm/node/1212681092",
+    "osm/node/1212681095",
+    "osm/node/1212681096",
+    "osm/node/1212681101",
+    "osm/node/1212681102",
+    "osm/node/1212681107",
+    "osm/node/1212681109",
+    "osm/node/1212681111",
+    "osm/node/1212681116",
+    "osm/node/1212681119",
+    "osm/node/1212681138",
+    "osm/node/1212681143",
+    "osm/node/1212681144",
+    "osm/node/1212681152",
+    "osm/node/1212681154",
+    "osm/node/1212681155",
+    "osm/node/1212681156",
+    "osm/node/1212681161",
+    "osm/node/1212681163",
+    "osm/node/1212681167",
+    "osm/node/1212681168",
+    "osm/node/1212681170",
+    "osm/node/1212681176",
+    "osm/node/1212681181",
+    "osm/node/1212681188",
+    "osm/node/1212681190",
+    "osm/node/1212681195",
+    "osm/node/1212681199",
+    "osm/node/1212681206",
+    "osm/node/1212681220",
+    "osm/node/1212681221",
+    "osm/node/1212681252",
+    "osm/node/1212681255",
+    "osm/node/1212681260",
+    "osm/node/1212681261",
+    "osm/node/1212681274",
+    "osm/node/1212681275",
+    "osm/node/1212681276",
+    "osm/node/1212681286",
+    "osm/node/1212681290",
+    "osm/node/1212681302",
+    "osm/node/1212681320",
+    "osm/node/1212681328",
+    "osm/node/1212681335",
+    "osm/node/1212681355",
+    "osm/node/1212681358",
+    "osm/node/1212681369",
+    "osm/node/1212681373",
+    "osm/node/1212681377",
+    "osm/node/1212681386",
+    "osm/node/1212681392",
+    "osm/node/1212681406",
+    "osm/node/1212681410",
+    "osm/node/1212681437",
+    "osm/node/1212681439",
+    "osm/node/1212681444",
+    "osm/node/1212681449",
+    "osm/node/1212681462",
+    "osm/node/1213536464",
+    "osm/node/1213536514",
+    "osm/node/1213536537",
+    "osm/node/1213536572",
+    "osm/node/1213536579",
+    "osm/node/1213536588",
+    "osm/node/1213536640",
+    "osm/node/1213536649",
+    "osm/node/1213536650",
+    "osm/node/1213536653",
+    "osm/node/1213536655",
+    "osm/node/1218389364",
+    "osm/node/1218389382",
+    "osm/node/1218389544",
+    "osm/node/12199340332",
+    "osm/node/12199340335",
+    "osm/node/12199340342",
+    "osm/node/12199340345",
+    "osm/node/12199340346",
+    "osm/node/12199340347",
+    "osm/node/12199340348",
+    "osm/node/12199340349",
+    "osm/node/12199340350",
+    "osm/node/12199340351",
+    "osm/node/12199340352",
+    "osm/node/12199340353",
+    "osm/node/12199340354",
+    "osm/node/12199340355",
+    "osm/node/12199340356",
+    "osm/node/12199340357",
+    "osm/node/12199409481",
+    "osm/node/12199416003",
+    "osm/node/12199416005",
+    "osm/node/12199416006",
+    "osm/node/12199416014",
+    "osm/node/12199416017",
+    "osm/node/12199416041",
+    "osm/node/12199416043",
+    "osm/node/12199416044",
+    "osm/node/12199416045",
+    "osm/node/12199416046",
+    "osm/node/12199416047",
+    "osm/node/12199416048",
+    "osm/node/12199416049",
+    "osm/node/12200438998",
+    "osm/node/12200439000",
+    "osm/node/12200448688",
+    "osm/node/12200448689",
+    "osm/node/12200451814",
+    "osm/node/12200451831",
+    "osm/node/12200451864",
+    "osm/node/12200475101",
+    "osm/node/12203476981",
+    "osm/node/12203476998",
+    "osm/node/12203476999",
+    "osm/node/12209367589",
+    "osm/node/12209367901",
+    "osm/node/12209367919",
+    "osm/node/12209367921",
+    "osm/node/12298230054",
+    "osm/node/12298230058",
+    "osm/node/1232616815",
+    "osm/node/1232800437",
+    "osm/node/12352332258",
+    "osm/node/12352332259",
+    "osm/node/12352341350",
+    "osm/node/12492845606",
+    "osm/node/12492845608",
+    "osm/node/12492845609",
+    "osm/node/12492845610",
+    "osm/node/12492845624",
+    "osm/node/12492845630",
+    "osm/node/12492845633",
+    "osm/node/12492845671",
+    "osm/node/12492845731",
+    "osm/node/12492845736",
+    "osm/node/12492845737",
+    "osm/node/12536827487",
+    "osm/node/12536827488",
+    "osm/node/12536868534",
+    "osm/node/12536868535",
+    "osm/node/12538530309",
+    "osm/node/12538530311",
+    "osm/node/12538551584",
+    "osm/node/12540377457",
+    "osm/node/12540377460",
+    "osm/node/12541056031",
+    "osm/node/12541056033",
+    "osm/node/12543116446",
+    "osm/node/12543116450",
+    "osm/node/12543122286",
+    "osm/node/12543122289",
+    "osm/node/12543125909",
+    "osm/node/12548551828",
+    "osm/node/12548551843",
+    "osm/node/12548617142",
+    "osm/node/12548617143",
+    "osm/node/12548617179",
+    "osm/node/12553259411",
+    "osm/node/12554599719",
+    "osm/node/12554599724",
+    "osm/node/12554896719",
+    "osm/node/12554896722",
+    "osm/node/12554914171",
+    "osm/node/12554914173",
+    "osm/node/12557247339",
+    "osm/node/12557247344",
+    "osm/node/12557290803",
+    "osm/node/12557290806",
+    "osm/node/12558346533",
+    "osm/node/12558346535",
+    "osm/node/12558346550",
+    "osm/node/12558346552",
+    "osm/node/12558346556",
+    "osm/node/12558346557",
+    "osm/node/12558346565",
+    "osm/node/12558346566",
+    "osm/node/12558346573",
+    "osm/node/12558346574",
+    "osm/node/12567024590",
+    "osm/node/12567024591",
+    "osm/node/12567024600",
+    "osm/node/12567036505",
+    "osm/node/12567036508",
+    "osm/node/12567036510",
+    "osm/node/12567036516",
+    "osm/node/12591696265",
+    "osm/node/12596571637",
+    "osm/node/12596571643",
+    "osm/node/12596571644",
+    "osm/node/12596571645",
+    "osm/node/12596571648",
+    "osm/node/12596571651",
+    "osm/node/12596571652",
+    "osm/node/12596571653",
+    "osm/node/12597764411",
+    "osm/node/12618783315",
+    "osm/node/12618783318",
+    "osm/node/12622709209",
+    "osm/node/12622709223",
+    "osm/node/12622743419",
+    "osm/node/12622743422",
+    "osm/node/12657791529",
+    "osm/node/12657840821",
+    "osm/node/12657840900",
+    "osm/node/12698024064",
+    "osm/node/12698024100",
+    "osm/node/12698060355",
+    "osm/node/12698060358",
+    "osm/node/12698060364",
+    "osm/node/12698060367",
+    "osm/node/12698060368",
+    "osm/node/12703662082",
+    "osm/node/12703662083",
+    "osm/node/12703784515",
+    "osm/node/12703784516",
+    "osm/node/12703784517",
+    "osm/node/12703784518",
+    "osm/node/12703828884",
+    "osm/node/12703828888",
+    "osm/node/12703828889",
+    "osm/node/12703828890",
+    "osm/node/12703828894",
+    "osm/node/12703828895",
+    "osm/node/12703863261",
+    "osm/node/12703863289",
+    "osm/node/12703863290",
+    "osm/node/12703879514",
+    "osm/node/12703879519",
+    "osm/node/12703879527",
+    "osm/node/12709197918",
+    "osm/node/12709197920",
+    "osm/node/12709197922",
+    "osm/node/1271115303",
+    "osm/node/12716686222",
+    "osm/node/12716686230",
+    "osm/node/12716686234",
+    "osm/node/12716706968",
+    "osm/node/12743734807",
+    "osm/node/12743734815",
+    "osm/node/12743734816",
+    "osm/node/12743734817",
+    "osm/node/12743734818",
+    "osm/node/12743734819",
+    "osm/node/12743734820",
+    "osm/node/12745153011",
+    "osm/node/12745153012",
+    "osm/node/12745941278",
+    "osm/node/12745941279",
+    "osm/node/12745941280",
+    "osm/node/12745941281",
+    "osm/node/12745941282",
+    "osm/node/12749426263",
+    "osm/node/12749426274",
+    "osm/node/12749426275",
+    "osm/node/12750321387",
+    "osm/node/12750321393",
+    "osm/node/12750321396",
+    "osm/node/12750321399",
+    "osm/node/12750328403",
+    "osm/node/12750328428",
+    "osm/node/12750328461",
+    "osm/node/12750328465",
+    "osm/node/12750328477",
+    "osm/node/12750328478",
+    "osm/node/12750328487",
+    "osm/node/12750328495",
+    "osm/node/12750328498",
+    "osm/node/12750328501",
+    "osm/node/12750328504",
+    "osm/node/12750328507",
+    "osm/node/12750328508",
+    "osm/node/12750328513",
+    "osm/node/12750328521",
+    "osm/node/12750328538",
+    "osm/node/12750342466",
+    "osm/node/12750342471",
+    "osm/node/12750342474",
+    "osm/node/12750468100",
+    "osm/node/12750547521",
+    "osm/node/12750547542",
+    "osm/node/12750547543",
+    "osm/node/12750547546",
+    "osm/node/12750547563",
+    "osm/node/12750547566",
+    "osm/node/12750547575",
+    "osm/node/12750547596",
+    "osm/node/12750547607",
+    "osm/node/12750547611",
+    "osm/node/12750547616",
+    "osm/node/12750547617",
+    "osm/node/12750547625",
+    "osm/node/12750547628",
+    "osm/node/12758849858",
+    "osm/node/12905345551",
+    "osm/node/13062122223",
+    "osm/node/13077785810",
+    "osm/node/13083305732",
+    "osm/node/13094793741",
+    "osm/node/13094793793",
+    "osm/node/13094793798",
+    "osm/node/13094793842",
+    "osm/node/13094793843",
+    "osm/node/13094793859",
+    "osm/node/13097964031",
+    "osm/node/13149311148",
+    "osm/node/13178143219",
+    "osm/node/1317911503",
+    "osm/node/13197043811",
+    "osm/node/13197043842",
+    "osm/node/13197043845",
+    "osm/node/1334569013",
+    "osm/node/1334569021",
+    "osm/node/13451905787",
+    "osm/node/13451905790",
+    "osm/node/13451905795",
+    "osm/node/13451920803",
+    "osm/node/13451920804",
+    "osm/node/13451920805",
+    "osm/node/13451920806",
+    "osm/node/13451920807",
+    "osm/node/13451920810",
+    "osm/node/13451920814",
+    "osm/node/13451920815",
+    "osm/node/13451920818",
+    "osm/node/13451920820",
+    "osm/node/13451920823",
+    "osm/node/13451920826",
+    "osm/node/13451920827",
+    "osm/node/13451920829",
+    "osm/node/13451920830",
+    "osm/node/13484819963",
+    "osm/node/13484819964",
+    "osm/node/13484819985",
+    "osm/node/13484819987",
+    "osm/node/13959899436",
+    "osm/node/13959899441",
+    "osm/node/14087183334",
+    "osm/node/1493770691",
+    "osm/node/1493770693",
+    "osm/node/1493770715",
+    "osm/node/1493770717",
+    "osm/node/1493770718",
+    "osm/node/1493770721",
+    "osm/node/1493770723",
+    "osm/node/1499370959",
+    "osm/node/1508799193",
+    "osm/node/1508866703",
+    "osm/node/1508866704",
+    "osm/node/1508866717",
+    "osm/node/1508866721",
+    "osm/node/1564565308",
+    "osm/node/1564565317",
+    "osm/node/1564565319",
+    "osm/node/1564565320",
+    "osm/node/1564565322",
+    "osm/node/1564565323",
+    "osm/node/1564565341",
+    "osm/node/1564565350",
+    "osm/node/1600078494",
+    "osm/node/1600078513",
+    "osm/node/1600078527",
+    "osm/node/1600078539",
+    "osm/node/1712142325",
+    "osm/node/1716935403",
+    "osm/node/1716935410",
+    "osm/node/1716935412",
+    "osm/node/1851806883",
+    "osm/node/1851806891",
+    "osm/node/1851806918",
+    "osm/node/1851806920",
+    "osm/node/1855063137",
+    "osm/node/1855063138",
+    "osm/node/1855063146",
+    "osm/node/1935122314",
+    "osm/node/1990575378",
+    "osm/node/1990575381",
+    "osm/node/2049082015",
+    "osm/node/2121683070",
+    "osm/node/2121683071",
+    "osm/node/2396251899",
+    "osm/node/2396251905",
+    "osm/node/2443743009",
+    "osm/node/2521799118",
+    "osm/node/2521799122",
+    "osm/node/2676566816",
+    "osm/node/2676566821",
+    "osm/node/2676566822",
+    "osm/node/2676566824",
+    "osm/node/2676566825",
+    "osm/node/2676566826",
+    "osm/node/2676566828",
+    "osm/node/2676566829",
+    "osm/node/2746354598",
+    "osm/node/2746354601",
+    "osm/node/2867828979",
+    "osm/node/2867884585",
+    "osm/node/2868461065",
+    "osm/node/2868461066",
+    "osm/node/2868461068",
+    "osm/node/2868461069",
+    "osm/node/2871629348",
+    "osm/node/2917705956",
+    "osm/node/2917705957",
+    "osm/node/2917705958",
+    "osm/node/2917705959",
+    "osm/node/2917705960",
+    "osm/node/2917705961",
+    "osm/node/2917705962",
+    "osm/node/2917705963",
+    "osm/node/2917705964",
+    "osm/node/2917705965",
+    "osm/node/2917705966",
+    "osm/node/2917705969",
+    "osm/node/2917705970",
+    "osm/node/2917705971",
+    "osm/node/2917705978",
+    "osm/node/2917705979",
+    "osm/node/2926858772",
+    "osm/node/2926858773",
+    "osm/node/2926858774",
+    "osm/node/2926858775",
+    "osm/node/2926858776",
+    "osm/node/2926858777",
+    "osm/node/2926858778",
+    "osm/node/2926858779",
+    "osm/node/3035609814",
+    "osm/node/3115866841",
+    "osm/node/3115866842",
+    "osm/node/3115866843",
+    "osm/node/3115866844",
+    "osm/node/3115866857",
+    "osm/node/3115867175",
+    "osm/node/3115867176",
+    "osm/node/3115867177",
+    "osm/node/3115867178",
+    "osm/node/3115867179",
+    "osm/node/3115867180",
+    "osm/node/3115867181",
+    "osm/node/3115867182",
+    "osm/node/3115867183",
+    "osm/node/3115867184",
+    "osm/node/3115903694",
+    "osm/node/3115903724",
+    "osm/node/3117115140",
+    "osm/node/3117115142",
+    "osm/node/3117115143",
+    "osm/node/3117115144",
+    "osm/node/3117157529",
+    "osm/node/3117157567",
+    "osm/node/3117157568",
+    "osm/node/3117157569",
+    "osm/node/3117157570",
+    "osm/node/3117157586",
+    "osm/node/3117157589",
+    "osm/node/3117157590",
+    "osm/node/3117157591",
+    "osm/node/3117157592",
+    "osm/node/3117157593",
+    "osm/node/3117157594",
+    "osm/node/3117157599",
+    "osm/node/3117630037",
+    "osm/node/3117630038",
+    "osm/node/3117630039",
+    "osm/node/3117630040",
+    "osm/node/3117630041",
+    "osm/node/3117630042",
+    "osm/node/3117630043",
+    "osm/node/3117630044",
+    "osm/node/3117630045",
+    "osm/node/3207103362",
+    "osm/node/3380571704",
+    "osm/node/3611132587",
+    "osm/node/3611132592",
+    "osm/node/3611133904",
+    "osm/node/3659313691",
+    "osm/node/373310979",
+    "osm/node/4058985882",
+    "osm/node/41681217",
+    "osm/node/41685621",
+    "osm/node/41685805",
+    "osm/node/41685812",
+    "osm/node/41686110",
+    "osm/node/41686485",
+    "osm/node/41686486",
+    "osm/node/41689368",
+    "osm/node/41693037",
+    "osm/node/41693040",
+    "osm/node/41693041",
+    "osm/node/41693045",
+    "osm/node/41693047",
+    "osm/node/41693050",
+    "osm/node/41693051",
+    "osm/node/41693053",
+    "osm/node/41701636",
+    "osm/node/41701639",
+    "osm/node/41703666",
+    "osm/node/41704418",
+    "osm/node/41704422",
+    "osm/node/41704423",
+    "osm/node/41704426",
+    "osm/node/41704429",
+    "osm/node/41704434",
+    "osm/node/41704436",
+    "osm/node/41704438",
+    "osm/node/41704444",
+    "osm/node/41704451",
+    "osm/node/41704457",
+    "osm/node/41704460",
+    "osm/node/41704464",
+    "osm/node/41704467",
+    "osm/node/41704470",
+    "osm/node/41704473",
+    "osm/node/41704476",
+    "osm/node/41704477",
+    "osm/node/41704748",
+    "osm/node/41708184",
+    "osm/node/41710075",
+    "osm/node/41710078",
+    "osm/node/41710081",
+    "osm/node/41710083",
+    "osm/node/41710086",
+    "osm/node/41710089",
+    "osm/node/41710092",
+    "osm/node/41710094",
+    "osm/node/41710096",
+    "osm/node/41710100",
+    "osm/node/41710102",
+    "osm/node/41710105",
+    "osm/node/41710119",
+    "osm/node/41710121",
+    "osm/node/41718451",
+    "osm/node/41718483",
+    "osm/node/41718802",
+    "osm/node/41718804",
+    "osm/node/41718806",
+    "osm/node/41718810",
+    "osm/node/41718812",
+    "osm/node/41718815",
+    "osm/node/41719208",
+    "osm/node/41719209",
+    "osm/node/41719212",
+    "osm/node/41719215",
+    "osm/node/41719218",
+    "osm/node/41719220",
+    "osm/node/41719221",
+    "osm/node/41719225",
+    "osm/node/41719229",
+    "osm/node/41719232",
+    "osm/node/41719235",
+    "osm/node/41719236",
+    "osm/node/41719239",
+    "osm/node/41719241",
+    "osm/node/41719243",
+    "osm/node/41719245",
+    "osm/node/41719250",
+    "osm/node/41719252",
+    "osm/node/41719256",
+    "osm/node/41719259",
+    "osm/node/41719261",
+    "osm/node/41719264",
+    "osm/node/41719266",
+    "osm/node/41719269",
+    "osm/node/41719272",
+    "osm/node/41719275",
+    "osm/node/41719278",
+    "osm/node/41719280",
+    "osm/node/41719283",
+    "osm/node/41719286",
+    "osm/node/41719289",
+    "osm/node/41719293",
+    "osm/node/41719295",
+    "osm/node/41719298",
+    "osm/node/41719301",
+    "osm/node/41719303",
+    "osm/node/41719306",
+    "osm/node/41719310",
+    "osm/node/41719313",
+    "osm/node/41719315",
+    "osm/node/41719317",
+    "osm/node/41719320",
+    "osm/node/41719323",
+    "osm/node/41719325",
+    "osm/node/41719327",
+    "osm/node/41719330",
+    "osm/node/41719333",
+    "osm/node/41719334",
+    "osm/node/41719338",
+    "osm/node/41719343",
+    "osm/node/41719346",
+    "osm/node/41719348",
+    "osm/node/41719350",
+    "osm/node/41719353",
+    "osm/node/41719358",
+    "osm/node/41719361",
+    "osm/node/41719365",
+    "osm/node/41719368",
+    "osm/node/41719372",
+    "osm/node/41719374",
+    "osm/node/41719378",
+    "osm/node/41719380",
+    "osm/node/41719383",
+    "osm/node/41719386",
+    "osm/node/41719389",
+    "osm/node/41719459",
+    "osm/node/41719492",
+    "osm/node/41719502",
+    "osm/node/41719626",
+    "osm/node/41721398",
+    "osm/node/41721810",
+    "osm/node/41721816",
+    "osm/node/41721819",
+    "osm/node/41721824",
+    "osm/node/41721827",
+    "osm/node/41721830",
+    "osm/node/41721831",
+    "osm/node/41721834",
+    "osm/node/41721836",
+    "osm/node/41721841",
+    "osm/node/41721844",
+    "osm/node/41722615",
+    "osm/node/41722617",
+    "osm/node/41722619",
+    "osm/node/41722625",
+    "osm/node/41722627",
+    "osm/node/41722635",
+    "osm/node/41723309",
+    "osm/node/41724312",
+    "osm/node/41734728",
+    "osm/node/41734732",
+    "osm/node/41734735",
+    "osm/node/41734736",
+    "osm/node/41734737",
+    "osm/node/41734819",
+    "osm/node/41735640",
+    "osm/node/41736330",
+    "osm/node/41739284",
+    "osm/node/41744446",
+    "osm/node/41744468",
+    "osm/node/41744792",
+    "osm/node/41753331",
+    "osm/node/41754165",
+    "osm/node/41754166",
+    "osm/node/41754168",
+    "osm/node/41754173",
+    "osm/node/41754176",
+    "osm/node/41754179",
+    "osm/node/41754181",
+    "osm/node/41754183",
+    "osm/node/41754188",
+    "osm/node/41754190",
+    "osm/node/41754192",
+    "osm/node/41754195",
+    "osm/node/41756983",
+    "osm/node/41757654",
+    "osm/node/41758437",
+    "osm/node/41758439",
+    "osm/node/41768384",
+    "osm/node/41770777",
+    "osm/node/41770788",
+    "osm/node/41771172",
+    "osm/node/41774208",
+    "osm/node/41776132",
+    "osm/node/41780539",
+    "osm/node/41781212",
+    "osm/node/41785829",
+    "osm/node/41788736",
+    "osm/node/41789119",
+    "osm/node/41799850",
+    "osm/node/41803786",
+    "osm/node/41803787",
+    "osm/node/41803791",
+    "osm/node/41803793",
+    "osm/node/41803796",
+    "osm/node/41803802",
+    "osm/node/41803803",
+    "osm/node/41803805",
+    "osm/node/41803808",
+    "osm/node/41803810",
+    "osm/node/41803814",
+    "osm/node/41803816",
+    "osm/node/41803819",
+    "osm/node/41803821",
+    "osm/node/41803823",
+    "osm/node/41803825",
+    "osm/node/41803827",
+    "osm/node/41803828",
+    "osm/node/41803830",
+    "osm/node/41803831",
+    "osm/node/41803833",
+    "osm/node/41803835",
+    "osm/node/41803838",
+    "osm/node/41803841",
+    "osm/node/41803843",
+    "osm/node/41803847",
+    "osm/node/41803849",
+    "osm/node/41803852",
+    "osm/node/41803854",
+    "osm/node/41803855",
+    "osm/node/41803858",
+    "osm/node/41803860",
+    "osm/node/41803862",
+    "osm/node/41803864",
+    "osm/node/41803865",
+    "osm/node/41803867",
+    "osm/node/41803871",
+    "osm/node/41803873",
+    "osm/node/41803875",
+    "osm/node/41803878",
+    "osm/node/41803880",
+    "osm/node/41803881",
+    "osm/node/41803884",
+    "osm/node/41803886",
+    "osm/node/41803888",
+    "osm/node/41803891",
+    "osm/node/41803894",
+    "osm/node/41803896",
+    "osm/node/41803901",
+    "osm/node/41803904",
+    "osm/node/41803907",
+    "osm/node/41804158",
+    "osm/node/41805093",
+    "osm/node/41805604",
+    "osm/node/41806148",
+    "osm/node/41806188",
+    "osm/node/41806190",
+    "osm/node/41806549",
+    "osm/node/41806552",
+    "osm/node/41806554",
+    "osm/node/41806557",
+    "osm/node/41806563",
+    "osm/node/41806566",
+    "osm/node/41806570",
+    "osm/node/41806572",
+    "osm/node/41806574",
+    "osm/node/41806576",
+    "osm/node/41806579",
+    "osm/node/41806583",
+    "osm/node/41806836",
+    "osm/node/41821731",
+    "osm/node/41821733",
+    "osm/node/41822264",
+    "osm/node/41822267",
+    "osm/node/41822271",
+    "osm/node/41822273",
+    "osm/node/41822277",
+    "osm/node/41822307",
+    "osm/node/41822309",
+    "osm/node/41822311",
+    "osm/node/41822600",
+    "osm/node/41822715",
+    "osm/node/41822787",
+    "osm/node/41822789",
+    "osm/node/41822791",
+    "osm/node/41822794",
+    "osm/node/41822796",
+    "osm/node/41822799",
+    "osm/node/41822803",
+    "osm/node/41822804",
+    "osm/node/41822806",
+    "osm/node/41822811",
+    "osm/node/41822813",
+    "osm/node/41826713",
+    "osm/node/41826714",
+    "osm/node/41826716",
+    "osm/node/41826722",
+    "osm/node/41826727",
+    "osm/node/41826731",
+    "osm/node/41826739",
+    "osm/node/41828125",
+    "osm/node/41830824",
+    "osm/node/41831965",
+    "osm/node/41832097",
+    "osm/node/41832099",
+    "osm/node/41832101",
+    "osm/node/41832104",
+    "osm/node/41832108",
+    "osm/node/41832111",
+    "osm/node/41832114",
+    "osm/node/41832115",
+    "osm/node/41832120",
+    "osm/node/41832143",
+    "osm/node/41832150",
+    "osm/node/41832153",
+    "osm/node/41832156",
+    "osm/node/41832161",
+    "osm/node/41832163",
+    "osm/node/41832166",
+    "osm/node/41832168",
+    "osm/node/41832171",
+    "osm/node/41837889",
+    "osm/node/41837890",
+    "osm/node/41837892",
+    "osm/node/41837895",
+    "osm/node/41838733",
+    "osm/node/41838736",
+    "osm/node/41838738",
+    "osm/node/41838745",
+    "osm/node/41838746",
+    "osm/node/41838747",
+    "osm/node/41838751",
+    "osm/node/41839062",
+    "osm/node/41841077",
+    "osm/node/41843882",
+    "osm/node/41843884",
+    "osm/node/41843886",
+    "osm/node/41843887",
+    "osm/node/41843889",
+    "osm/node/41843893",
+    "osm/node/41843896",
+    "osm/node/41843899",
+    "osm/node/41843907",
+    "osm/node/41843911",
+    "osm/node/41843914",
+    "osm/node/41843917",
+    "osm/node/41843921",
+    "osm/node/41843925",
+    "osm/node/41843928",
+    "osm/node/41843931",
+    "osm/node/41859106",
+    "osm/node/41861100",
+    "osm/node/41861105",
+    "osm/node/41861106",
+    "osm/node/41861109",
+    "osm/node/41861111",
+    "osm/node/41861115",
+    "osm/node/41862956",
+    "osm/node/41868833",
+    "osm/node/41872544",
+    "osm/node/41873056",
+    "osm/node/41883178",
+    "osm/node/41883184",
+    "osm/node/41883189",
+    "osm/node/41883193",
+    "osm/node/41883195",
+    "osm/node/41883197",
+    "osm/node/41883199",
+    "osm/node/41883201",
+    "osm/node/41884352",
+    "osm/node/41884356",
+    "osm/node/41884359",
+    "osm/node/41884366",
+    "osm/node/41884369",
+    "osm/node/41884371",
+    "osm/node/41884373",
+    "osm/node/41884375",
+    "osm/node/41884377",
+    "osm/node/41884379",
+    "osm/node/41884381",
+    "osm/node/41884383",
+    "osm/node/41884392",
+    "osm/node/41884396",
+    "osm/node/41884404",
+    "osm/node/41884408",
+    "osm/node/41884411",
+    "osm/node/41884416",
+    "osm/node/41884420",
+    "osm/node/41884422",
+    "osm/node/41884428",
+    "osm/node/41884430",
+    "osm/node/41884432",
+    "osm/node/41884433",
+    "osm/node/41884442",
+    "osm/node/41884445",
+    "osm/node/41884447",
+    "osm/node/41884449",
+    "osm/node/41884454",
+    "osm/node/41884457",
+    "osm/node/41884459",
+    "osm/node/41884504",
+    "osm/node/41884506",
+    "osm/node/41884508",
+    "osm/node/41884509",
+    "osm/node/41884515",
+    "osm/node/41884520",
+    "osm/node/41884522",
+    "osm/node/41884526",
+    "osm/node/41919253",
+    "osm/node/41919258",
+    "osm/node/41919262",
+    "osm/node/41919264",
+    "osm/node/41919269",
+    "osm/node/41919273",
+    "osm/node/41919279",
+    "osm/node/41919283",
+    "osm/node/41919289",
+    "osm/node/41944313",
+    "osm/node/41944387",
+    "osm/node/41950910",
+    "osm/node/41950917",
+    "osm/node/41950927",
+    "osm/node/41953937",
+    "osm/node/41953940",
+    "osm/node/41953948",
+    "osm/node/41953951",
+    "osm/node/41953957",
+    "osm/node/41953959",
+    "osm/node/41953961",
+    "osm/node/41953965",
+    "osm/node/41953971",
+    "osm/node/41953975",
+    "osm/node/41953979",
+    "osm/node/41953986",
+    "osm/node/41954103",
+    "osm/node/41954107",
+    "osm/node/41954111",
+    "osm/node/41954116",
+    "osm/node/41954121",
+    "osm/node/41954128",
+    "osm/node/41954137",
+    "osm/node/41954142",
+    "osm/node/41954145",
+    "osm/node/4203300629",
+    "osm/node/4203300630",
+    "osm/node/4203300631",
+    "osm/node/4203300632",
+    "osm/node/4203300638",
+    "osm/node/4203300640",
+    "osm/node/4203300641",
+    "osm/node/4203300642",
+    "osm/node/4203300643",
+    "osm/node/4203300644",
+    "osm/node/4203300645",
+    "osm/node/4203300646",
+    "osm/node/4203300649",
+    "osm/node/4203300684",
+    "osm/node/4203300687",
+    "osm/node/4203300688",
+    "osm/node/4203304792",
+    "osm/node/4203304793",
+    "osm/node/4374185194",
+    "osm/node/4374185208",
+    "osm/node/4374185209",
+    "osm/node/4374185210",
+    "osm/node/4396577420",
+    "osm/node/4398471094",
+    "osm/node/456684544",
+    "osm/node/4640353013",
+    "osm/node/4640353015",
+    "osm/node/4640353017",
+    "osm/node/4640353022",
+    "osm/node/4640353033",
+    "osm/node/4640353034",
+    "osm/node/4640353035",
+    "osm/node/4640436541",
+    "osm/node/6146472546",
+    "osm/node/6146472562",
+    "osm/node/6146474505",
+    "osm/node/6146474518",
+    "osm/node/6269046314",
+    "osm/node/6269046315",
+    "osm/node/6269046316",
+    "osm/node/6269046317",
+    "osm/node/6269046318",
+    "osm/node/6269046319",
+    "osm/node/6269046320",
+    "osm/node/6269046321",
+    "osm/node/6269046322",
+    "osm/node/6269046323",
+    "osm/node/6269046327",
+    "osm/node/6269046329",
+    "osm/node/6269046332",
+    "osm/node/6269046333",
+    "osm/node/6314840273",
+    "osm/node/6314888903",
+    "osm/node/6314888905",
+    "osm/node/6314912398",
+    "osm/node/6314912399",
+    "osm/node/6314912400",
+    "osm/node/6314912401",
+    "osm/node/6314984115",
+    "osm/node/6316574162",
+    "osm/node/6316574163",
+    "osm/node/6316574164",
+    "osm/node/6316574165",
+    "osm/node/6316574166",
+    "osm/node/6316574167",
+    "osm/node/6316574168",
+    "osm/node/6316574169",
+    "osm/node/6316574178",
+    "osm/node/6316574180",
+    "osm/node/6316574181",
+    "osm/node/6316578987",
+    "osm/node/6393801748",
+    "osm/node/6393801753",
+    "osm/node/6393970033",
+    "osm/node/6655622065",
+    "osm/node/6680310026",
+    "osm/node/673398205",
+    "osm/node/673398206",
+    "osm/node/673398207",
+    "osm/node/673398208",
+    "osm/node/673398209",
+    "osm/node/673398210",
+    "osm/node/673398211",
+    "osm/node/6827376573",
+    "osm/node/715565611",
+    "osm/node/725288104",
+    "osm/node/727728243",
+    "osm/node/727728248",
+    "osm/node/727728297",
+    "osm/node/727728312",
+    "osm/node/727983095",
+    "osm/node/727983097",
+    "osm/node/727983099",
+    "osm/node/7412469076",
+    "osm/node/7412476989",
+    "osm/node/7412478185",
+    "osm/node/7412478197",
+    "osm/node/7412478203",
+    "osm/node/7412478226",
+    "osm/node/7412478267",
+    "osm/node/7412478270",
+    "osm/node/7438493141",
+    "osm/node/7438493152",
+    "osm/node/7438493154",
+    "osm/node/7786022758",
+    "osm/node/8076287085",
+    "osm/node/846508156",
+    "osm/node/846508163",
+    "osm/node/846508187",
+    "osm/node/846508201",
+    "osm/node/846508219",
+    "osm/node/846508221",
+    "osm/node/847421362",
+    "osm/node/847421371",
+    "osm/node/8499716355",
+    "osm/node/8499943405",
+    "osm/node/8499943414",
+    "osm/node/8500748820",
+    "osm/node/8500748840",
+    "osm/node/8542796993",
+    "osm/node/8554653624",
+    "osm/node/8554793270",
+    "osm/node/8554795537",
+    "osm/node/867637649",
+    "osm/node/867659269",
+    "osm/node/867659270",
+    "osm/node/8759592255",
+    "osm/node/8759685375",
+    "osm/node/8837166537",
+    "osm/node/8837166539",
+    "osm/node/8861553739",
+    "osm/node/8861553740",
+    "osm/node/8861553813",
+    "osm/node/8861553815",
+    "osm/node/8861553849",
+    "osm/node/8861553855",
+    "osm/node/8861553898",
+    "osm/node/8861553916",
+    "osm/node/8863703324",
+    "osm/node/8863703331",
+    "osm/node/8866962079",
+    "osm/node/8866962080",
+    "osm/node/8866962087",
+    "osm/node/8867005937",
+    "osm/node/8867005943",
+    "osm/node/8867005953",
+    "osm/node/8867005954",
+    "osm/node/8867005955",
+    "osm/node/8867005956",
+    "osm/node/8867005957",
+    "osm/node/8867005959",
+    "osm/node/912480140",
+    "osm/node/912480276",
+    "osm/node/915697835",
+    "osm/node/915697881",
+    "osm/node/915703522",
+    "osm/node/915703536",
+    "osm/node/918755478",
+    "osm/node/918755755",
+    "osm/node/918853166",
+    "osm/node/953286957",
+    "osm/node/953286958",
+    "osm/node/953286997",
+    "osm/node/953287002",
+    "osm/node/953287010",
+    "osm/node/953287046",
+    "osm/node/953287050",
+    "osm/node/953287063",
+    "osm/node/953287067",
+    "osm/node/953287115",
+    "osm/node/953287119",
+    "osm/node/953287123",
+    "osm/node/953287156",
+    "osm/node/9948447215",
+    "osm/way/1035105279",
+    "osm/way/105230871",
+    "osm/way/105230875",
+    "osm/way/105301964",
+    "osm/way/105301967",
+    "osm/way/105817088",
+    "osm/way/105817107",
+    "osm/way/118714159",
+    "osm/way/118714369",
+    "osm/way/118714428",
+    "osm/way/121772758",
+    "osm/way/1362909592",
+    "osm/way/1362909593",
+    "osm/way/1362909594",
+    "osm/way/1362909595",
+    "osm/way/1362912685",
+    "osm/way/1362912686",
+    "osm/way/1371041702",
+    "osm/way/1371041703",
+    "osm/way/1371041704",
+    "osm/way/1371045339",
+    "osm/way/1371930942",
+    "osm/way/1371930943",
+    "osm/way/1371930944",
+    "osm/way/1371930945",
+    "osm/way/1371930946",
+    "osm/way/1371930947",
+    "osm/way/1371930948",
+    "osm/way/1371930949",
+    "osm/way/1371930950",
+    "osm/way/1371930951",
+    "osm/way/1371930952",
+    "osm/way/1371938911",
+    "osm/way/1371938918",
+    "osm/way/1371938919",
+    "osm/way/1371938920",
+    "osm/way/1371938921",
+    "osm/way/1371941538",
+    "osm/way/1373460486",
+    "osm/way/1373460490",
+    "osm/way/1373460491",
+    "osm/way/1373464617",
+    "osm/way/1373464618",
+    "osm/way/1373464620",
+    "osm/way/1375130311",
+    "osm/way/1375130312",
+    "osm/way/1376363914",
+    "osm/way/1376363915",
+    "osm/way/1376363917",
+    "osm/way/1376363918",
+    "osm/way/1376363919",
+    "osm/way/1376363920",
+    "osm/way/1376363921",
+    "osm/way/1376363922",
+    "osm/way/1376363923",
+    "osm/way/1376363924",
+    "osm/way/1376363925",
+    "osm/way/1376363926",
+    "osm/way/1376363927",
+    "osm/way/1376363928",
+    "osm/way/139324082",
+    "osm/way/139324083",
+    "osm/way/1421512704",
+    "osm/way/1421512705",
+    "osm/way/1423011679",
+    "osm/way/1424962385",
+    "osm/way/1430532519",
+    "osm/way/1430532520",
+    "osm/way/1441852543",
+    "osm/way/1441852544",
+    "osm/way/159114442",
+    "osm/way/159114443",
+    "osm/way/231219048",
+    "osm/way/231219049",
+    "osm/way/240276922",
+    "osm/way/306620255",
+    "osm/way/37858528",
+    "osm/way/37858529",
+    "osm/way/37858530",
+    "osm/way/38193296",
+    "osm/way/44580088",
+    "osm/way/46203499",
+    "osm/way/469742761",
+    "osm/way/51863809",
+    "osm/way/53205667",
+    "osm/way/53205668",
+    "osm/way/5611531",
+    "osm/way/5612915",
+    "osm/way/5613264",
+    "osm/way/5613317",
+    "osm/way/5614135",
+    "osm/way/5615586",
+    "osm/way/5615823",
+    "osm/way/5619874",
+    "osm/way/5624868",
+    "osm/way/5624889",
+    "osm/way/5625239",
+    "osm/way/5627037",
+    "osm/way/5628183",
+    "osm/way/5629650",
+    "osm/way/5635242",
+    "osm/way/5635376",
+    "osm/way/57718907",
+    "osm/way/58523493",
+    "osm/way/620794321",
+    "osm/way/669246264",
+    "osm/way/669246265",
+    "osm/way/669246266",
+    "osm/way/669246267",
+    "osm/way/669453501",
+    "osm/way/669453506",
+    "osm/way/669453508",
+    "osm/way/669453509",
+    "osm/way/669453510",
+    "osm/way/669453511",
+    "osm/way/669453513",
+    "osm/way/669453515",
+    "osm/way/669453516",
+    "osm/way/669453517",
+    "osm/way/669453518",
+    "osm/way/669453519",
+    "osm/way/669453520",
+    "osm/way/669453521",
+    "osm/way/669453555",
+    "osm/way/669453556",
+    "osm/way/669453558",
+    "osm/way/669453559",
+    "osm/way/669453560",
+    "osm/way/669453564",
+    "osm/way/669453565",
+    "osm/way/669453567",
+    "osm/way/669453568",
+    "osm/way/669453569",
+    "osm/way/669453570",
+    "osm/way/669453571",
+    "osm/way/669453572",
+    "osm/way/669453573",
+    "osm/way/669453594",
+    "osm/way/669453595",
+    "osm/way/67777691",
+    "osm/way/682682813",
+    "osm/way/682682814",
+    "osm/way/682698663",
+    "osm/way/682698664",
+    "osm/way/682836502",
+    "osm/way/682836503",
+    "osm/way/682856039"
+  ],
+  "pilot_wgs84": [
+    -73.683585,
+    42.728278,
+    -73.675583,
+    42.730755
+  ],
+  "policy": "Retain all intersecting source features whole; retain outside graph dependencies separately. Do not crop on import without a new reviewed policy.",
+  "relation_review": [
+    {
+      "decision": "Keep every member occurrence, original order and role, including repeated members.",
+      "id": "osm/relation/6249058",
+      "member_count": 1,
+      "scope": "inside"
+    },
+    {
+      "decision": "Keep every member occurrence, original order and role, including repeated members.",
+      "id": "osm/relation/8670722",
+      "member_count": 5,
+      "scope": "boundary_crossing"
+    },
+    {
+      "decision": "Keep every member occurrence, original order and role, including repeated members.",
+      "id": "osm/relation/9312043",
+      "member_count": 92,
+      "scope": "boundary_crossing"
+    },
+    {
+      "decision": "Keep every member occurrence, original order and role, including repeated members.",
+      "id": "osm/relation/9312045",
+      "member_count": 111,
+      "scope": "boundary_crossing"
+    }
+  ],
+  "scope_counts": {
+    "boundary_crossing": 68,
+    "inside": 2597,
+    "outside_dependency": 1443
+  }
+}

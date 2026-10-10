@@ -1,0 +1,133 @@
+{
+  "code_hashes": {
+    "scripts/pilot_gis.py": "30ee0d9c07d6c25f2684927549ba5e5e1d82a235f6db7af8b590021551ada3c5",
+    "scripts/prepare_pilot_gis.py": "381a1310e5b54b4962d1012d62c94165655516ab7be8022fadfba296a5977613",
+    "scripts/validate_pilot_gis.py": "50216f4ac2da6745ba434c6d0ba0a3e5026dafc844c083853f20fce01b76073d"
+  },
+  "file_sha256": {
+    "boundary_review.json": "b75cf52927191e6d4c2e978d86d5cc5bbd951e2da1ef418fd8fb79354664ad2f",
+    "datum_operations.json": "6fc8ad756892b880263702c2bc4b6d66c1e8c0b046913ce5fdd09579408e2785",
+    "nys/buildings.json": "e50b33d7a9346638cf0346c958ff28b85c63c44ea166f5bc27d74cfb08ca5eef",
+    "osm/accessibility.json": "a60558a3fada08073fee183fbfc50e1daacb9879e006440a5cf7d8bc6cf5ca52",
+    "osm/buildings.json": "456bb637a3f22f204d2d07d0b4ffe4eb737f615f5f90d16ed0ac44908af94a84",
+    "osm/entrances.json": "70e9295cc15b7c6159677892598c638aa5f7903061515024e64ab2f898fbb626",
+    "osm/landcover.json": "372fbf8552115bfef97a46e3d4bc831c0f9d338671a01cf2043aad5dbc1471ee",
+    "osm/other.json": "77735ecda7d248283438d08e718ae147fff16e81fdc4690cd761f9e30b7211ca",
+    "osm/paths.json": "466a0c6e5e5853373288b77b739260e971f09b05aa3bcb1b697cc9874dfbb0ec",
+    "osm/roads.json": "76f3c5cc2b3acacf7a64c4d9af7c8e6f5ccef0862a3e3281c10c162d1a0207f4",
+    "osm/source_graph.json": "e1f1abe33216ab047bb4660653d6fc45b1a82b0267e7cfeb681fed2f89eb21cc",
+    "osm/stairs.json": "51a94cc68e7dc16fdb8621490b166b9b806b7d27ba353fc38769cc161b81f051",
+    "processing_log.json": "9bbd02f58accfdbe3653f10474ff34da419c4dab6d71c6ace3ddc03c167eba47",
+    "terrain_reference.json": "7da652a28e05c03d570246d8c7ef2f961b18c14584f6fd9bfada608b13773c94"
+  },
+  "input_hashes": {
+    "elevation/USGS_1M_18_x60y474_NY_FEMAR2_Central_2018_D19.tif": "bfe951155ae4a2e6ef10e788605f6174fd4efe0d7956a6fea4da036bf0512533",
+    "nys/pilot_buildings.json": "9cca332a62733d030f80cb46359994ea6624ae58ea6abaaa4618711b10b41cd5",
+    "osm/pilot.json": "7526dbf7631bfcba5ed7a584eaa6cd0fbc3862d306692dce7c08d48896291670",
+    "sources.json": "7236a89a518bf381c882c3089bc94f29cf7fa24b5d3356414c0c57c4d6aa60ac"
+  },
+  "output_crs": "EPSG:26918",
+  "pilot": {
+    "bbox_order": "west,south,east,north",
+    "bbox_wgs84": [
+      -73.683585,
+      42.728278,
+      -73.675583,
+      42.730755
+    ],
+    "buildings": [
+      {
+        "bounds": {
+          "maxlat": 42.7298638,
+          "maxlon": -73.6789137,
+          "minlat": 42.7287287,
+          "minlon": -73.6796245
+        },
+        "name": "Darrin Communications Center",
+        "osm_id": 104737313,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.729886,
+          "maxlon": -73.6797099,
+          "minlat": 42.729258,
+          "minlon": -73.6808604
+        },
+        "name": "J Erik Jonsson Engineering Center",
+        "osm_id": 104737275,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.7297155,
+          "maxlon": -73.68235,
+          "minlat": 42.7290449,
+          "minlon": -73.6829738
+        },
+        "name": "Folsom Library",
+        "osm_id": 104737293,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.7301379,
+          "maxlon": -73.6808683,
+          "minlat": 42.7298899,
+          "minlon": -73.6814837
+        },
+        "name": "Greene Building",
+        "osm_id": 104737202,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.7303044,
+          "maxlon": -73.6822735,
+          "minlat": 42.7300505,
+          "minlon": -73.6828829
+        },
+        "name": "Amos Eaton Hall",
+        "osm_id": 104737189,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.730151,
+          "maxlon": -73.6816963,
+          "minlat": 42.7299732,
+          "minlon": -73.6821114
+        },
+        "name": "Lally Hall",
+        "osm_id": 104737314,
+        "osm_type": "way"
+      },
+      {
+        "bounds": {
+          "maxlat": 42.7302694,
+          "maxlon": -73.6761942,
+          "minlat": 42.7295449,
+          "minlon": -73.6770961
+        },
+        "name": "Rensselaer Student Union",
+        "osm_id": 104737234,
+        "osm_type": "way"
+      }
+    ],
+    "crs": "EPSG:4326",
+    "height_m": 275.1636590901618,
+    "method": "Envelope of complete OSM footprints for seven exact-name matches; 50 m geodesic outward margin, rounded outward to 6 decimals. Acquisition selection only; no geometry clipped.",
+    "osm_snapshot_utc": "2026-10-10T04:03:46Z",
+    "width_m": 655.34560664596
+  },
+  "pilot_area_sha256": "63529e27a2ba6801266dc44e4aa7bf7a533c8fd91c668010c0a25deff29737f6",
+  "raw_files_verified": 47,
+  "raw_seal_sha256": "fd8934592d767046a0f1f95ddd0f3d021d1ed19fcaac0a02a2afd2c3557d917c",
+  "schema": "rpi-pilot-manifest-v1",
+  "source_policy": "OSM and NYS remain separate; no fusion",
+  "units": "metre",
+  "validation_scope": "Source fidelity and derived layer consistency only; not proof of accessibility, survey accuracy, routing safety or Blender import readiness.",
+  "versions": {
+    "shapely": "2.2.0"
+  }
+}

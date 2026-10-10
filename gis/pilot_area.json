@@ -1,0 +1,93 @@
+{
+  "bbox_wgs84": [
+    -73.683585,
+    42.728278,
+    -73.675583,
+    42.730755
+  ],
+  "bbox_order": "west,south,east,north",
+  "crs": "EPSG:4326",
+  "method": "Envelope of complete OSM footprints for seven exact-name matches; 50 m geodesic outward margin, rounded outward to 6 decimals. Acquisition selection only; no geometry clipped.",
+  "osm_snapshot_utc": "2026-10-10T04:03:46Z",
+  "buildings": [
+    {
+      "name": "Darrin Communications Center",
+      "osm_type": "way",
+      "osm_id": 104737313,
+      "bounds": {
+        "minlat": 42.7287287,
+        "minlon": -73.6796245,
+        "maxlat": 42.7298638,
+        "maxlon": -73.6789137
+      }
+    },
+    {
+      "name": "J Erik Jonsson Engineering Center",
+      "osm_type": "way",
+      "osm_id": 104737275,
+      "bounds": {
+        "minlat": 42.729258,
+        "minlon": -73.6808604,
+        "maxlat": 42.729886,
+        "maxlon": -73.6797099
+      }
+    },
+    {
+      "name": "Folsom Library",
+      "osm_type": "way",
+      "osm_id": 104737293,
+      "bounds": {
+        "minlat": 42.7290449,
+        "minlon": -73.6829738,
+        "maxlat": 42.7297155,
+        "maxlon": -73.68235
+      }
+    },
+    {
+      "name": "Greene Building",
+      "osm_type": "way",
+      "osm_id": 104737202,
+      "bounds": {
+        "minlat": 42.7298899,
+        "minlon": -73.6814837,
+        "maxlat": 42.7301379,
+        "maxlon": -73.6808683
+      }
+    },
+    {
+      "name": "Amos Eaton Hall",
+      "osm_type": "way",
+      "osm_id": 104737189,
+      "bounds": {
+        "minlat": 42.7300505,
+        "minlon": -73.6828829,
+        "maxlat": 42.7303044,
+        "maxlon": -73.6822735
+      }
+    },
+    {
+      "name": "Lally Hall",
+      "osm_type": "way",
+      "osm_id": 104737314,
+      "bounds": {
+        "minlat": 42.7299732,
+        "minlon": -73.6821114,
+        "maxlat": 42.730151,
+        "maxlon": -73.6816963
+      }
+    },
+    {
+      "name": "Rensselaer Student Union",
+      "osm_type": "way",
+      "osm_id": 104737234,
+      "bounds": {
+        "minlat": 42.7295449,
+        "minlon": -73.6770961,
+        "maxlat": 42.7302694,
+        "maxlon": -73.6761942
+      }
+    }
+  ],
+  "width_m": 655.34560664596,
+  "height_m": 275.1636590901618
+}

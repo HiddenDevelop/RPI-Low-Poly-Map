@@ -1,0 +1,369 @@
+{
+ "currentVersion": 10.81,
+ "id": 1,
+ "name": "Building Footprint County Overview",
+ "type": "Feature Layer",
+ "parentLayer": {
+  "id": 0,
+  "name": "NYS Building Footprints"
+ },
+ "defaultVisibility": true,
+ "minScale": 0,
+ "maxScale": 24001,
+ "canScaleSymbols": false,
+ "geometryType": "esriGeometryPolygon",
+ "description": "",
+ "copyrightText": "NYS ITS Geospatial Services",
+ "editFieldsInfo": null,
+ "ownershipBasedAccessControlForFeatures": null,
+ "syncCanReturnChanges": false,
+ "relationships": [],
+ "isDataVersioned": false,
+ "isDataArchived": false,
+ "isCoGoEnabled": false,
+ "supportsRollbackOnFailureParameter": true,
+ "archivingInfo": {
+  "supportsQueryWithHistoricMoment": false,
+  "startArchivingMoment": -1
+ },
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportsValidateSQL": true,
+ "supportsCoordinatesQuantization": true,
+ "supportsCalculate": true,
+ "supportsDatumTransformation": true,
+ "advancedQueryCapabilities": {
+  "supportsPagination": true,
+  "supportsTrueCurve": true,
+  "supportsQueryWithDistance": true,
+  "supportsReturningQueryExtent": true,
+  "supportsStatistics": true,
+  "supportsHavingClause": true,
+  "supportsOrderBy": true,
+  "supportsDistinct": true,
+  "supportsCountDistinct": true,
+  "supportsQueryWithResultType": true,
+  "supportsReturningGeometryCentroid": true,
+  "supportsSqlExpression": true,
+  "supportsQueryWithDatumTransformation": true
+ },
+ "extent": {
+  "xmin": 105571.4985,
+  "ymin": 4483097.7919,
+  "xmax": 764142.7636,
+  "ymax": 4985441.4929,
+  "spatialReference": {
+   "wkid": 26918,
+   "latestWkid": 26918
+  }
+ },
+ "sourceSpatialReference": {
+  "wkid": 26918,
+  "latestWkid": 26918
+ },
+ "drawingInfo": {
+  "renderer": {
+   "type": "uniqueValue",
+   "field1": "LABEL",
+   "field2": null,
+   "field3": null,
+   "defaultSymbol": null,
+   "defaultLabel": null,
+   "uniqueValueInfos": [
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       0,
+       169,
+       230,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        0,
+        92,
+        230,
+        255
+       ],
+       "width": 2
+      }
+     },
+     "value": "Original Data: Microsoft, Open Data",
+     "label": "Original Data: Microsoft, Open Data; Original Data: NYSERDA, Microsoft.",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       0,
+       169,
+       230,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        0,
+        92,
+        230,
+        255
+       ],
+       "width": 2
+      }
+     },
+     "value": "Original Data: NYSERDA, Microsoft.",
+     "label": "Original Data: Microsoft, Open Data; Original Data: NYSERDA, Microsoft.",
+     "description": ""
+    },
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       152,
+       230,
+       0,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        56,
+        168,
+        0,
+        255
+       ],
+       "width": 2
+      }
+     },
+     "value": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+     "label": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+     "description": ""
+    }
+   ],
+   "fieldDelimiter": ";"
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "hasM": false,
+ "hasZ": false,
+ "allowGeometryUpdates": false,
+ "allowTrueCurvesUpdates": false,
+ "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+ "hasAttachments": false,
+ "supportsApplyEditsWithGlobalIds": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "objectIdField": "OBJECTID",
+ "globalIdField": "",
+ "displayField": "NAME",
+ "typeIdField": "LABEL",
+ "subtypeField": "",
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null,
+   "editable": false,
+   "nullable": false,
+   "defaultValue": null,
+   "modelName": "OBJECTID"
+  },
+  {
+   "name": "NAME",
+   "type": "esriFieldTypeString",
+   "alias": "NAME",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 40,
+   "defaultValue": null,
+   "modelName": "NAME"
+  },
+  {
+   "name": "SOURCE",
+   "type": "esriFieldTypeString",
+   "alias": "Source",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "Source"
+  },
+  {
+   "name": "FOOTPRINTS_DATE_RANGE",
+   "type": "esriFieldTypeString",
+   "alias": "Footprints_Date_Range",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 255,
+   "defaultValue": null,
+   "modelName": "Footprints_Date_Range"
+  },
+  {
+   "name": "LASTUPDATE",
+   "type": "esriFieldTypeString",
+   "alias": "LastUpdate",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 10,
+   "defaultValue": null,
+   "modelName": "LastUpdate"
+  },
+  {
+   "name": "UPDATESOURCE",
+   "type": "esriFieldTypeString",
+   "alias": "UpdateSource",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 150,
+   "defaultValue": null,
+   "modelName": "UpdateSource"
+  },
+  {
+   "name": "DIRECTDOWNLOAD",
+   "type": "esriFieldTypeString",
+   "alias": "DirectDownload",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 250,
+   "defaultValue": null,
+   "modelName": "DirectDownload"
+  },
+  {
+   "name": "LABEL",
+   "type": "esriFieldTypeString",
+   "alias": "LABEL",
+   "domain": null,
+   "editable": true,
+   "nullable": true,
+   "length": 250,
+   "defaultValue": null,
+   "modelName": "LABEL"
+  }
+ ],
+ "geometryField": {
+  "name": "SHAPE",
+  "type": "esriFieldTypeGeometry",
+  "alias": "Shape",
+  "domain": null,
+  "editable": false,
+  "nullable": true,
+  "defaultValue": null,
+  "modelName": "Shape"
+ },
+ "indexes": [
+  {
+   "name": "R90845_SDE_ROWID_UK",
+   "fields": "OBJECTID",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  },
+  {
+   "name": "A5160_IX1",
+   "fields": "SHAPE",
+   "isAscending": true,
+   "isUnique": true,
+   "description": ""
+  }
+ ],
+ "dateFieldsTimeReference": {
+  "timeZone": "UTC",
+  "respectsDaylightSaving": false
+ },
+ "types": [
+  {
+   "id": "Original Data: Microsoft, Open Data",
+   "name": "Original Data: Microsoft, Open Data",
+   "domains": {},
+   "templates": [
+    {
+     "name": "Original Data: Microsoft, Open Data",
+     "description": "",
+     "prototype": {
+      "attributes": {
+       "DIRECTDOWNLOAD": null,
+       "LABEL": "Original Data: Microsoft, Open Data",
+       "NAME": null,
+       "SOURCE": null,
+       "FOOTPRINTS_DATE_RANGE": null,
+       "LASTUPDATE": null,
+       "UPDATESOURCE": null
+      }
+     },
+     "drawingTool": "esriFeatureEditToolPolygon"
+    }
+   ]
+  },
+  {
+   "id": "Original Data: NYSERDA, Microsoft.",
+   "name": "Original Data: NYSERDA, Microsoft.",
+   "domains": {},
+   "templates": [
+    {
+     "name": "Original Data: NYSERDA, Microsoft.",
+     "description": "",
+     "prototype": {
+      "attributes": {
+       "DIRECTDOWNLOAD": null,
+       "LABEL": "Original Data: NYSERDA, Microsoft.",
+       "NAME": null,
+       "SOURCE": null,
+       "FOOTPRINTS_DATE_RANGE": null,
+       "LASTUPDATE": null,
+       "UPDATESOURCE": null
+      }
+     },
+     "drawingTool": "esriFeatureEditToolPolygon"
+    }
+   ]
+  },
+  {
+   "id": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+   "name": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+   "domains": {},
+   "templates": [
+    {
+     "name": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+     "description": "",
+     "prototype": {
+      "attributes": {
+       "DIRECTDOWNLOAD": null,
+       "LABEL": "Original Data: NYSERDA, Microsoft. Updated by NYS Geospatial Services.",
+       "NAME": null,
+       "SOURCE": null,
+       "FOOTPRINTS_DATE_RANGE": null,
+       "LASTUPDATE": null,
+       "UPDATESOURCE": null
+      }
+     },
+     "drawingTool": "esriFeatureEditToolPolygon"
+    }
+   ]
+  }
+ ],
+ "templates": [],
+ "maxRecordCount": 50000,
+ "supportedQueryFormats": "JSON, geoJSON",
+ "capabilities": "Query",
+ "useStandardizedQueries": true,
+ "standardMaxRecordCount": 4000,
+ "tileMaxRecordCount": 4000,
+ "standardMaxRecordCountNoGeometry": 32000,
+ "maxRecordCountFactor": 1
+}
