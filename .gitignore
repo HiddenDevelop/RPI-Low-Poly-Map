@@ -21,6 +21,10 @@ __pycache__/
 !/renders/README.md
 !/renders/rpi_lowpoly_20261010_01_final_overview.png
 !/renders/rpi_lowpoly_20261010_pass02_overview_v03.png
+!/renders/rpi_lowpoly_20261011_pass03_r02_overview.png
+!/renders/rpi_lowpoly_20261011_pass03_r02_greene.png
+!/renders/rpi_lowpoly_20261011_pass03_r02_jec_dcc.png
+!/renders/rpi_lowpoly_20261011_pass03_r02_union.png
 /exports/*
 !/exports/.gitkeep
 !/exports/README.md

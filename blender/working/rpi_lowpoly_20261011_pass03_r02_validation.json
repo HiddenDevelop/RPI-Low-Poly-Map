@@ -1,0 +1,39 @@
+{
+  "baseline_collections": 20,
+  "baseline_objects": 1210,
+  "baseline_sha256": "0fca24770d9954e78211968fe3e339e7fa330eb13e079e1dacdaf1ab9fca329e",
+  "checks": [
+    "All original object world/local transforms, world vertices, mesh edges/faces/loops",
+    "Original source metadata, ordered graph and multilevel tags",
+    "Nested collection hierarchy, linked object memberships and library references",
+    "Original curves including world-space points; original material assignments",
+    "New meshes match independently footprint-validated payload"
+  ],
+  "errors": [],
+  "limitations": [
+    "New roof heights and part boundaries are illustrative; no measured heights inferred.",
+    "No routing, accessibility, pavement or source-coordinate correction."
+  ],
+  "new_mesh_max_serialization_error_m": 1.3966462574899197e-05,
+  "new_meshes": 44,
+  "original_geometry_topology_metadata_exact": true,
+  "original_source_validation": {
+    "baseline_objects_compared": 455,
+    "checks": [
+      "exact world transforms and world-space vertices",
+      "edges, faces and loops",
+      "source metadata and ordered topology",
+      "nested collection hierarchy and linked memberships",
+      "source graph including ordered relation members and multilevel tags"
+    ],
+    "errors": [],
+    "passed": true
+  },
+  "passed": true,
+  "payload_sha256": "2b2103144f8e98d99f1071ab0c0f2586ffe0c24fc7a6fad0fbd47c3a6814815a",
+  "presentation_visibility_exceptions": [
+    "VIS_osm_way_104737234",
+    "VIS_osm_way_104737275",
+    "VIS_osm_way_104737313"
+  ]
+}

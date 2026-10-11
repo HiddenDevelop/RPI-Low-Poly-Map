@@ -4,6 +4,14 @@ Create a geographically accurate, cute low-poly RPI campus map for disability-ac
 
 ## Validated pilot (2026-10-10)
 
+### Landmark roof pass (2026-10-11)
+
+[Pass 03 Blender file](blender/working/rpi_lowpoly_20261011_pass03_r02_v01.blend) · [Review and validation notes](blender/working/rpi_lowpoly_20261011_pass03_REVIEW.md)
+
+Greene gains a hipped roof and roof-window cues; JEC, Union and DCC gain distinct roof masses. Heights remain illustrative. All 1,210 original objects retain their geometry and metadata, with only three old display extrusions hidden. Geographic footprints and accessibility data are unchanged.
+
+![Pass 03 overview](renders/rpi_lowpoly_20261011_pass03_r02_overview.png)
+
 ### Latest evidence pass: imagery and elevation
 
 [Evidence review](gis/cleaned/evidence_20261010_01/README.md) · [Imagery overlay](gis/cleaned/evidence_20261010_01/source_overlay.png) · [Integrity checks](gis/cleaned/evidence_20261010_01/integrity_validation.json)
