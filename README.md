@@ -4,6 +4,12 @@ Create a geographically accurate, cute low-poly RPI campus map for disability-ac
 
 ## Validated pilot (2026-10-10)
 
+### Latest evidence pass: imagery and elevation
+
+[Evidence review](gis/cleaned/evidence_20261010_01/README.md) · [Imagery overlay](gis/cleaned/evidence_20261010_01/source_overlay.png) · [Integrity checks](gis/cleaned/evidence_20261010_01/integrity_validation.json)
+
+Native 2024 NYS imagery and two USGS LiDAR tiles support eight separate building/pavement review items. No map geometry or Blender files changed. The inspected point clouds have no building-classified returns in the pilot, so roof elevations remain unknown. Source provenance, datum operations and remaining evidence gaps are documented in the review.
+
 ### Latest presentation pass: pavement and landmarks
 
 [Open pass 02 Blender file](blender/working/rpi_lowpoly_20261010_pass02_v03.blend) · [Review and limitations](blender/working/rpi_lowpoly_20261010_pass02_REVIEW.md) · [Validation](blender/working/rpi_lowpoly_20261010_pass02_validation.json)

@@ -1,0 +1,26 @@
+{
+  "bytes": 3522682,
+  "download_completed_utc": "2026-10-10T19:43:23.896280+00:00",
+  "download_started_utc": "2026-10-10T19:43:22.943321+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://cdn.proj.org/us_noaa_nadcon5_nad83_1986_nad83_harn_conus.tif",
+  "resolved_url": "https://cdn.proj.org/us_noaa_nadcon5_nad83_1986_nad83_harn_conus.tif",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Connection": "keep-alive",
+    "Content-Length": "3522682",
+    "Content-Type": "image/tiff",
+    "Date": "Sat, 10 Oct 2026 19:43:24 GMT",
+    "ETag": "\"9c987d11d4f72590c74d6d642e28e321\"",
+    "Last-Modified": "Sat, 17 Dec 2022 14:42:51 GMT",
+    "Server": "AmazonS3",
+    "Via": "1.1 4bcc80622a10d0ee4a55e5fd4f387c84.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "TGlhxqRELX4-Rhkq7osusUjPDli3FDWt4nPUG2OsXRJ22zz7Tf-IEw==",
+    "X-Amz-Cf-Pop": "JFK52-P2",
+    "X-Cache": "RefreshHit from cloudfront",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-version-id": "w2Ahu8X1Wxye5ABBeT6xY0MZbbYWfWgP"
+  },
+  "sha256": "e12ac2e886edafe616e0994c610ad3daa01db17c00d0e9938145d956f249fc2f"
+}

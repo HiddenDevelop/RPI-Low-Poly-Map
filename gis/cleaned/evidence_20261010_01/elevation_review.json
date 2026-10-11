@@ -1,0 +1,1110 @@
+{
+  "capture_period": "2019-04-25 through 2020-09-25 (project metadata)",
+  "geoid_model": "GEOID12B",
+  "horizontal_epsg": 6350,
+  "limitations": [
+    "Only horizontal coordinates transformed. Z remains native NAVD88/GEOID12B metres.",
+    "Tile bounding-box coverage is not proof of continuous classified-return coverage.",
+    "Class 6 samples are elevations, not building heights; no ground subtraction or model update.",
+    "Per-tile statistics stay separate; no merging or duplicate counting across tiles.",
+    "Withheld and overlap-flagged returns excluded. Unknown roof elevations remain null.",
+    "10 cm RMSEz is a project design class, not measured campus accuracy.",
+    "Temporal differences and inherited OSM datum uncertainty affect footprint sampling."
+  ],
+  "operation": {
+    "accuracy_m": 0.2,
+    "description": "Inverse of UTM zone 18N + NAD83 to NAD83(HARN) (47) + NAD83(HARN) to NAD83(FBN) (1) + NAD83(FBN) to NAD83(NSRS2007) (1) + NAD83(NSRS2007) to NAD83(2011) (1) + Conus Albers",
+    "pipeline": "proj=pipeline step inv proj=utm zone=18 ellps=GRS80 step proj=gridshift grids=us_noaa_nadcon5_nad83_1986_nad83_harn_conus.tif step proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_harn_nad83_fbn_conus.tif step proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_fbn_nad83_2007_conus.tif step proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_2007_nad83_2011_conus.tif step proj=aea lat_0=23 lon_0=-96 lat_1=29.5 lat_2=45.5 x_0=0 y_0=0 ellps=GRS80",
+    "projjson": {
+      "$schema": "https://proj.org/schemas/v0.7/projjson.schema.json",
+      "accuracy": "0.2",
+      "area": "United States (USA) - CONUS onshore - Alabama; Arizona; Arkansas; California; Colorado; Connecticut; Delaware; Florida; Georgia; Idaho; Illinois; Indiana; Iowa; Kansas; Kentucky; Louisiana; Maine; Maryland; Massachusetts; Michigan; Minnesota; Mississippi; Missouri; Montana; Nebraska; Nevada; New Hampshire; New Jersey; New Mexico; New York; North Carolina; North Dakota; Ohio; Oklahoma; Oregon; Pennsylvania; Rhode Island; South Carolina; South Dakota; Tennessee; Texas; Utah; Vermont; Virginia; Washington; West Virginia; Wisconsin; Wyoming. US Gulf of Mexico offshore continental shelf (GoM OCS).",
+      "bbox": {
+        "east_longitude": -66.91,
+        "north_latitude": 49.38,
+        "south_latitude": 23.82,
+        "west_longitude": -124.79
+      },
+      "name": "Inverse of UTM zone 18N + NAD83 to NAD83(HARN) (47) + NAD83(HARN) to NAD83(FBN) (1) + NAD83(FBN) to NAD83(NSRS2007) (1) + NAD83(NSRS2007) to NAD83(2011) (1) + Conus Albers",
+      "source_crs": {
+        "base_crs": {
+          "coordinate_system": {
+            "axis": [
+              {
+                "abbreviation": "Lat",
+                "direction": "north",
+                "name": "Geodetic latitude",
+                "unit": "degree"
+              },
+              {
+                "abbreviation": "Lon",
+                "direction": "east",
+                "name": "Geodetic longitude",
+                "unit": "degree"
+              }
+            ],
+            "subtype": "ellipsoidal"
+          },
+          "datum": {
+            "ellipsoid": {
+              "inverse_flattening": 298.257222101,
+              "name": "GRS 1980",
+              "semi_major_axis": 6378137
+            },
+            "name": "North American Datum 1983",
+            "type": "GeodeticReferenceFrame"
+          },
+          "id": {
+            "authority": "EPSG",
+            "code": 4269
+          },
+          "name": "NAD83",
+          "remarks": "Longitude is POSITIVE EAST. The adjustment included connections to Greenland and Mexico but the system was not adopted there. For applications with an accuracy of better than 1m replaced by NAD83(HARN) in the US and PRVI and by NAD83(CSRS) in Canada.",
+          "type": "GeographicCRS"
+        },
+        "conversion": {
+          "method": {
+            "id": {
+              "authority": "EPSG",
+              "code": 9807
+            },
+            "name": "Transverse Mercator"
+          },
+          "name": "UTM zone 18N",
+          "parameters": [
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8801
+              },
+              "name": "Latitude of natural origin",
+              "unit": "degree",
+              "value": 0
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8802
+              },
+              "name": "Longitude of natural origin",
+              "unit": "degree",
+              "value": -75
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8805
+              },
+              "name": "Scale factor at natural origin",
+              "unit": "unity",
+              "value": 0.9996
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8806
+              },
+              "name": "False easting",
+              "unit": "metre",
+              "value": 500000
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8807
+              },
+              "name": "False northing",
+              "unit": "metre",
+              "value": 0
+            }
+          ]
+        },
+        "coordinate_system": {
+          "axis": [
+            {
+              "abbreviation": "E",
+              "direction": "east",
+              "name": "Easting",
+              "unit": "metre"
+            },
+            {
+              "abbreviation": "N",
+              "direction": "north",
+              "name": "Northing",
+              "unit": "metre"
+            }
+          ],
+          "subtype": "Cartesian"
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 26918
+        },
+        "name": "NAD83 / UTM zone 18N",
+        "type": "ProjectedCRS"
+      },
+      "steps": [
+        {
+          "id": {
+            "authority": "INVERSE(EPSG)",
+            "code": 16018
+          },
+          "method": {
+            "id": {
+              "authority": "INVERSE(EPSG)",
+              "code": 9807
+            },
+            "name": "Inverse of Transverse Mercator"
+          },
+          "name": "Inverse of UTM zone 18N",
+          "parameters": [
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8801
+              },
+              "name": "Latitude of natural origin",
+              "unit": "degree",
+              "value": 0
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8802
+              },
+              "name": "Longitude of natural origin",
+              "unit": "degree",
+              "value": -75
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8805
+              },
+              "name": "Scale factor at natural origin",
+              "unit": "unity",
+              "value": 0.9996
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8806
+              },
+              "name": "False easting",
+              "unit": "metre",
+              "value": 500000
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8807
+              },
+              "name": "False northing",
+              "unit": "metre",
+              "value": 0
+            }
+          ],
+          "type": "Conversion"
+        },
+        {
+          "accuracy": "0.05",
+          "id": {
+            "authority": "DERIVED_FROM(EPSG)",
+            "code": 8556
+          },
+          "method": {
+            "name": "GENERAL_SHIFT_GTIFF"
+          },
+          "name": "NAD83 to NAD83(HARN) (47)",
+          "parameters": [
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8656
+              },
+              "name": "Latitude and longitude difference file",
+              "value": "us_noaa_nadcon5_nad83_1986_nad83_harn_conus.tif"
+            }
+          ],
+          "remarks": "Uses NADCON5 method which expects longitudes positive east in range 0-360\u00b0; EPSG source and target CRSs have longitudes positive east in range -180\u00b0 to +180\u00b0.",
+          "source_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "North American Datum 1983",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 4269
+            },
+            "name": "NAD83",
+            "remarks": "Longitude is POSITIVE EAST. The adjustment included connections to Greenland and Mexico but the system was not adopted there. For applications with an accuracy of better than 1m replaced by NAD83(HARN) in the US and PRVI and by NAD83(CSRS) in Canada.",
+            "type": "GeographicCRS"
+          },
+          "target_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (High Accuracy Reference Network)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 4152
+            },
+            "name": "NAD83(HARN)",
+            "remarks": "In CONUS, AK, HI and PRVI replaces NAD83 for applications with an accuracy of better than 1m. Replaced by NAD83(FBN) in CONUS, American Samoa and Guam / NMI, by NAD83(NSRS2007) in Alaska, by NAD83(PA11) in Hawaii and by NAD83(HARN Corrected) in PRVI.",
+            "type": "GeographicCRS"
+          },
+          "type": "Transformation"
+        },
+        {
+          "accuracy": "0.05",
+          "id": {
+            "authority": "DERIVED_FROM(EPSG)",
+            "code": 8861
+          },
+          "method": {
+            "name": "GENERAL_SHIFT_GTIFF"
+          },
+          "name": "NAD83(HARN) to NAD83(FBN) (1)",
+          "parameters": [
+            {
+              "name": "Latitude, longitude and ellipsoidal height difference file",
+              "value": "us_noaa_nadcon5_nad83_harn_nad83_fbn_conus.tif"
+            }
+          ],
+          "remarks": "Uses NADCON5 method which expects longitudes positive east in range 0-360\u00b0; EPSG source and target CRSs have longitudes positive east in range -180\u00b0 to +180\u00b0.",
+          "source_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (High Accuracy Reference Network)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 4152
+            },
+            "name": "NAD83(HARN)",
+            "remarks": "In CONUS, AK, HI and PRVI replaces NAD83 for applications with an accuracy of better than 1m. Replaced by NAD83(FBN) in CONUS, American Samoa and Guam / NMI, by NAD83(NSRS2007) in Alaska, by NAD83(PA11) in Hawaii and by NAD83(HARN Corrected) in PRVI.",
+            "type": "GeographicCRS"
+          },
+          "target_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (Federal Base Network)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8860
+            },
+            "name": "NAD83(FBN)",
+            "remarks": "In Continental US, American Samoa, Guam/NMI and PRVI, replaces NAD83(HARN). In Continental US, Puerto Rico and US Virgin Islands replaced by NAD83(NSRS2007). In American Samoa and Hawaii replaced by NAD83(PA11). In Guam/NMI replaced by NAD83(MA11).",
+            "type": "GeographicCRS"
+          },
+          "type": "Transformation"
+        },
+        {
+          "accuracy": "0.05",
+          "id": {
+            "authority": "DERIVED_FROM(EPSG)",
+            "code": 8862
+          },
+          "method": {
+            "name": "GENERAL_SHIFT_GTIFF"
+          },
+          "name": "NAD83(FBN) to NAD83(NSRS2007) (1)",
+          "parameters": [
+            {
+              "name": "Latitude, longitude and ellipsoidal height difference file",
+              "value": "us_noaa_nadcon5_nad83_fbn_nad83_2007_conus.tif"
+            }
+          ],
+          "remarks": "Uses NADCON5 method which expects longitudes positive east in range 0-360\u00b0; EPSG source and target CRSs have longitudes positive east in range -180\u00b0 to +180\u00b0.",
+          "source_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (Federal Base Network)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 8860
+            },
+            "name": "NAD83(FBN)",
+            "remarks": "In Continental US, American Samoa, Guam/NMI and PRVI, replaces NAD83(HARN). In Continental US, Puerto Rico and US Virgin Islands replaced by NAD83(NSRS2007). In American Samoa and Hawaii replaced by NAD83(PA11). In Guam/NMI replaced by NAD83(MA11).",
+            "type": "GeographicCRS"
+          },
+          "target_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (National Spatial Reference System 2007)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 4759
+            },
+            "name": "NAD83(NSRS2007)",
+            "remarks": "Note: this CRS includes POSITIVE EAST longitudes. Replaces NAD83(HARN) and NAD83(FBN). Replaced by NAD83(2011).",
+            "type": "GeographicCRS"
+          },
+          "type": "Transformation"
+        },
+        {
+          "accuracy": "0.05",
+          "id": {
+            "authority": "DERIVED_FROM(EPSG)",
+            "code": 8559
+          },
+          "method": {
+            "name": "GENERAL_SHIFT_GTIFF"
+          },
+          "name": "NAD83(NSRS2007) to NAD83(2011) (1)",
+          "parameters": [
+            {
+              "name": "Latitude, longitude and ellipsoidal height difference file",
+              "value": "us_noaa_nadcon5_nad83_2007_nad83_2011_conus.tif"
+            }
+          ],
+          "remarks": "Uses NADCON5 method which expects longitudes positive east in range 0-360\u00b0; EPSG source and target CRSs have longitudes positive east in range -180\u00b0 to +180\u00b0.",
+          "source_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (National Spatial Reference System 2007)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 4759
+            },
+            "name": "NAD83(NSRS2007)",
+            "remarks": "Note: this CRS includes POSITIVE EAST longitudes. Replaces NAD83(HARN) and NAD83(FBN). Replaced by NAD83(2011).",
+            "type": "GeographicCRS"
+          },
+          "target_crs": {
+            "coordinate_system": {
+              "axis": [
+                {
+                  "abbreviation": "Lat",
+                  "direction": "north",
+                  "name": "Geodetic latitude",
+                  "unit": "degree"
+                },
+                {
+                  "abbreviation": "Lon",
+                  "direction": "east",
+                  "name": "Geodetic longitude",
+                  "unit": "degree"
+                }
+              ],
+              "subtype": "ellipsoidal"
+            },
+            "datum": {
+              "anchor_epoch": 2010,
+              "ellipsoid": {
+                "inverse_flattening": 298.257222101,
+                "name": "GRS 1980",
+                "semi_major_axis": 6378137
+              },
+              "name": "NAD83 (National Spatial Reference System 2011)",
+              "type": "GeodeticReferenceFrame"
+            },
+            "id": {
+              "authority": "EPSG",
+              "code": 6318
+            },
+            "name": "NAD83(2011)",
+            "remarks": "Note: this CRS includes longitudes which are POSITIVE EAST. Replaces NAD83(CORS96) and NAD83(NSRS2007) (CRS codes 6783 and 4759).",
+            "type": "GeographicCRS"
+          },
+          "type": "Transformation"
+        },
+        {
+          "id": {
+            "authority": "EPSG",
+            "code": 5068
+          },
+          "method": {
+            "id": {
+              "authority": "EPSG",
+              "code": 9822
+            },
+            "name": "Albers Equal Area"
+          },
+          "name": "Conus Albers",
+          "parameters": [
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8821
+              },
+              "name": "Latitude of false origin",
+              "unit": "degree",
+              "value": 23
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8822
+              },
+              "name": "Longitude of false origin",
+              "unit": "degree",
+              "value": -96
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8823
+              },
+              "name": "Latitude of 1st standard parallel",
+              "unit": "degree",
+              "value": 29.5
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8824
+              },
+              "name": "Latitude of 2nd standard parallel",
+              "unit": "degree",
+              "value": 45.5
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8826
+              },
+              "name": "Easting at false origin",
+              "unit": "metre",
+              "value": 0
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8827
+              },
+              "name": "Northing at false origin",
+              "unit": "metre",
+              "value": 0
+            }
+          ],
+          "type": "Conversion"
+        }
+      ],
+      "target_crs": {
+        "base_crs": {
+          "coordinate_system": {
+            "axis": [
+              {
+                "abbreviation": "Lat",
+                "direction": "north",
+                "name": "Geodetic latitude",
+                "unit": "degree"
+              },
+              {
+                "abbreviation": "Lon",
+                "direction": "east",
+                "name": "Geodetic longitude",
+                "unit": "degree"
+              }
+            ],
+            "subtype": "ellipsoidal"
+          },
+          "datum": {
+            "anchor_epoch": 2010,
+            "ellipsoid": {
+              "inverse_flattening": 298.257222101,
+              "name": "GRS 1980",
+              "semi_major_axis": 6378137
+            },
+            "name": "NAD83 (National Spatial Reference System 2011)",
+            "type": "GeodeticReferenceFrame"
+          },
+          "id": {
+            "authority": "EPSG",
+            "code": 6318
+          },
+          "name": "NAD83(2011)",
+          "remarks": "Note: this CRS includes longitudes which are POSITIVE EAST. Replaces NAD83(CORS96) and NAD83(NSRS2007) (CRS codes 6783 and 4759).",
+          "type": "GeographicCRS"
+        },
+        "conversion": {
+          "method": {
+            "id": {
+              "authority": "EPSG",
+              "code": 9822
+            },
+            "name": "Albers Equal Area"
+          },
+          "name": "Conus Albers",
+          "parameters": [
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8821
+              },
+              "name": "Latitude of false origin",
+              "unit": "degree",
+              "value": 23
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8822
+              },
+              "name": "Longitude of false origin",
+              "unit": "degree",
+              "value": -96
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8823
+              },
+              "name": "Latitude of 1st standard parallel",
+              "unit": "degree",
+              "value": 29.5
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8824
+              },
+              "name": "Latitude of 2nd standard parallel",
+              "unit": "degree",
+              "value": 45.5
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8826
+              },
+              "name": "Easting at false origin",
+              "unit": "metre",
+              "value": 0
+            },
+            {
+              "id": {
+                "authority": "EPSG",
+                "code": 8827
+              },
+              "name": "Northing at false origin",
+              "unit": "metre",
+              "value": 0
+            }
+          ]
+        },
+        "coordinate_system": {
+          "axis": [
+            {
+              "abbreviation": "X",
+              "direction": "east",
+              "name": "Easting",
+              "unit": "metre"
+            },
+            {
+              "abbreviation": "Y",
+              "direction": "north",
+              "name": "Northing",
+              "unit": "metre"
+            }
+          ],
+          "subtype": "Cartesian"
+        },
+        "id": {
+          "authority": "EPSG",
+          "code": 6350
+        },
+        "name": "NAD83(2011) / Conus Albers",
+        "type": "ProjectedCRS"
+      },
+      "type": "ConcatenatedOperation"
+    }
+  },
+  "project_metadata": "source/elevation/fema_block4_pointcloud.xml",
+  "tile_bbox_aoi_coverage_fraction": 0.9999757212920105,
+  "tiles": [
+    {
+      "aoi_class_counts": {
+        "1": 550999,
+        "2": 379493,
+        "7": 176
+      },
+      "bounds_xyz": [
+        [
+          1800000.01,
+          2404000.0100000002,
+          -50.09
+        ],
+        [
+          1801000.0,
+          2405000.0,
+          128.19
+        ]
+      ],
+      "building_samples": [
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/relation/6249058",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737164",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737175",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737177",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737189",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737190",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737195",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737202",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737208",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737222",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737234",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737275",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737278",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737293",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737294",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737313",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737314",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737315",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737317",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737320",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737331",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737348",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737399",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737407",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737720",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/174639409",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/262004862",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/269410451",
+          "z_navd88_m_p10_p50_p95": null
+        }
+      ],
+      "crs_wkt": "COMPOUNDCRS[\"NAD83(2011) / Conus Albers + NAVD88 height - Geoid12B (Meters)\",PROJCRS[\"NAD83(2011) / Conus Albers\",BASEGEOGCRS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",6318]],CONVERSION[\"unnamed\",METHOD[\"Albers Equal Area\",ID[\"EPSG\",9822]],PARAMETER[\"Latitude of 1st standard parallel\",29.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8823]],PARAMETER[\"Latitude of 2nd standard parallel\",45.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8824]],PARAMETER[\"Latitude of false origin\",23,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8821]],PARAMETER[\"Longitude of false origin\",-96,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8822]],PARAMETER[\"Easting at false origin\",0,LENGTHUNIT[\"meter\",1],ID[\"EPSG\",8826]],PARAMETER[\"Northing at false origin\",0,LENGTHUNIT[\"meter\",1],ID[\"EPSG\",8827]]],CS[Cartesian,2],AXIS[\"x\",east,ORDER[1],LENGTHUNIT[\"meter\",1]],AXIS[\"y\",north,ORDER[2],LENGTHUNIT[\"meter\",1]],ID[\"EPSG\",6350]],VERTCRS[\"NAVD88 height - Geoid12B (Meters)\",VDATUM[\"North American Vertical Datum 1988\"],CS[vertical,1],AXIS[\"up\",up,LENGTHUNIT[\"meter\",1]],GEOIDMODEL[\"GEOID12B\"],ID[\"EPSG\",5703]]]",
+      "eligible_aoi_returns": 930668,
+      "path": "gis/acquisitions/evidence_20261010_01/source/elevation/USGS_LPC_NY_FEMAR2_Central_2018_D19_e1800n2404.laz",
+      "point_count": 5888659,
+      "sha256": "bf5f078f4ae636273ed2ebe3560d766773453babd1e7748179c4600d56345d8e"
+    },
+    {
+      "aoi_class_counts": {
+        "1": 45538,
+        "2": 48100,
+        "7": 11
+      },
+      "bounds_xyz": [
+        [
+          1800000.01,
+          2405000.0100000002,
+          3.37
+        ],
+        [
+          1801000.0,
+          2406000.0,
+          652.74
+        ]
+      ],
+      "building_samples": [
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/relation/6249058",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737164",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737175",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737177",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737189",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737190",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737195",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737202",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737208",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737222",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737234",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737275",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737278",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737293",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737294",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737313",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737314",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737315",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737317",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737320",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737331",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737348",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737399",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737407",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/104737720",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/174639409",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/262004862",
+          "z_navd88_m_p10_p50_p95": null
+        },
+        {
+          "classified_building_returns": 0,
+          "source_id": "osm/way/269410451",
+          "z_navd88_m_p10_p50_p95": null
+        }
+      ],
+      "crs_wkt": "COMPOUNDCRS[\"NAD83(2011) / Conus Albers + NAVD88 height - Geoid12B (Meters)\",PROJCRS[\"NAD83(2011) / Conus Albers\",BASEGEOGCRS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433]],ID[\"EPSG\",6318]],CONVERSION[\"unnamed\",METHOD[\"Albers Equal Area\",ID[\"EPSG\",9822]],PARAMETER[\"Latitude of 1st standard parallel\",29.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8823]],PARAMETER[\"Latitude of 2nd standard parallel\",45.5,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8824]],PARAMETER[\"Latitude of false origin\",23,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8821]],PARAMETER[\"Longitude of false origin\",-96,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8822]],PARAMETER[\"Easting at false origin\",0,LENGTHUNIT[\"meter\",1],ID[\"EPSG\",8826]],PARAMETER[\"Northing at false origin\",0,LENGTHUNIT[\"meter\",1],ID[\"EPSG\",8827]]],CS[Cartesian,2],AXIS[\"x\",east,ORDER[1],LENGTHUNIT[\"meter\",1]],AXIS[\"y\",north,ORDER[2],LENGTHUNIT[\"meter\",1]],ID[\"EPSG\",6350]],VERTCRS[\"NAVD88 height - Geoid12B (Meters)\",VDATUM[\"North American Vertical Datum 1988\"],CS[vertical,1],AXIS[\"up\",up,LENGTHUNIT[\"meter\",1]],GEOIDMODEL[\"GEOID12B\"],ID[\"EPSG\",5703]]]",
+      "eligible_aoi_returns": 93649,
+      "path": "gis/acquisitions/evidence_20261010_01/source/elevation/USGS_LPC_NY_FEMAR2_Central_2018_D19_e1800n2405.laz",
+      "point_count": 6090181,
+      "sha256": "7ef18dd76561eda3bd081e90258adf28808ce3a3147902800bb38f94515f4ea8"
+    }
+  ],
+  "vertical_epsg": 5703,
+  "vertical_units": "metres"
+}

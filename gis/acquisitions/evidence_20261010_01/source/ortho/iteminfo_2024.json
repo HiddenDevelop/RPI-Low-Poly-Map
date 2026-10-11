@@ -1,0 +1,38 @@
+{
+ "culture": "en-US",
+ "name": "2024",
+ "guid": "9883B4E6-F8E6-43F4-938E-8B6140AE5815",
+ "catalogPath": "",
+ "snippet": "Orthoimagery produced by NY State from Spring 2024 aerial photography.",
+ "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Orthoimagery from Spring 2024. The service provides a Natural Color view at approximately 12 inch resolution. The source orthoimagery is 4-band at resolutions of 12 or 6 inches. For more information on the project area see <\/SPAN><A href=\"https://gis.ny.gov/2024-orthoimagery\"><SPAN>https://gis.ny.gov/2024-orthoimagery<\/SPAN><\/A><SPAN>. Please contact NYS ITS Geospatial Services at <\/SPAN><A href=\"mailto:nysgis@its.ny.gov\"><SPAN>nysgis@its.ny.gov<\/SPAN><\/A><SPAN> if you have any questions.<\/SPAN><\/P><\/DIV><\/DIV><\/DIV>",
+ "summary": "Orthoimagery produced by NY State from Spring 2024 aerial photography.",
+ "title": "NYS Orthoimagery -  2024 Color",
+ "tags": [
+  "NYSDOP",
+  "Orthoimagery"
+ ],
+ "type": "Map Service",
+ "typeKeywords": [
+  "Data",
+  "Service",
+  "Map Service",
+  "ArcGIS Server"
+ ],
+ "thumbnail": "thumbnail/thumbnail.JPEG",
+ "url": "",
+ "extent": [
+  [
+   -79.7792168596929,
+   40.4834135309145
+  ],
+  [
+   -73.2550937065837,
+   45.0393112127675
+  ]
+ ],
+ "spatialReference": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+ "accessInformation": "NYS ITS Geospatial Services",
+ "licenseInfo": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The State of New York, acting through the New York State Office of Information Technology Services, makes no representations or warranties, express or implied, with respect to the use of or reliance on the Data provided. The User accepts the Data provided \u201cas is\u201d with no guarantees that it is error free, complete, accurate, current or fit for any particular purpose and assumes all risks associated with its use. The State disclaims any responsibility or legal liability to Users for damages of any kind, relating to the providing of the Data or the use of it. Users should be aware that temporal changes may have occurred since this Data was created.<\/SPAN><\/P><\/DIV><\/DIV><\/DIV>",
+ "MinScale": 1.5E8,
+ "MaxScale": 5000.0
+}

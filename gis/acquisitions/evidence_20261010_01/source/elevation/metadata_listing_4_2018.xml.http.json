@@ -1,0 +1,21 @@
+{
+  "bytes": 437157,
+  "download_completed_utc": "2026-10-10T19:41:45.011255+00:00",
+  "download_started_utc": "2026-10-10T19:41:44.107916+00:00",
+  "method": "GET",
+  "parameters": {
+    "prefix": "StagedProducts/Elevation/metadata/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_4_2018/"
+  },
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/?prefix=StagedProducts%2FElevation%2Fmetadata%2FNY_FEMAR2_Central_2018_D19%2FNY_FEMAR2_Central_4_2018%2F",
+  "response_headers": {
+    "Content-Type": "application/xml",
+    "Date": "Sat, 10 Oct 2026 19:41:45 GMT",
+    "Server": "AmazonS3",
+    "Transfer-Encoding": "chunked",
+    "x-amz-bucket-region": "us-west-2",
+    "x-amz-id-2": "Qc1aw1cJRsqUDNJkPUkqa5l57L6Km7yANVAohgci2Bq2ugmuzRBEdeMTFpdEWOrmGiNa70FNinboMT1Ak6e6ggSPeqETUSJx",
+    "x-amz-request-id": "ZKBCAWWYXR2KR2PE"
+  },
+  "sha256": "3b95afc8f11fc6b45f59ee831b6a8d6aca0d460eb9a3b73ecefaa422171fcfe9"
+}

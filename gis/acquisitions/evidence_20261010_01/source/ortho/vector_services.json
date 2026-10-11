@@ -1,0 +1,50 @@
+{
+ "currentVersion": 10.81,
+ "folders": [],
+ "services": [
+  {
+   "name": "vector/area_zips",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/basemap",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/dem_indexes",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/elevation_contours",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/historic_photos",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/hydrography",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/labels",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/las_indexes",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/ortho_indexes",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/ortho_layers",
+   "type": "MapServer"
+  },
+  {
+   "name": "vector/st_all_orthos",
+   "type": "MapServer"
+  }
+ ]
+}

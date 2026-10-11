@@ -1,0 +1,35 @@
+{
+  "bytes": 1600,
+  "download_completed_utc": "2026-10-10T19:41:44.106188+00:00",
+  "download_started_utc": "2026-10-10T19:41:43.986826+00:00",
+  "method": "GET",
+  "parameters": {
+    "f": "json",
+    "geometry": "-73.683585,42.728278,-73.675583,42.730755",
+    "geometryType": "esriGeometryEnvelope",
+    "inSR": 4326,
+    "outFields": "*",
+    "resultRecordCount": 1000,
+    "returnGeometry": "true",
+    "spatialRel": "esriSpatialRelIntersects",
+    "where": "1=1"
+  },
+  "requested_url": "https://orthos.its.ny.gov/arcgis/rest/services/vector/las_indexes/MapServer/6/query",
+  "resolved_url": "https://orthos.its.ny.gov/arcgis/rest/services/vector/las_indexes/MapServer/6/query?f=json&where=1%3D1&geometry=-73.683585%2C42.728278%2C-73.675583%2C42.730755&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=%2A&returnGeometry=true&resultRecordCount=1000",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Encoding": "gzip",
+    "Content-Length": "645",
+    "Content-Type": "application/json;charset=UTF-8",
+    "Date": "Sat, 10 Oct 2026 19:41:43 GMT",
+    "ETag": "5PStMt9gryI10Apr_1685026265",
+    "Server": "Microsoft-IIS/10.0, ",
+    "Vary": "Origin",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Content-Type-Options": "nosniff",
+    "X-Powered-By": "ASP.NET",
+    "X-XSS-Protection": "1; mode=block",
+    "x-esri-ftiles-cache-compress": "true"
+  },
+  "sha256": "fb3a1f57e4ef8bdc49c64e120692dddc1e40a349073050cca4f9cf18c45141cd"
+}

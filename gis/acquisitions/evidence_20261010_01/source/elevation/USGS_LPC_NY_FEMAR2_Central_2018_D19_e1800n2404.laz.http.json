@@ -1,0 +1,24 @@
+{
+  "bytes": 23420083,
+  "download_completed_utc": "2026-10-10T19:46:05.226662+00:00",
+  "download_started_utc": "2026-10-10T19:43:34.934451+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_4_2018/LAZ/USGS_LPC_NY_FEMAR2_Central_2018_D19_e1800n2404.laz",
+  "resolved_url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_4_2018/LAZ/USGS_LPC_NY_FEMAR2_Central_2018_D19_e1800n2404.laz",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Connection": "keep-alive",
+    "Content-Length": "23420083",
+    "Content-Type": "application/octet-stream",
+    "Date": "Sat, 10 Oct 2026 19:43:35 GMT",
+    "ETag": "\"6239121d-1655cb3\"",
+    "Last-Modified": "Tue, 22 Mar 2022 00:02:37 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "sha256": "bf5f078f4ae636273ed2ebe3560d766773453babd1e7748179c4600d56345d8e"
+}

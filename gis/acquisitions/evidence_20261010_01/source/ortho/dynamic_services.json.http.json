@@ -1,0 +1,25 @@
+{
+  "bytes": 61,
+  "download_completed_utc": "2026-10-10T19:40:46.179740+00:00",
+  "download_started_utc": "2026-10-10T19:40:46.109577+00:00",
+  "method": "GET",
+  "parameters": {
+    "f": "pjson"
+  },
+  "requested_url": "https://orthos.its.ny.gov/arcgis/rest/services/Dynamic",
+  "resolved_url": "https://orthos.its.ny.gov/arcgis/rest/services/Dynamic?f=pjson",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Encoding": "gzip",
+    "Content-Length": "71",
+    "Content-Type": "text/plain;charset=UTF-8",
+    "Date": "Sat, 10 Oct 2026 19:40:45 GMT",
+    "Server": "Microsoft-IIS/10.0, ",
+    "Vary": "Origin",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Content-Type-Options": "nosniff",
+    "X-Powered-By": "ASP.NET",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "sha256": "fd93b3541f748764162e8e1d971c3e5746aa4c4850ba11c0e105ae7d1587947b"
+}

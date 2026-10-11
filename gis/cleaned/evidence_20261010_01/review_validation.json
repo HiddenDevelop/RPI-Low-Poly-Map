@@ -1,0 +1,9 @@
+{
+  "accessibility_assertions": 0,
+  "complete_source_features_preserved": true,
+  "geometry_corrections": 0,
+  "lidar_tiles": 2,
+  "note": "Evidence-layer validation only. No Blender scene validation claimed.",
+  "passed": true,
+  "review_items": 8
+}

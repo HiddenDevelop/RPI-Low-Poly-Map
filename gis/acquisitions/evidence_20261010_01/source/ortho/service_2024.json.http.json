@@ -1,0 +1,27 @@
+{
+  "requested_url": "https://orthos.its.ny.gov/arcgis/rest/services/wms/2024/MapServer",
+  "resolved_url": "https://orthos.its.ny.gov/arcgis/rest/services/wms/2024/MapServer?f=pjson",
+  "method": "GET",
+  "parameters": {
+    "f": "pjson"
+  },
+  "query": null,
+  "download_started_utc": "2026-10-10T19:40:11.434899+00:00",
+  "download_completed_utc": "2026-10-10T19:40:11.789734+00:00",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Type": "text/plain;charset=UTF-8",
+    "Content-Encoding": "gzip",
+    "ETag": "c8852413",
+    "Vary": "Origin",
+    "Server": "Microsoft-IIS/10.0, ",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Powered-By": "ASP.NET",
+    "Date": "Sat, 10 Oct 2026 19:40:11 GMT",
+    "Content-Length": "1805"
+  },
+  "bytes": 4878,
+  "sha256": "2c18f77b194ce115420951209c0b4c4fcd3d6ca7d88baf46bfc5486d52c83f74"
+}

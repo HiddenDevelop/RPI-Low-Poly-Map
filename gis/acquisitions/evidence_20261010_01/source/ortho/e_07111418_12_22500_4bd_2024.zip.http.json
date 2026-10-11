@@ -1,0 +1,21 @@
+{
+  "bytes": 2404557,
+  "download_completed_utc": "2026-10-10T19:42:14.001258+00:00",
+  "download_started_utc": "2026-10-10T19:42:12.776011+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://gisdata.ny.gov/ortho/nysdop11/rensselaer/spcs/tiles/e_07111418_12_22500_4bd_2024.zip",
+  "resolved_url": "https://gisdata.ny.gov/ortho/nysdop11/rensselaer/spcs/tiles/e_07111418_12_22500_4bd_2024.zip",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Connection": "Keep-Alive",
+    "Content-Length": "2404557",
+    "Content-Type": "application/zip",
+    "Date": "Sat, 10 Oct 2026 19:42:13 GMT",
+    "ETag": "\"24b0cd-629137e93d940\"",
+    "Keep-Alive": "timeout=15, max=100",
+    "Last-Modified": "Thu, 12 Dec 2024 14:26:05 GMT",
+    "Server": "Apache/2.4.46 (Unix)"
+  },
+  "sha256": "02dec93acaf546933c40df42ec3eb5f0a6d48f189cbd77dc9e601afc92f70d40"
+}

@@ -1,0 +1,64 @@
+{
+  "blend_sha256_matches_committed_baseline": {
+    "blender/checkpoints/rpi_lowpoly_20261010_01_before_color_refinement.blend": "35be54359bd04415ea68cff9d62c16c9df21ca476da31d29eb09b3fdb5f59959",
+    "blender/checkpoints/rpi_lowpoly_20261010_01_before_data_staging.blend": "4248041f746ca9fe1cd8e926545606ef5468adc03454d8bd81bfcf4685392a8c",
+    "blender/checkpoints/rpi_lowpoly_20261010_01_before_import.blend": "d4c2aa7a4a5246084bc742e199e232d7d14412628804ccdfb3f533a1b187aace",
+    "blender/checkpoints/rpi_lowpoly_20261010_01_before_import_retry.blend": "cb8967af6b14aed5e12af5e8c6c20d5923e63c293805b15440cc9e2e64cdc321",
+    "blender/checkpoints/rpi_lowpoly_20261010_01_before_styling.blend": "f714757ae1c5f912f9e424f17493b35dc89b61e84dd16d551ae8b832be6c7728",
+    "blender/checkpoints/rpi_lowpoly_20261010_pass02_before_changes.blend": "9512592f968f1a1b04740eec9262d50118ea65c635171ec21fda61929678c83b",
+    "blender/working/rpi_lowpoly_20261010_01_final.blend": "7221a8577d9f00e78e9d6f3cc6000c90de4a8e46c9ae5e627447a0f42ca90182",
+    "blender/working/rpi_lowpoly_20261010_01_styled.blend": "2c1a299dca278321d749ba3c615395df8d2c006f7f6f6b03482cb9ce877e1398",
+    "blender/working/rpi_lowpoly_20261010_01_styled_v02.blend": "38f07a019b4a6dbf3e963f9cf0d1a5754431829b1dc524372344332155261cd4",
+    "blender/working/rpi_lowpoly_20261010_pass02_v01.blend": "5f1d5306e1f950bee6b8d65c75a4f415f50a598db383592b115ca0654ae3b5d6",
+    "blender/working/rpi_lowpoly_20261010_pass02_v02.blend": "01fd6569eade34dad24f3d0ce9e1f87ba42301232a50cefc8f1c9334eb2fb2f9",
+    "blender/working/rpi_lowpoly_20261010_pass02_v03.blend": "5fd56232ed1d85f3ac8a232ad8841d465865fb0aa8dc79a624ae1519bfb3d60d"
+  },
+  "deterministic_rebuild_matches": [
+    "elevation_review.json",
+    "discrepancy_review.json",
+    "review_validation.json"
+  ],
+  "passed": true,
+  "pilot_validation": {
+    "boundary_review_count": 78,
+    "checks": [
+      "raw integrity seal",
+      "input/output hashes and documented datum operation",
+      "all raw records, ordered node/member lists, roles, repeated members and source segments",
+      "layer completeness, source IDs, all projected vertices, inverse transforms, geometry validity and multilevel semantics",
+      "NYS isolated, all native XY/Z/attributes and rings retained",
+      "all seven target buildings, boundary review, outside dependencies and terrain reference"
+    ],
+    "coordinate_tolerance_m": 1e-06,
+    "inverse_tolerance_degrees": 1e-09,
+    "layer_counts": {
+      "accessibility": 49,
+      "buildings": 28,
+      "entrances": 45,
+      "landcover": 3,
+      "other": 2214,
+      "paths": 243,
+      "roads": 53,
+      "stairs": 52
+    },
+    "limitations": [
+      "4 m stated datum-operation accuracy is not source positional accuracy.",
+      "No routing/accessibility or Blender validation performed.",
+      "No source geometry repaired, clipped or merged."
+    ],
+    "nys_buildings": 27,
+    "passed": true,
+    "raw_files_verified": 47,
+    "source_graph_elements": 4108,
+    "source_way_segments": 4488
+  },
+  "protected_git_paths_unchanged": [
+    "gis/raw",
+    "gis/cleaned/pilot",
+    "blender",
+    "scripts/import_gis.py",
+    "scripts/validate_scene.py"
+  ],
+  "scope": "No scene edited. Byte identity preserves scene geometry/topology/metadata; no new semantic Blender validation claimed.",
+  "sealed_source_files": 86
+}

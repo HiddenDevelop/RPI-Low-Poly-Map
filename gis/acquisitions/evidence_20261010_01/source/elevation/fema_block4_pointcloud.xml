@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE metadata SYSTEM "http://thor-f5.er.usgs.gov/ngtoc/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Dewberry</origin>
+        <pubdate>20211227</pubdate>
+        <title>WUID 226169; Classified Point Cloud</title>
+        <geoform>Lidar point cloud</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Product: These lidar data are processed Classified LAS 1.4 files, formatted to 8,852 individual 1000 m x 1000 m tiles; used to create intensity images, 3D breaklines and hydro-flattened DEMs as necessary.
+      	Geographic Extent: Albany, Greene, Hamilton and Schenectady Counties, New York, covering approximately 3,167 square miles. Dataset Description: NY FEMA R2 2018 WUID 226169 Lidar Project called for the Planning, Acquisition, processing and derivative products of lidar data to be collected at a nominal pulse spacing (NPS) of 0.7 meter. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base Lidar Specification, Version 1.3. The data was developed based on a horizontal projection/datum of NAD83 (2011), Albers Equal Area, meters and vertical datum of NAVD88 (GEOID12B), meters. Lidar data was delivered as processed Classified LAS 1.4 files, formatted to 8,852 individual 1000 m x 1000 m tiles, as tiled bare earth DEMs; all tiled to the same 1000 m x 1000 m schema. The tile grid contains 8,852 tiles, which include 723 100m buffer tiles within DPA. LAS files are not available for the two tiles listed due to 100% water with no point cloud; tiles e1681n2533 and e1683n2495. All tiled to the same 1000 m x 1000 m schema.
+        Ground Conditions: Lidar was collected in early 2019 through mid 2020, while no snow was on the ground and rivers were at or below normal levels. In order to post process the lidar data to meet task order specifications and meet ASPRS vertical accuracy guidelines, Dewberry established a total of 37 ground control points that were used to calibrate the lidar to known ground locations established throughout the NY FEMA R2 2018 WUID 226169 Lidar project area. An additional 93 independent accuracy checkpoints, 56 in Bare Earth and Urban landcovers (56 NVA points), 37 in Tall Grass and Brushland/Low Trees categories (37 VVA points), were used to assess the vertical accuracy of the data. These checkpoints were not used to calibrate or post process the data.</abstract>
+      <purpose>To acquire detailed surface elevation data for use in conservation planning, design, research, floodplain mapping, dam safety assessments and elevation modeling, etc. Classified LAS files are used to show the manually reviewed bare earth surface. This allows the user to create Intensity Images, Breaklines and Raster DEM. The purpose of these lidar data was to produce high accuracy 3D hydro-flattened Digital Elevation Model (DEM) with a 1 meter cell size. These lidar point cloud data were used to create intensity images, 3D breaklines, and hydro-flattened DEMs as necessary.</purpose>
+      <supplinf>USGS Contract No. G10PC00013 CONTRACTOR: Dewberry SUBCONTRACTOR: Leading-Edge Geomatics, Airborne Imaging and Aerial Services. Lidar data were acquired and calibrated by Leading-Edge Geomatics, Airborne Imaging and Aerial Services. All follow-on processing was completed by the prime contractor.
+      </supplinf>
+      <lidar>
+        <ldrinfo>
+          <ldrspec>U.S. Geological Survey (USGS) - National Geospatial Program (NGP) Lidar Base Specification v1.3</ldrspec>
+          <ldrsens>VQ-1560i</ldrsens>
+          <ldrmaxnr>7</ldrmaxnr>
+          <ldrnps>0.69</ldrnps>
+          <ldrdens>2.1</ldrdens>
+          <ldranps>0.69</ldranps>
+          <ldradens>2.1</ldradens>
+          <ldrfltht>1600</ldrfltht>
+          <ldrfltsp>130</ldrfltsp>
+          <ldrscana>58</ldrscana>
+          <ldrscanr>110</ldrscanr>
+          <ldrpulsr>500</ldrpulsr>
+          <ldrpulsd>3</ldrpulsd>
+          <ldrpulsw>0.9</ldrpulsw>
+          <ldrwavel>1064</ldrwavel>
+          <ldrmpia>1</ldrmpia>
+          <ldrbmdiv>0.5</ldrbmdiv>
+          <ldrswatw>1790</ldrswatw>
+          <ldrswato>20</ldrswato>
+          <ldrgeoid>National Geodetic Survey (NGS) Geoid12B</ldrgeoid>
+        </ldrinfo>
+        <ldrinfo>
+          <ldrspec>U.S. Geological Survey (USGS) - National Geospatial Program (NGP) Lidar Base Specification v1.3</ldrspec>
+          <ldrsens>VQ-1560i</ldrsens>
+          <ldrmaxnr>7</ldrmaxnr>
+          <ldrnps>0.60</ldrnps>
+          <ldrdens>2.8</ldrdens>
+          <ldranps>0.60</ldranps>
+          <ldradens>2.8</ldradens>
+          <ldrfltht>2000</ldrfltht>
+          <ldrfltsp>140</ldrfltsp>
+          <ldrscana>60</ldrscana>
+          <ldrscanr>172</ldrscanr>
+          <ldrpulsr>467</ldrpulsr>
+          <ldrpulsd>3</ldrpulsd>
+          <ldrpulsw>0.9</ldrpulsw>
+          <ldrwavel>1064</ldrwavel>
+          <ldrmpia>1</ldrmpia>
+          <ldrbmdiv>0.3</ldrbmdiv>
+          <ldrswatw>2241</ldrswatw>
+          <ldrswato>30</ldrswato>
+          <ldrgeoid>National Geodetic Survey (NGS) Geoid12B</ldrgeoid>
+        </ldrinfo>
+        <ldrinfo>
+          <ldrspec>U.S. Geological Survey (USGS) - National Geospatial Program (NGP) Lidar Base Specification v1.3</ldrspec>
+          <ldrsens>Leica ALS-70 HP</ldrsens>
+          <ldrmaxnr>15</ldrmaxnr>
+          <ldrnps>0.53</ldrnps>
+          <ldrdens>3.56</ldrdens>
+          <ldranps>0.53</ldranps>
+          <ldradens>3.56</ldradens>
+          <ldrfltht>2000</ldrfltht>
+          <ldrfltsp>140</ldrfltsp>
+          <ldrscana>30</ldrscana>
+          <ldrscanr>59</ldrscanr>
+          <ldrpulsr>278.4</ldrpulsr>
+          <ldrpulsd>9</ldrpulsd>
+          <ldrpulsw>2.7</ldrpulsw>
+          <ldrwavel>1064</ldrwavel>
+          <ldrmpia>1</ldrmpia>
+          <ldrbmdiv>0.2</ldrbmdiv>
+          <ldrswatw>1072</ldrswatw>
+          <ldrswato>30</ldrswato>
+          <ldrgeoid>National Geodetic Survey (NGS) Geoid12B</ldrgeoid>
+        </ldrinfo>
+        <ldraccur>
+          <ldrchacc>0</ldrchacc>
+          <rawnva>0</rawnva>
+          <rawnvan>0</rawnvan>
+       </ldraccur>
+        <lasinfo>
+          <lasver>1.4</lasver>
+          <lasprf>6</lasprf>
+          <laswheld>Withheld (ignore) points were identified in these files using the standard LAS Withheld bit.</laswheld>
+          <lasolap>Swath "overage" points are assigned per the producer's discretion. Dewberry did not classify overage points.</lasolap>
+          <lasintr>16</lasintr>
+          <lasclass>
+            <clascode>1</clascode>
+            <clasitem>Processed, but Unclassified</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>2</clascode>
+            <clasitem>Bare Earth Ground</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>7</clascode>
+            <clasitem>Low Noise</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>9</clascode>
+            <clasitem>Water</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>17</clascode>
+            <clasitem>Bridge Decks</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>18</clascode>
+            <clasitem>High Noise</clasitem>
+          </lasclass>
+          <lasclass>
+            <clascode>20</clascode>
+            <clasitem>Ignored Ground</clasitem>
+          </lasclass>
+		  <lasclass>
+            <clascode>22</clascode>
+            <clasitem>Temporal</clasitem>
+          </lasclass>
+        </lasinfo>
+      </lidar>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20190425</begdate>
+          <enddate>20200925</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-75.408470</westbc>
+        <eastbc>-73.247376</eastbc>
+        <northbc>44.148840</northbc>
+        <southbc>42.025935</southbc>
+      </bounding>
+      <lboundng>
+      	<leftbc>1673900.000100</leftbc>
+      	<rightbc>1804100.000100</rightbc>
+      	<topbc>2538100.000100</topbc>
+      	<bottombc>2324900.000100</bottombc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Model</themekey>
+        <themekey>LAS Point Cloud</themekey>
+        <themekey>Remote Sensing</themekey>
+        <themekey>Elevation Data</themekey>
+        <themekey>Lidar</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>New York</placekey>
+        <placekey>Albany County</placekey>
+        <placekey>Greene County</placekey>
+        <placekey>Hamilton County</placekey>
+        <placekey>Schenectady County</placekey>
+      </place>
+    </keywords>
+    <accconst>No restrictions apply to these data.</accconst>
+    <useconst>None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of its limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.</useconst>
+    <native>Riegl RiProcess and Leica HxMap; LP360; Microstation; Terrascan; ArcGIS 10.6; Windows 8; .las  1.99 TB</native>
+  </idinfo>
+  <dataqual>
+    <logic>Data covers the entire area specified for this project.</logic>
+    <complete>These LAS data files include all data points collected. No points have been removed or excluded. A visual qualitative assessment was performed to ensure data completeness. The raw point cloud is of quality and data passes Non-Vegetated Vertical Accuracy specifications.</complete>
+ <posacc>
+      <vertacc>
+        <vertaccr>This data set was produced to meet ASPRS Positional Accuracy Standard for Digital Geospatial Data (2014) for a 10-cm RMSEz Vertical Accuracy Class.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The boresight for each lift was done individually as the solution may change slightly from lift to lift. The following steps describe the Raw Data Processing and Boresight process: 1) Technicians processed the raw data to LAS format flight lines using the final GPS/IMU solution. This LAS data set was used as source data for boresight. 2) Technicians first used proprietary  and commercial software to calculate initial boresight adjustment angles based on sample areas selected in the lift. These areas cover calibration flight lines collected in the lift, cross tie and production flight lines. These areas are well distributed in the lift coverage and cover multiple terrain types that are necessary for boresight angle calculation. The technician then analyzed the results and made any necessary additional adjustment until it is acceptable for the selected areas. 3) Once the boresight angle calculation was completed for the selected areas, the adjusted settings were applied to all of the flight lines of the lift and checked for consistency. The technicians utilized commercial and proprietary software packages to analyze how well flight line overlaps match for the entire lift and adjusted as necessary until the results met the project specifications. 4) Once all lifts were completed with individual boresight adjustment, the technicians checked and corrected the vertical misalignment of all flight lines and also the matching between data and ground truth. The relative accuracy was less than or equal to 6 cm RMSEz within individual swaths and less than or equal to 8 cm RMSEz or within swath overlap (between adjacent swaths). 5) The technicians ran a final vertical accuracy check of the boresighted flight lines against the surveyed check points after the z correction to ensure the requirement of NVA = 19.6 cm 95% Confidence Level (Required Accuracy) was met. Point classification was performed according to USGS Lidar Base Specification 1.3, and breaklines were collected for water features. Bare earth DEMs were exported from the classified point cloud using collected breaklines for hydroflattening. Synthetic points generated by Riegl processing software are present in this dataset and were used to fill MTA zones. Please see the final project report for more details on the synthetic points.</procdesc>
+        <srcused>New York_co_lidar_gnd_ctrl</srcused>
+        <procdate>20210106</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>LAS Point Classification: The point classification is performed as described below. The bare earth surface is then manually reviewed to ensure correct classification on the Class 2 (Ground) points. After the bare-earth surface is finalized, it is then used to generate all hydro-breaklines through heads-up digitization. All ground (ASPRS Class 2) lidar data inside of the Lake Pond and Double Line Drain hydro flattening breaklines were then classified to water (ASPRS Class 9) using TerraScan macro functionality. A buffer of 0.7 meters was also used around each hydro-flattened feature to classify these ground (ASPRS Class 2) points to Ignored ground (ASPRS Class 20). All Lake Pond Island and Double Line Drain Island features were checked to ensure that the ground (ASPRS Class 2) points were reclassified to the correct classification after the automated classification was completed. All data was manually reviewed and any remaining artifacts removed using functionality provided by TerraScan and TerraModeler. Global Mapper was used as a final check of the bare earth dataset. The withheld bit was set on the withheld points previously identified in TerraScan before the ground classification routine was performed. The LAS files contain synthetic points.  These points were generated by the Riegl processsing software to fill Multiple Time Around (MTA) zones, which are a physical phenomenon that exists in any time of flight lidar system which has multiple pulses in air and wishes to record all of them seamlessly without range gate limitations. The MTA zones only exist in narrow bands of ranges and typically are dependent on flight planning parameters and project area topography. Dewberry proprietary software was then used to create the deliverable industry-standard LAS files for both the All Point Cloud Data and the Bare Earth. Dewberry proprietary software was used to perform final statistical analysis of the classes in the LAS files, on a per tile level to verify final classification metrics and full LAS header information. Due to re-flights and significant noise in portions of the WUID, Dewberry had to manually review and parse flightlines for suitability. This was done to ensure consistent ground density and noise classification throughout the WUID.
+        </procdesc>
+        <procdate>20210701</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Data was tested at 0.46 meter nominal pulse spacing and 4.36 points per square meter (ppsm). The average density was tested on the LAS data using geometrically reliable (withheld and noise points excluded) first-return points.(A)NPD was tested using rasters which produce the average number of points within each cell.</procdesc>
+        <procdate>20210301</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Point</direct>
+      <ptvctinf>
+    	<sdtsterm>
+    		<sdtstype>Point</sdtstype>
+    		<ptvctcnt>107,955,884,201</ptvctcnt>
+    	</sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+ <spref>
+  <horizsys>
+   <planar>
+    <mapproj>
+     <mapprojn>Albers Equal Area</mapprojn>
+     <albers>
+       <stdparll>29.5</stdparll>
+       <stdparll>45.5</stdparll>
+       <longcm>-96.0</longcm>
+       <latprjo>23.0</latprjo>
+       <feast>0.0</feast>
+       <fnorth>0.0</fnorth>
+     </albers>
+    </mapproj>
+    <planci>
+     <plance>row and column</plance>
+     <coordrep>
+      <absres>0.01</absres>
+      <ordres>0.01</ordres>
+     </coordrep>
+     <plandu>meters</plandu>
+    </planci>
+   </planar>
+   <geodetic>
+    <horizdn>North American Datum of 1983 (2011)</horizdn>
+    <ellips>Geodetic Reference System 80</ellips>
+    <semiaxis>6378137</semiaxis>
+    <denflat>298.257222101</denflat>
+   </geodetic>
+  </horizsys>
+  <vertdef>
+   <altsys>
+     <altdatum>North American Vertical Datum of 1988, Geoid 12B</altdatum>
+     <altres>1</altres>
+     <altunits>meters</altunits>
+     <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+   </altsys>
+  </vertdef>
+ </spref>
+  <metainfo>
+    <metd>20211227</metd>
+    <metrd>20220110</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Dewberry</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1000 N Ashley Drive, suite 801</address>
+          <city>Tampa</city>
+          <state>FL</state>
+          <postal>33602</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(813)225-1325</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metac>None.</metac>
+    <metuc>None.</metuc>
+    <metsi>
+    	<metscs>None.</metscs>
+    	<metsc>Unclassified.</metsc>
+    	<metshd>None.</metshd>
+    </metsi>
+    <metextns>
+      <onlink>None.</onlink>
+      <metprof>None.</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

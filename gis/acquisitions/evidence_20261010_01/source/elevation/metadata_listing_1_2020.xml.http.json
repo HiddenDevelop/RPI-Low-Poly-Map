@@ -1,0 +1,21 @@
+{
+  "bytes": 431641,
+  "download_completed_utc": "2026-10-10T19:41:45.257120+00:00",
+  "download_started_utc": "2026-10-10T19:41:45.012456+00:00",
+  "method": "GET",
+  "parameters": {
+    "prefix": "StagedProducts/Elevation/metadata/NY_HudsonRiverRegion_2020_A20/NY_HudsonRiverRegion_1_2020/"
+  },
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/?prefix=StagedProducts%2FElevation%2Fmetadata%2FNY_HudsonRiverRegion_2020_A20%2FNY_HudsonRiverRegion_1_2020%2F",
+  "response_headers": {
+    "Content-Type": "application/xml",
+    "Date": "Sat, 10 Oct 2026 19:41:46 GMT",
+    "Server": "AmazonS3",
+    "Transfer-Encoding": "chunked",
+    "x-amz-bucket-region": "us-west-2",
+    "x-amz-id-2": "RAtxdByG6qSIFHVkJcSLgn6VCAn3voAq1zjvmf6jq7k0U712EyowW7lQXh+p1q33E0mW2RIEQnwQQxU4UuDHjczNZupD52rp",
+    "x-amz-request-id": "EEBQ9S8NWG8RC3N3"
+  },
+  "sha256": "83daa5f14bfe7f3fefb1a4b2cdc948f12e4be5550cd50a37662b563b1f58bf8c"
+}

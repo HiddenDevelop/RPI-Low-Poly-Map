@@ -1,0 +1,22 @@
+{
+  "bytes": 17829,
+  "download_completed_utc": "2026-10-10T19:42:30.393156+00:00",
+  "download_started_utc": "2026-10-10T19:42:29.829871+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_4_2018/reports/vendor_provided_xml/226169_ClassifiedPointCloud.xml",
+  "resolved_url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/metadata/NY_FEMAR2_Central_2018_D19/NY_FEMAR2_Central_4_2018/reports/vendor_provided_xml/226169_ClassifiedPointCloud.xml",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "17829",
+    "Content-Type": "text/xml",
+    "Date": "Sat, 10 Oct 2026 19:42:30 GMT",
+    "ETag": "\"e367e7cdfce8727f33ab1786f8445778\"",
+    "Last-Modified": "Wed, 07 Dec 2022 16:31:16 GMT",
+    "Server": "AmazonS3",
+    "x-amz-id-2": "neQBrpO+HPwTaYBads1CyjTictzy57v5XNqqwgyi6EMbPyZKXtSS49HCjyCZaktTFDdpOc5t2xQncfi5sOpL2jtskJfe+96W",
+    "x-amz-meta-mtime": "1641999726.300413",
+    "x-amz-request-id": "GGJY6N51AKAA07KP"
+  },
+  "sha256": "db624febf9791ae37a6edcfcefe02ddeee6e298860c45985695fe8e41d87a77d"
+}

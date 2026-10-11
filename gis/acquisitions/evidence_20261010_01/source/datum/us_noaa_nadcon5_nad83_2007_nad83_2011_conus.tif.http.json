@@ -1,0 +1,26 @@
+{
+  "bytes": 39965338,
+  "download_completed_utc": "2026-10-10T19:43:27.653067+00:00",
+  "download_started_utc": "2026-10-10T19:43:23.900099+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://cdn.proj.org/us_noaa_nadcon5_nad83_2007_nad83_2011_conus.tif",
+  "resolved_url": "https://cdn.proj.org/us_noaa_nadcon5_nad83_2007_nad83_2011_conus.tif",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Connection": "keep-alive",
+    "Content-Length": "39965338",
+    "Content-Type": "image/tiff",
+    "Date": "Sat, 10 Oct 2026 19:43:25 GMT",
+    "ETag": "\"764f31a1b644b66c6780f0a88e9c05b1-5\"",
+    "Last-Modified": "Sat, 17 Dec 2022 14:43:05 GMT",
+    "Server": "AmazonS3",
+    "Via": "1.1 4bcc80622a10d0ee4a55e5fd4f387c84.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "1bRExSz-zCTk-VssUePQwHspNE6EBiP-Q7GVrgHEZeSFcKDh-petLQ==",
+    "X-Amz-Cf-Pop": "JFK52-P2",
+    "X-Cache": "RefreshHit from cloudfront",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-version-id": "MPUro7KdDMd8kKEFBdwuPTmBOMNTAOj0"
+  },
+  "sha256": "560d65e871afdcfed3d736074f5b3b82cb2fd74d25f988cc556824eceeafce96"
+}

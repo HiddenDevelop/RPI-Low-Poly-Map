@@ -1,0 +1,29 @@
+{
+  "bytes": 20446,
+  "download_completed_utc": "2026-10-10T19:40:45.763371+00:00",
+  "download_started_utc": "2026-10-10T19:40:45.270593+00:00",
+  "method": "GET",
+  "parameters": {
+    "bbox": "-73.683585,42.728278,-73.675583,42.730755",
+    "datasets": "Lidar Point Cloud (LPC)",
+    "max": 100,
+    "outputFormat": "JSON"
+  },
+  "requested_url": "https://tnmaccess.nationalmap.gov/api/v1/products",
+  "resolved_url": "https://tnmaccess.nationalmap.gov/api/v1/products?bbox=-73.683585%2C42.728278%2C-73.675583%2C42.730755&datasets=Lidar+Point+Cloud+%28LPC%29&max=100&outputFormat=JSON",
+  "response_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "keep-alive",
+    "Content-Length": "20446",
+    "Content-Type": "application/json",
+    "Date": "Sat, 10 Oct 2026 19:40:45 GMT",
+    "Via": "1.1 7f901df87689f6a6f8ea2a5f3bff24ea.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "xQgWTqlumw8UElO5d9dMFogkT0GqcM2SOSDpn0TK2N3IA-XcEIQ6Hw==",
+    "X-Amz-Cf-Pop": "JFK50-P16",
+    "X-Amzn-Trace-Id": "Root=1-6aca94bd-05ee4a902f1146670c29b354;Parent=3260005af2a75936;Sampled=0;Lineage=1:67081789:0",
+    "X-Cache": "Miss from cloudfront",
+    "x-amz-apigw-id": "FCwtrFcRPHcEnZg=",
+    "x-amzn-RequestId": "fd94bdfb-4dcc-4f4d-8c2a-7308dbaa760f"
+  },
+  "sha256": "23a80231faba10d4bb053033c220deb7ca9d341fef9bceffd02b6e3b7c812a27"
+}

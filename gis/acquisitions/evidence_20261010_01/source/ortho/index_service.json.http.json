@@ -1,0 +1,24 @@
+{
+  "bytes": 40520,
+  "download_completed_utc": "2026-10-10T19:41:06.115717+00:00",
+  "download_started_utc": "2026-10-10T19:41:05.834601+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://orthos.its.ny.gov/arcgis/rest/services/vector/ortho_indexes/MapServer?f=pjson",
+  "resolved_url": "https://orthos.its.ny.gov/arcgis/rest/services/vector/ortho_indexes/MapServer?f=pjson",
+  "response_headers": {
+    "Cache-Control": "public, must-revalidate, max-age=0",
+    "Content-Encoding": "gzip",
+    "Content-Length": "2563",
+    "Content-Type": "text/plain;charset=UTF-8",
+    "Date": "Sat, 10 Oct 2026 19:41:05 GMT",
+    "ETag": "d015c6b7",
+    "Server": "Microsoft-IIS/10.0, ",
+    "Vary": "Origin",
+    "X-AspNet-Version": "4.0.30319",
+    "X-Content-Type-Options": "nosniff",
+    "X-Powered-By": "ASP.NET",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "sha256": "42c7b30837e9355470a77fbfb58c16f233915f393e2fbc140db2ae5c9d71be1c"
+}

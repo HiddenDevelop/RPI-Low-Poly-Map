@@ -1,0 +1,24 @@
+{
+  "bytes": 42707,
+  "download_completed_utc": "2026-10-10T19:40:44.407812+00:00",
+  "download_started_utc": "2026-10-10T19:40:43.932750+00:00",
+  "method": "GET",
+  "parameters": null,
+  "requested_url": "https://tnmaccess.nationalmap.gov/api/v1/datasets",
+  "resolved_url": "https://tnmaccess.nationalmap.gov/api/v1/datasets",
+  "response_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "keep-alive",
+    "Content-Length": "42707",
+    "Content-Type": "application/json",
+    "Date": "Sat, 10 Oct 2026 19:40:44 GMT",
+    "Via": "1.1 dfd1e39d4a5fcf196d3c93a96b117b1c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "1hEvzHdFjYue9rgtSKPEbuXZFQ6G7qvOawabk_0vufjN9pvjsM3K7Q==",
+    "X-Amz-Cf-Pop": "JFK50-P16",
+    "X-Amzn-Trace-Id": "Root=1-6aca94bc-3137df3f0db1b6d0021e1aee;Parent=0ca850ed39ed0691;Sampled=0;Lineage=1:75ebd3c3:0",
+    "X-Cache": "Miss from cloudfront",
+    "x-amz-apigw-id": "FCwtfHUOvHcEPAA=",
+    "x-amzn-RequestId": "faf2b512-6e8e-4488-bffb-14801f073c16"
+  },
+  "sha256": "9ef9fb94a398b52e7337e37b3a5816a98e995c16c55a5b7f8c43837858c915a7"
+}
