@@ -1,0 +1,9 @@
+{
+  "navigation_ready": false,
+  "ordered_node_incidence_exact": 304,
+  "ordered_segments_exact": 307,
+  "passed": true,
+  "source_accessibility_unknowns_preserved": true,
+  "source_crs": "EPSG:26918",
+  "source_features_exact": 95
+}

@@ -1,0 +1,97 @@
+{
+  "crs": "EPSG:26918",
+  "datum_operation": {
+    "accuracy_m": 0.2,
+    "pipeline": "proj=pipeline step proj=unitconvert xy_in=us-ft xy_out=m step inv proj=tmerc lat_0=38.8333333333333 lon_0=-74.5 k=0.9999 x_0=150000 y_0=0 ellps=GRS80 step inv proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_2007_nad83_2011_conus.tif step inv proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_fbn_nad83_2007_conus.tif step inv proj=gridshift no_z_transform grids=us_noaa_nadcon5_nad83_harn_nad83_fbn_conus.tif step inv proj=gridshift grids=us_noaa_nadcon5_nad83_1986_nad83_harn_conus.tif step proj=utm zone=18 ellps=GRS80"
+  },
+  "imagery_sha256": "96413fa372a69cb517a00bcde5f3c2c4d55688d7fbf87c83f8c125489dffe64e",
+  "origin_offset": [
+    0,
+    0,
+    0
+  ],
+  "plaza_review": {
+    "geometry": {
+      "coordinates": [
+        [
+          [
+            608070.6415348055,
+            4731604.609173524
+          ],
+          [
+            608064.4783486831,
+            4731616.152863159
+          ],
+          [
+            608066.4833315302,
+            4731637.801404386
+          ],
+          [
+            608093.9325352209,
+            4731634.002316657
+          ],
+          [
+            608092.5460364684,
+            4731610.833728412
+          ],
+          [
+            608084.6663554254,
+            4731603.473261569
+          ],
+          [
+            608070.6415348055,
+            4731604.609173524
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "id": "imagery/plaza/jec_courtyard",
+    "reference": "gis/cleaned/evidence_20261010_01/osm_way_104737275_review.png",
+    "status": "Approximate visual pavement envelope; not measured edges or a routable surface",
+    "surface": null
+  },
+  "trees": [
+    {
+      "display_height_m": 6.0,
+      "display_radius_m": 2.3,
+      "geometry": {
+        "coordinates": [
+          608071.7088659897,
+          4731630.213805374
+        ],
+        "type": "Point"
+      },
+      "id": "imagery/canopy/01",
+      "native_center_ftUS": [
+        712462,
+        1420468
+      ],
+      "position_status": "Approximate canopy center manually interpreted from 2024 aerial imagery; trunk unknown",
+      "reference": "gis/cleaned/evidence_20261010_01/osm_way_104737275_review.png",
+      "routing_obstacle": null,
+      "size_status": "Illustrative; not measured"
+    },
+    {
+      "display_height_m": 6.0,
+      "display_radius_m": 3.4,
+      "geometry": {
+        "coordinates": [
+          608079.1018021926,
+          4731616.848947453
+        ],
+        "type": "Point"
+      },
+      "id": "imagery/canopy/02",
+      "native_center_ftUS": [
+        712486,
+        1420424
+      ],
+      "position_status": "Approximate canopy center manually interpreted from 2024 aerial imagery; trunk unknown",
+      "reference": "gis/cleaned/evidence_20261010_01/osm_way_104737275_review.png",
+      "routing_obstacle": null,
+      "size_status": "Illustrative; not measured"
+    }
+  ],
+  "units": "metres"
+}

@@ -1,0 +1,11 @@
+{
+  "expected_duration": "approximately three weeks, not a confirmed end date",
+  "id": "rpi/jec-dcc/2026-09-14",
+  "review_date": "2026-10-11",
+  "routing_effect": "Do not offer this as a verified available route; confirm posted detour and current campus status.",
+  "scope": "JEC\u2013DCC upper deck; exact OSM segment mapping unverified",
+  "source_geometry_updated": false,
+  "source_url": "https://administration.rpi.edu/announcements/dcc-jec-upper-deck-walkway-closure",
+  "start_date": "2026-09-14",
+  "status": "Closure notice published; present reopening status unconfirmed"
+}

@@ -1,0 +1,25 @@
+{
+  "boundary_crossing_features_retained": 21,
+  "bridge_spans": 2,
+  "crossings_without_shared_node": 3,
+  "elevated_features": 17,
+  "entrances": 17,
+  "entrances_without_shared_way_node": 0,
+  "inferred_accessibility_values": 0,
+  "landscape_annotations": 2,
+  "mixed_level_node_reviews": 8,
+  "navigation_ready": false,
+  "new_graph_junctions": 0,
+  "passed": true,
+  "source_features": 95,
+  "source_nodes": 304,
+  "source_segments": 307,
+  "source_xy_changes": 0,
+  "surfaces": {
+    "concrete": 15,
+    "concrete:plates": 6,
+    "paving_stones": 6,
+    "unknown": 49
+  },
+  "widths_known_from_tags": 1
+}

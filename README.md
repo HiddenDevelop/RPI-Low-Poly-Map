@@ -4,6 +4,14 @@ Create a geographically accurate, cute low-poly RPI campus map for disability-ac
 
 ## Validated pilot (2026-10-10)
 
+### Navigation prototype: JEC–DCC–Greene (2026-10-11)
+
+[Plan inspector](gis/cleaned/rpi_navigation_20261011_pass04/index.html) · [Evidence and limitations](gis/cleaned/rpi_navigation_20261011_pass04/README.md) · [Blender scene](blender/working/rpi_navigation_20261011_pass04_v01.blend)
+
+Pass 04 adds two bridge spans, thirteen elevated line displays, source-aware paving, entrance markers and two approximate canopy interpretations. Its source inventory preserves 95 features and 307 ordered segments, with explicit level-transition and closure reviews. Original geometry and accessibility unknowns remain unchanged. This is not yet a validated directions service; most widths and all deck heights remain unmeasured.
+
+![Navigation district](renders/rpi_navigation_20261011_pass04_district.png)
+
 ### Landmark roof pass (2026-10-11)
 
 [Pass 03 Blender file](blender/working/rpi_lowpoly_20261011_pass03_r02_v01.blend) · [Review and validation notes](blender/working/rpi_lowpoly_20261011_pass03_REVIEW.md)

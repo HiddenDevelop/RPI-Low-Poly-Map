@@ -25,6 +25,9 @@ __pycache__/
 !/renders/rpi_lowpoly_20261011_pass03_r02_greene.png
 !/renders/rpi_lowpoly_20261011_pass03_r02_jec_dcc.png
 !/renders/rpi_lowpoly_20261011_pass03_r02_union.png
+!/renders/rpi_navigation_20261011_pass04_overview.png
+!/renders/rpi_navigation_20261011_pass04_district.png
+!/renders/rpi_navigation_20261011_pass04_north_walkways.png
 /exports/*
 !/exports/.gitkeep
 !/exports/README.md
