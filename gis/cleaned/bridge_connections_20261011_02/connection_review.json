@@ -1,0 +1,372 @@
+{
+  "crs": "EPSG:26918",
+  "current_notice": {
+    "linked_drawings_status": "Box browser access denied by permission policy; drawings not inspected.",
+    "reviewed": "2026-10-11",
+    "source_url": "https://administration.rpi.edu/announcements/dcc-jec-upper-deck-walkway-closure",
+    "status": "Reopening unconfirmed; approximate duration is not an end date."
+  },
+  "datum_operation": "None; existing projected coordinates copied exactly. PDF plans remain unregistered.",
+  "geometry_gate": {
+    "allowed": false,
+    "blockers": [
+      "No verified plan-to-GIS registration",
+      "Current entrance and elevator connectivity unconfirmed",
+      "Current detour drawings unavailable"
+    ]
+  },
+  "navigation_ready": false,
+  "origin_offset": null,
+  "plan_candidates": [
+    {
+      "control_points": [],
+      "floor_correspondence": null,
+      "geographic_transform": null,
+      "geometry_edit_approved": false,
+      "id": "P1",
+      "observation": "Historical JEC 3000 balcony zones 3000B/C/D and open-to-below areas.",
+      "plans": [
+        "jonssonengctr3000.pdf"
+      ],
+      "proposal": "Review display massing for balcony and undercroft openings after geographic alignment.",
+      "residual_m": null,
+      "source_ids": [
+        "osm/way/104737241"
+      ],
+      "status": "historical_candidate_only"
+    },
+    {
+      "control_points": [],
+      "floor_correspondence": null,
+      "geographic_transform": null,
+      "geometry_edit_approved": false,
+      "id": "P2",
+      "observation": "Historical JEC 3000 and DCC 300 sheets depict vestibules and exterior approaches.",
+      "plans": [
+        "jonssonengctr3000.pdf",
+        "darrin-3.pdf"
+      ],
+      "proposal": "Verify bridge endpoints, physical floor correspondence and current closure before model or routing changes.",
+      "residual_m": null,
+      "source_ids": [
+        "osm/way/284529300",
+        "osm/node/2872820222"
+      ],
+      "status": "historical_candidate_only"
+    },
+    {
+      "control_points": [],
+      "floor_correspondence": null,
+      "geographic_transform": null,
+      "geometry_edit_approved": false,
+      "id": "P3",
+      "observation": "Greene 100 sheet depicts vestibule 100F, stair 100E and elevator 1-E near one end.",
+      "plans": [
+        "jonssonengctr3000.pdf",
+        "greene-1.pdf"
+      ],
+      "proposal": "Confirm orientation and actual approach; an elevator symbol does not establish a step-free route.",
+      "residual_m": null,
+      "source_ids": [
+        "osm/way/104737300",
+        "osm/node/2870374473"
+      ],
+      "status": "historical_candidate_only"
+    }
+  ],
+  "reviews": [
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          607938.8844914874,
+          4731663.234281491
+        ],
+        "type": "Point"
+      },
+      "id": "T1",
+      "incidence": [
+        {
+          "index": 1,
+          "layer": null,
+          "level": "1",
+          "source_id": "osm/way/283123280"
+        },
+        {
+          "index": 4,
+          "layer": null,
+          "level": null,
+          "source_id": "osm/way/287981183"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/1208043799",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          607980.6158488657,
+          4731626.932317087
+        ],
+        "type": "Point"
+      },
+      "id": "T2",
+      "incidence": [
+        {
+          "index": 0,
+          "layer": "-1",
+          "level": null,
+          "source_id": "osm/way/192678143"
+        },
+        {
+          "index": 10,
+          "layer": null,
+          "level": null,
+          "source_id": "osm/way/192678148"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/2032237534",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          607988.3339918433,
+          4731655.9984058365
+        ],
+        "type": "Point"
+      },
+      "id": "T3",
+      "incidence": [
+        {
+          "index": 1,
+          "layer": "1",
+          "level": null,
+          "source_id": "osm/way/104737300"
+        },
+        {
+          "index": 0,
+          "layer": null,
+          "level": "1",
+          "source_id": "osm/way/283123280"
+        },
+        {
+          "index": 2,
+          "layer": null,
+          "level": null,
+          "source_id": "osm/way/958903372"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/2870374473",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          608105.924668796,
+          4731637.554858795
+        ],
+        "type": "Point"
+      },
+      "id": "T4",
+      "incidence": [
+        {
+          "index": 0,
+          "layer": "-1",
+          "level": null,
+          "source_id": "osm/way/283420316"
+        },
+        {
+          "index": 1,
+          "layer": "1",
+          "level": null,
+          "source_id": "osm/way/284529300"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/2872820222",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          608079.349036337,
+          4731626.254113876
+        ],
+        "type": "Point"
+      },
+      "id": "T5",
+      "incidence": [
+        {
+          "index": 0,
+          "layer": "-1",
+          "level": "0",
+          "source_id": "osm/way/1427127624"
+        },
+        {
+          "index": 3,
+          "layer": null,
+          "level": null,
+          "source_id": "osm/way/283420318"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/2872820224",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          608097.0535302096,
+          4731638.782299176
+        ],
+        "type": "Point"
+      },
+      "id": "T6",
+      "incidence": [
+        {
+          "index": 1,
+          "layer": "1",
+          "level": null,
+          "source_id": "osm/way/283420317"
+        },
+        {
+          "index": 2,
+          "layer": null,
+          "level": null,
+          "source_id": "osm/way/284529302"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/2882579034",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          608034.2284947163,
+          4731600.646217477
+        ],
+        "type": "Point"
+      },
+      "id": "T7",
+      "incidence": [
+        {
+          "index": 0,
+          "layer": null,
+          "level": "-1",
+          "source_id": "osm/way/1437049792"
+        },
+        {
+          "index": 1,
+          "layer": null,
+          "level": "0;-1",
+          "source_id": "osm/way/1437049793"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/13208046514",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "Preserve shared source node; do not infer a usable floor transition from layer tags.",
+      "geometry": {
+        "coordinates": [
+          608047.0468452335,
+          4731598.880608457
+        ],
+        "type": "Point"
+      },
+      "id": "T8",
+      "incidence": [
+        {
+          "index": 0,
+          "layer": null,
+          "level": "0;-1",
+          "source_id": "osm/way/1437049793"
+        },
+        {
+          "index": 1,
+          "layer": "-1",
+          "level": "0",
+          "source_id": "osm/way/1437049794"
+        }
+      ],
+      "kind": "shared_node_level_review",
+      "source_node_id": "osm/node/13208046515",
+      "status": "unresolved"
+    },
+    {
+      "accessibility": null,
+      "decision": "No connection added. Crossing geometry alone does not establish connectivity.",
+      "geometry": {
+        "coordinates": [
+          608102.709417861,
+          4731637.973823881
+        ],
+        "type": "Point"
+      },
+      "id": "X1",
+      "kind": "crossing_without_shared_node",
+      "source_ids": [
+        "osm/way/104737265",
+        "osm/way/284529300"
+      ],
+      "status": "source_topology_preserved"
+    },
+    {
+      "accessibility": null,
+      "decision": "No connection added. Crossing geometry alone does not establish connectivity.",
+      "geometry": {
+        "coordinates": [
+          607991.4552179648,
+          4731655.62331505
+        ],
+        "type": "Point"
+      },
+      "id": "X2",
+      "kind": "crossing_without_shared_node",
+      "source_ids": [
+        "osm/way/104737300",
+        "osm/way/192678148"
+      ],
+      "status": "source_topology_preserved"
+    },
+    {
+      "accessibility": null,
+      "decision": "No connection added. Crossing geometry alone does not establish connectivity.",
+      "geometry": {
+        "coordinates": [
+          608086.7853853387,
+          4731640.435261196
+        ],
+        "type": "Point"
+      },
+      "id": "X3",
+      "kind": "crossing_without_shared_node",
+      "source_ids": [
+        "osm/way/283420320",
+        "osm/way/283420321"
+      ],
+      "status": "source_topology_preserved"
+    }
+  ],
+  "units": "metres"
+}
