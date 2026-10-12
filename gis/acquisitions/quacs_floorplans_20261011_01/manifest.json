@@ -1,0 +1,145 @@
+{
+  "commit": "08c82580638b3e9a3816802f3e1ba98a30383f13",
+  "acquired_utc": "2026-10-12T01:12:51.079844+00:00",
+  "repository_license": "MIT; retained LICENSE. Original drawing rights/provenance require separate review.",
+  "crs": null,
+  "ground_units": null,
+  "local_origin": null,
+  "datum_operation": "None. PDF page coordinates are not geographic coordinates.",
+  "accessibility": "Unknown; drawings are not current accessibility certification.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/LICENSE",
+      "git_blob_sha1": "79da86e40b7862661ac88a1798d9af9b7cb8ee92",
+      "sha256": "1b0e251820b49e53082d62a47092361b626db848b07a3f9e99b2d59e7798236c",
+      "bytes": 1062
+    },
+    {
+      "path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/README.md",
+      "git_blob_sha1": "7675b64050e7853a44c22b8d25032c4af113c8ba",
+      "sha256": "fa2ca6766e5953ad8b4605056bbb5a4d8af29933e8332efaffbff869a7303d9d",
+      "bytes": 224
+    },
+    {
+      "path": "darrin-1.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/darrin-1.pdf",
+      "git_blob_sha1": "a8b55a9bb88cfa5a9c1d3bee4a80afbce1431635",
+      "sha256": "354719dd9b6aa53569901e06c21994f5fa89536fa080a6719e360069f517b77f",
+      "bytes": 35069
+    },
+    {
+      "path": "darrin-2.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/darrin-2.pdf",
+      "git_blob_sha1": "67f9b75591ce809335e1f4302287453e7cad8962",
+      "sha256": "77ad316af0d53cc74c8c75bcefe43517831c9893e2cf9aef3183cb302df73004",
+      "bytes": 55913
+    },
+    {
+      "path": "darrin-3.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/darrin-3.pdf",
+      "git_blob_sha1": "e393577cb045d8dc88f7e45eda61d2ee9cb5a309",
+      "sha256": "6198e5d38a6425b9fd5281984effd38276654fde0cedaced3c866ba3fef27bb4",
+      "bytes": 85854
+    },
+    {
+      "path": "greene-1.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene-1.pdf",
+      "git_blob_sha1": "8179b290287ba5b72029869558c667ec8bcf5ee1",
+      "sha256": "75447960b1dc42a0f97dc1e1db8c7fe2358fdc030e1940343c05a8312e064d65",
+      "bytes": 24071
+    },
+    {
+      "path": "greene-2.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene-2.pdf",
+      "git_blob_sha1": "9c8f4c78dfca02f7789455a60bffe5358b9e0dc3",
+      "sha256": "f226036185f3310d6a1267422c22761e687bcc373dfb838368c0a5b75b82646f",
+      "bytes": 23287
+    },
+    {
+      "path": "greene-3.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene-3.pdf",
+      "git_blob_sha1": "f850cdff9d394fa0f677318367a651cfc3ede87a",
+      "sha256": "5d703f0530794d794edaf71d361b03c0d2bfb9a3ad75866f9e4301e6df3de09e",
+      "bytes": 17604
+    },
+    {
+      "path": "greene-4.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene-4.pdf",
+      "git_blob_sha1": "fa070fdc2c79e9203a4efa8d65c19510f7523fd6",
+      "sha256": "97497e708327b8faca0ad64f4838c5c2d505d418e86041da4f9cb3472faf0282",
+      "bytes": 12900
+    },
+    {
+      "path": "greene-b.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene-b.pdf",
+      "git_blob_sha1": "1ecb59f781e777a21d55e040034779bbef9bdbf5",
+      "sha256": "e2e3020e85594596d9b06a6ff005c68c7ec13cdecc7b89f19fb06cdef196e079",
+      "bytes": 18305
+    },
+    {
+      "path": "greene_mz.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/greene_mz.pdf",
+      "git_blob_sha1": "1a10de9d8cbe479972760f7cdd298d3c6466fb38",
+      "sha256": "47eb3582db3d291986dc510615046a0230b61a419cd5a7e6b47255a56fabf032",
+      "bytes": 14313
+    },
+    {
+      "path": "jonssonengctr1000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr1000.pdf",
+      "git_blob_sha1": "4209bf7ad9d8574e4a8cfeeed1903e1d8812bbe4",
+      "sha256": "f906a919016b811db7b0a371b86bd62b86d3d9c13e19888b03dc4ebf0d2a0f76",
+      "bytes": 48380
+    },
+    {
+      "path": "jonssonengctr2000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr2000.pdf",
+      "git_blob_sha1": "6e868afb0fa2b51a81390fb438da8042bc90a842",
+      "sha256": "9f36bb5a560f29e9597cb5ad9dcc972379d8e8d525f08cdab282f73b01694aee",
+      "bytes": 44070
+    },
+    {
+      "path": "jonssonengctr3000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr3000.pdf",
+      "git_blob_sha1": "b4f7a34a1bbbd1f182ed5a295648d9ddda504f30",
+      "sha256": "3a48e0bc97859979b3f7d440a1b511eff7cde6451adefd7cb31f53cae41299e8",
+      "bytes": 44548
+    },
+    {
+      "path": "jonssonengctr4000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr4000.pdf",
+      "git_blob_sha1": "97818e1c0f0c5b3c5bdbcddec875f20f0861fe89",
+      "sha256": "4c017c31b82c7e39ed2d3aeb4d1caf0b38060c2c238280a9112232e8e6f8b95a",
+      "bytes": 31377
+    },
+    {
+      "path": "jonssonengctr5000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr5000.pdf",
+      "git_blob_sha1": "3b156ea6290644afee3584dddf67a16e4670260f",
+      "sha256": "d0eefeb0e6a90910edd4131f01d6ec9f5e484d023732869246a34888317f8292",
+      "bytes": 29714
+    },
+    {
+      "path": "jonssonengctr6000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr6000.pdf",
+      "git_blob_sha1": "282987ff3d823e8b1ed0baa773273680e1cbee42",
+      "sha256": "5a478c4b1e8277963a876c4728efac4fd3524238f1570a62d75ffb2339633057",
+      "bytes": 35387
+    },
+    {
+      "path": "jonssonengctr7000.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr7000.pdf",
+      "git_blob_sha1": "0533c59fa2ab3375ed3e5178dee2529f8bceb871",
+      "sha256": "892441656f48d48fee9cc28e20d7b55018bbb0e36d6a2848261827e9cba38599",
+      "bytes": 31222
+    },
+    {
+      "path": "jonssonengctr_roof.pdf",
+      "source_url": "https://raw.githubusercontent.com/quacs/quacs-data/08c82580638b3e9a3816802f3e1ba98a30383f13/floor_plans/jonssonengctr_roof.pdf",
+      "git_blob_sha1": "71bc900163df192bf6d25901931fc520cece4038",
+      "sha256": "a6b1602b53b90c72927bf22bc4f0ca21f6f94d42161ed81c416af518da6c6f64",
+      "bytes": 11893
+    }
+  ]
+}
